@@ -36,6 +36,12 @@ module SampleApp
     # Configure the default encoding used in templates for Ruby 1.9.
     config.encoding = "utf-8"
 
+    if Rails.env.test?
+        initializer :after => :initialix_dependncy_mechanism do
+            ActiveSupport::Dependencies.mechanism = :load
+        end
+    end
+
     # Configure sensitive parameters which will be filtered from the log file.
     config.filter_parameters += [:password]
   end
