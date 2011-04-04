@@ -1,3 +1,0 @@
-include podbox/config/deployment.ini_tmpl
-recursive-include podbox/public *
-recursive-include podbox/templates *
