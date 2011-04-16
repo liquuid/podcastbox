@@ -2,10 +2,11 @@ require 'spec_helper'
 describe 'LayoutLinks' do
     render_views
 
+
     it "should have the right links on the layout" do
         visit root_path
         click_link "About"
-        response.should have_selector('title', :content => 'rabout')
+        response.should have_selector('title', :content => 'about')
         click_link "Help"
         response.should have_selector('title', :content => 'help')
         click_link "Contact"
