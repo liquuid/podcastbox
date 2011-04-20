@@ -60,9 +60,55 @@ Todos.mainPage = SC.Page.design({
         dividerView: SC.SplitDividerView.design({
             layout: {}
         }),
-        bottomRightView: SC.LabelView.design({
-            textAlign: SC.ALIGN_CENTER,
-            valueBinding: "Todos.taskController.description"
+        bottomRightView: SC.View.design({
+            classNames: "todolabel".w(),
+            childViews: "prompt okButton descriptionLabel descriptionText isDoneCheckbox projectCodeLabel projectCodeText projectCodeMessage".w(),
+            prompt: SC.LabelView.design({
+                layout: { top: 12, left: 20, height: 18, right: 20 },
+                value: "Edit the task below:"
+            }),
+            projectCodeLabel: SC.LabelView.design({
+                ayout: { top: 145, left: 20, width: 100, height: 18 },
+               textAlign: SC.ALIGN_RIGHT,
+               value: "Project Code:" 
+            }),
+            projectCodeText: SC.TextFieldView.design({
+                layout: { top: 145, left: 240, height: 20, width: 200 },
+                hint: "Project code 'abc-zxc' not '123', needs dash",
+                valueBinding: "Todos.taskController.projectCode",
+            }),
+            descriptionLabel: SC.LabelView.design({
+                layout: { top: 40, left: 20, width: 70, height: 18 },
+                textAlign: SC.ALIGN_RIGHT,
+                value: "Description:"
+            }),
+            projectCodeMessage: SC.LabelView.design({
+                classNames: "errorLabel".w(),
+                layout: { top: 145, left: 450, width: 400, height: 18 },
+                isVisibleBinding: "Todos.taskController.isProjectCodeMessageOn",
+                textAlign: SC.ALIGN_CENTER,
+                backgroundColor: "red",
+                valueBinding: "Todos.taskController.projectCodeMessage" 
+            }),
+            descriptionText: SC.TextFieldView.design({
+                layout: { top: 40, left: 240, height: 80, width: 600 },
+                hint: "Enter task description here".loc(),
+                isTextArea: YES,
+                valueBinding: "Todos.taskController.description"
+            }),
+            isDoneCheckbox: SC.CheckboxView.design({
+                layout: { top: 146, left: 100, right: 20, height: 40 },
+                title: "done?".loc(),
+                valueBinding: "Todos.taskController.isDone"
+            }),
+            okButton: SC.ButtonView.design({
+                layout: { bottom: 20, right: 20, width: 90, height: 24 },
+                title: "OK".loc(),
+                isDefault: YES,
+                isEnabledBinding: "Todos.taskController.isSaveOk",
+                target: "Todos.taskController",
+                action: "saveTask"
+            }),
         }),
     }),
     bottomView: SC.ToolbarView.design({
