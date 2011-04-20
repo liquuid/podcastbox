@@ -33,24 +33,38 @@ Todos.mainPage = SC.Page.design({
       })
 
     }),
-   
-    middleView: SC.ScrollView.design({
-      hasHorizontalScroller: NO,
-      layout: { top: 36, bottom: 32, left: 0, rigth: 0 },
-      backgroundColor: 'white',
-      contentView: SC.ListView.design({ 
-        contentBinding: "Todos.tasksController.arrangedObjects",
-        selectionBinding: "Todos.tasksController.selection",
-        contentValueKey: "description",
-        contentCheckboxKey: "isDone",
-        canEditContent: YES,
-        canDeleteContent: YES,
-        target: "Todos.tasksController",
-        action: "toggleDone",
-        rowHeight: 21 
-      })
-    }),
+    middleView: SC.SplitView.design({
+        layout: { left: 0, top: 36, right: 0, bottom: 32 },
+        layoutDirection: SC.LAYOUT_HORIZONTAL,
+        autoresizeBehavior: SC.RESIZE_TOP_LEFT,
+        defaultThickness: 0.8,
 
+        topLeftView: SC.ScrollView.design({
+          hasHorizontalScroller: NO,
+          layout: { top: 36, bottom: 32, left: 0, rigth: 0 },
+          backgroundColor: 'white',
+          contentView: SC.ListView.design({ 
+            contentBinding: "Todos.tasksController.arrangedObjects",
+            selectionBinding: "Todos.tasksController.selection",
+            contentValueKey: "description",
+            contentCheckboxKey: "isDone",
+            canEditContent: YES,
+            canDeleteContent: YES,
+            target: "Todos.tasksController",
+            action: "toggleDone",
+            rowHeight: 21 
+          })
+        }),
+        topLeftMinThickness: 150,
+        topLeftMaxThickness: 250,
+        dividerView: SC.SplitDividerView.design({
+            layout: {}
+        }),
+        bottomRightView: SC.LabelView.design({
+            textAlign: SC.ALIGN_CENTER,
+            valueBinding: "Todos.tasksController.summary"
+        }),
+    }),
     bottomView: SC.ToolbarView.design({
       layout: { bottom: 0, left: 0, rigth: 0, height: 32 },
       childViews: 'summaryView'.w(),
@@ -60,10 +74,8 @@ Todos.mainPage = SC.Page.design({
         layout: { centerY: 0, height: 18, left: 20, right: 20 },
         textAlign: SC.ALIGN_CENTER,
         valueBinding: "Todos.tasksController.summary",        
-        value: "Item Count"
-      })
+        value: "Item Count",
+      }),
     }),
-
-  })
-
+            }),
 });
