@@ -62,7 +62,7 @@ Todos.mainPage = SC.Page.design({
         }),
         bottomRightView: SC.LabelView.design({
             textAlign: SC.ALIGN_CENTER,
-            valueBinding: "Todos.tasksController.summary"
+            valueBinding: "Todos.taskController.description"
         }),
     }),
     bottomView: SC.ToolbarView.design({

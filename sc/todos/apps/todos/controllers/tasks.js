@@ -10,6 +10,10 @@
 
   @extends SC.ArrayController
 */
+
+Todos.taskController = SC.ObjectController.create({
+    contentBinding: SC.Binding.single('Todos.tasksController.selection'),        
+})
 Todos.tasksController = SC.ArrayController.create(
    SC.CollectionViewDelegate,
         /** @scope Todos.tasksController.prototype */ {
