@@ -3,3 +3,4 @@
 *.swp
 nbproject
 sqlite.db
+tmp
