@@ -58,7 +58,7 @@ STATIC_URL = '/static/'
 # URL prefix for admin media -- CSS, JavaScript and images. Make sure to use a
 # trailing slash.
 # Examples: "http://foo.com/media/", "/media/".
-ADMIN_MEDIA_PREFIX = '/media/'
+ADMIN_MEDIA_PREFIX = '/static/admin/'
 
 # Make this unique, and don't share it with anybody.
 SECRET_KEY = 'lmz_sy(%1a8-cc+02o+%yf2_3zxgr*ai=uw5d(4igt%59%dm!!'
@@ -96,7 +96,7 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'south',
+    #'south',
     'django.contrib.admin',
     'podbox.player'
 )

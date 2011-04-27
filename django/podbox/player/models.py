@@ -4,7 +4,7 @@ from django.db.models.signals import post_save
 
 class UserProfile(models.Model):
     user = models.ForeignKey('auth.User')
-    feeds = models.ForeignKey('Feed', null=True, blank=True)
+    feeds = models.ManyToManyField('Feed', null=True, blank=True)
 
     def __str__(self):
         return "%s's profile" % self.user
@@ -21,7 +21,10 @@ class Feed(models.Model):
     silent = models.BooleanField(default = True)
     
     def __str__(self):
-        return "%s" % self.url
+        if self.name:
+            return self.name
+        else:
+            return self.url
 
 class Episode(models.Model):
     name = models.CharField(max_length = 64)

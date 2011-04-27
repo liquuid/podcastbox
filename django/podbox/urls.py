@@ -13,6 +13,7 @@ urlpatterns = patterns('',
     #(r'^podbox/', include('podbox.foo.urls')),
     (r'^admin/', include(admin.site.urls)),
     (r'^feeds/$', ListView.as_view(model=Feed)),
+    (r'^feed_ws/(?P<user_id>.*)$', 'podbox.player.views.feed_ws'),
     (r'^$', 'podbox.player.views.index'),
 )
 """
