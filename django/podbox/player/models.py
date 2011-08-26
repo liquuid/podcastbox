@@ -9,6 +9,7 @@ class UserProfile(models.Model):
     def __str__(self):
         return "%s's profile" % self.user
 
+#codigo magico
 def create_user_profile(sender, instance, created, **kwargs):
     if created:
        profile, created = UserProfile.objects.get_or_create(user=instance)
@@ -17,17 +18,18 @@ post_save.connect(create_user_profile, sender=User)
 
 class Feed(models.Model):
     url = models.CharField(max_length = 256)
-    name = models.CharField(max_length =64, null=True, blank=True)
+    title = models.CharField(max_length =64, null=True, blank=True)
+    # ??
     silent = models.BooleanField(default = True)
     
     def __str__(self):
-        if self.name:
-            return self.name
+        if self.title:
+            return self.title
         else:
             return self.url
 
 class Episode(models.Model):
-    name = models.CharField(max_length = 64)
+    title = models.CharField(max_length = 64)
     url = models.CharField(max_length = 256)
     feeds = models.ForeignKey('Feed')
 
