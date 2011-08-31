@@ -13,7 +13,7 @@ class FeedTest(TestCase):
         self.feed = Feed.objects.create(url="http://fuuu/")
         self.feed_title = "Los mano"
         self.feed_link = "http://fuuu/"
-        self.feed_description = "mi mi mi"
+        self.feed_description = "#### mi mi mi ####"
         self.feed_pubdate = "Thu, 02 Jun 2011 02:30:51 +0000"
         self.feed_fake_xml = """
         <?xml version="1.0" encoding="UTF-8"?>
@@ -46,8 +46,24 @@ class FeedTest(TestCase):
                         <description><![CDATA[mimimimimi mimimi  ]]></description>
                                 <content:encoded><![CDATA[mememememememe emmememem ]]></content:encoded>
         <enclosure url="http://fuuuu/123.mp3" length="39295336" type="audio/mpeg" />
-                        </item>
-               </channel>
+               </item>
+               <item>
+                        <title>Episodio #2</title>
+                        <link>http://fuuu/1</link>
+                        <comments>http://fuuu/2#comments</comments>
+                        <pubDate>Thu, 02 Jun 2011 03:22:38 +0000</pubDate>
+                        <dc:creator>liquuid</dc:creator>
+                        
+                        <category><![CDATA[Podcasts]]></category>
+        
+                        <category><![CDATA[Teste]]></category>
+        
+                        <guid isPermaLink="false">http://fuuu/</guid>
+                        <description><![CDATA[mimimimimi mimimi  ]]></description>
+                                <content:encoded><![CDATA[mememememememe emmememem ]]></content:encoded>
+                        <enclosure url="http://fuuuu/123.mp3" length="39295336" type="audio/mpeg" />
+              </item>
+ </channel>
         </rss>
         """ % (self.feed_title, self.feed_link, self.feed_description, self.feed_pubdate )
 
@@ -61,7 +77,8 @@ class FeedTest(TestCase):
         self.assertEquals(self.get_link(), self.feed_link)
 
     def test_get_description(self):
-        self.assertEquals(self.get_description(), self.feed_description)
+        self.feed.raw_feed = self.feed_fake_xml
+        self.assertEquals(self.feed.get_description(), self.feed_description)
 
     def test_get_pubdate(self):
         self.assertEquals(self.get_pubdate(), self.feed_pubdate)

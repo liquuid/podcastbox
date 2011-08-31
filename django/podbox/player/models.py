@@ -1,3 +1,6 @@
+import feedparser
+from urllib2 import urlopen
+from hashlib import md5
 from django.db import models
 from django.contrib.auth.models import User
 from django.db.models.signals import post_save
@@ -17,11 +20,27 @@ def create_user_profile(sender, instance, created, **kwargs):
 post_save.connect(create_user_profile, sender=User)
 
 class Feed(models.Model):
-    url = models.CharField(max_length = 256)
-    title = models.CharField(max_length =64, null=True, blank=True)
+    url = models.CharField(max_length = 256, unique=True)
+    title = models.CharField(max_length = 64, null=True, blank=True)
+    raw_feed = "";
     # ??
     silent = models.BooleanField(default = True)
     
+    def get_feed(self):
+        try:
+            if not self.raw_feed:
+                self.raw_feed = open("feeds/%s" % md5(self.url).hexdigest(), 'r').read()
+        except:
+            fd = open("feeds/%s" % md5(self.url).hexdigest(), 'w')
+            self.raw_feed = urlopen(self.url).read()
+            fd.write(self.raw_feed)
+            fd.close()
+            
+    def get_description(self):
+        import pdb;pdb.set_trace()
+        fparser = feedparser.parse(self.raw_feed)
+        return fparser['feed']['description']
+	
     def __str__(self):
         if self.title:
             return self.title
