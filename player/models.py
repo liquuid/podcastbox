@@ -37,10 +37,24 @@ class Feed(models.Model):
             fd.close()
             
     def get_description(self):
-        import pdb;pdb.set_trace()
         fparser = feedparser.parse(self.raw_feed)
-        return fparser['feed']['description']
-	
+        return fparser.feed.description
+
+    def get_title(self):
+        fparser = feedparser.parse(self.raw_feed)
+        return fparser.feed.title
+
+    def get_link(self):
+        fparser = feedparser.parse(self.raw_feed)
+        return fparser.feed.link
+
+    def get_pubdate(self):
+        fparser = feedparser.parse(self.raw_feed)
+        try:
+            return fparser.feed.updated
+        except:
+            return fparser.entries[0].updated
+
     def __str__(self):
         if self.title:
             return self.title
