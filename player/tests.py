@@ -61,7 +61,6 @@ class FeedTest(TestCase):
         self.assertEquals(feed_test.link, self.feed_link1)
 
     def test_save_description(self):
-        #import pdb; pdb.set_trace()
         description = self.feed_description1
         self.feed._get_description = lambda: description
         self.feed._save_description()
@@ -69,8 +68,7 @@ class FeedTest(TestCase):
         self.assertEquals(feed_test.description, self.feed_description1)
 
     def test_save_pubdate(self):
-        #pubdate = self.feed_pubdate2
-        self.feed._rfc2datetime = datetime(2011, 8, 31, 5, 30,18)
+        self.feed._rfc2datetime = lambda: datetime(2011, 8, 31, 5, 30,18)
         self.feed._save_pubdate()
         feed_test = Feed.objects.latest('id')
         self.assertEquals(feed_test.pubdate.isoformat(), self.feed_pubdate_iso2)

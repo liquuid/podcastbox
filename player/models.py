@@ -74,11 +74,11 @@ class Feed(models.Model):
         self.save()
     
     def _save_pubdate(self):
-        self.pubdate = self._rfc2datetime
+        self.pubdate = self._rfc2datetime()
         self.save()
      
     def _rfc2datetime(self):
-        time_struct = strptime(self._get_pubdate().split('-')[0].strip(), "%a, %d %b %Y %H:%M:%S")
+        time_struct = strptime(self._get_pubdate()[:25], "%a, %d %b %Y %H:%M:%S")
         return datetime.fromtimestamp(mktime(time_struct))
         
 
