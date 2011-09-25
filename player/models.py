@@ -23,8 +23,8 @@ post_save.connect(create_user_profile, sender=User)
 
 class Feed(models.Model):
     url = models.CharField(max_length = 256, unique=True)
-    link = models.CharField(max_length = 256)
-    description = models.TextField(max_length = 1024)
+    link = models.CharField(max_length = 256, null=True, blank=True)
+    description = models.TextField(max_length = 1024, null=True, blank=True)
     title = models.CharField(max_length = 64, null=True, blank=True)
     pubdate = models.DateTimeField('Date of publication',null=True, blank=True)
     
