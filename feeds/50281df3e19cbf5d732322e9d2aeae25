@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/2.2" -->
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	>
+
+<channel>
+	<title>PapoTech - Podcast de Tecnologia</title>
+	<link>http://www.papotech.com.br/blog</link>
+	<description>PapoTech - Podcast sobre tecnologia, por JR Gandara e Vinicius Lobo</description>
+	<pubDate>Thu, 02 Jun 2011 02:30:51 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.2</generator>
+	<language>en</language>
+			<item>
+		<title>PapoTech #123 - Nada é tão ruim que não possa piorar</title>
+		<link>http://www.papotech.com.br/blog/?p=426</link>
+		<comments>http://www.papotech.com.br/blog/?p=426#comments</comments>
+		<pubDate>Thu, 02 Jun 2011 02:22:38 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=426</guid>
+		<description><![CDATA[
+Neste episódio, que por acidente ficou especial, falamos de Rebeca Black, recomendamos dois livros Geeks, falamos do Nintendo 3D, de aviões, da segurança no Mac, da eficiencia de nossos Correios e da Alfândega e muito mais. Infelizemente, devido a uma barbeiragem do operador da mesa de som, após 5 minutos o áudio passou a ser [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.papotech.com.br/blog/wp-content/uploads/2011/06/papotech123.jpg" alt="PapoTech #123" /></p>
+<p>Neste episódio, que por acidente ficou especial, falamos de Rebeca Black, recomendamos dois livros Geeks, falamos do Nintendo 3D, de aviões, da segurança no Mac, da eficiencia de nossos Correios e da Alfândega e muito mais. Infelizemente, devido a uma barbeiragem do operador da mesa de som, após 5 minutos o áudio passou a ser gravado pelo microfone original do iMac. Isso fez com que o PapoTech, que costuma primar pela qualidade de áudio, pulasse de um dos Podcasts com melhor som para um dos piores. E tudo isso num mesmo episódio! Mas a boa notícia é que no próximo haverá um novo operador de som, já que esse foi demitido. E se por acaso o Vinicius não estiver no próximo episódio, é porque eu dei um fim nele.</p>
+<ul>
+<li><a href="http://www.youtube.com/watch?v=CD2LRROpph0" target="_blank">Rebecca Black - Friday (Vídeo) </a></li>
+</ul>
+<ul>
+<li><a href="http://www.amazon.com/Zero-Day-Novel-Mark-Russinovich/dp/031261246X" target="_blank">Zero Day de Mark Russinovick</a></li>
+</ul>
+<ul>
+<li><a href="http://www.amazon.com/Idea-Man-Memoir-Cofounder-Microsoft/dp/1591843820/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1306981215&amp;sr=1-1" target="_blank">Idea Man de Paul Allen</a></li>
+</ul>
+<ul>
+<li><a href="http://www.microsoft.com/security/pc-security/malware-removal.aspx" target="_blank">MSRT - Malicious Software Removal Tool</a></li>
+</ul>
+<ul>
+<li><a href="http://www.imdb.com/title/tt1884035/" target="_blank">South Park Human Centipad (1501) </a></li>
+</ul>
+<p><strong>Duração 81 minutos</strong></p>
+<p><a href="http://www.papotech.com.br/podcast/papotech123.mp3" target="_blank">Episódio 123 - 64kbs (37MB)</a><br />
+<a href="http://www.papotech.com.br/podcast/papotech123.zip" target="_blank">Episódio 123 - 64kbs .ZIP (37MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a href="http://twitter.com/jrgandara" target="_blank"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=426</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech123.mp3" length="39295336" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech #122 - Matador de Baterias</title>
+		<link>http://www.papotech.com.br/blog/?p=424</link>
+		<comments>http://www.papotech.com.br/blog/?p=424#comments</comments>
+		<pubDate>Mon, 18 Apr 2011 14:00:51 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=424</guid>
+		<description><![CDATA[
+Neste episódio especulamos sobre a fabricada da Apple no Brasil, saúde de Jobs, como de costume uns casos, e outras notícias do mundo da tecnologia.
+
+Fábrica da Apple no Brasil
+Saúde de Steve Jobs
+EEStor UIltracapacitor
+Impressora 3D
+mTrip Travel Guides
+Certificados SSL
+
+Duração 72 minutos
+Episódio 122 - 64kbs (33MB)
+Episódio 122 - 64kbs .ZIP (33MB)
+Fique atualizado sobre o PapoTech pelo :
+JRGandara e Vinicius Lobo
+
+]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.papotech.com.br/blog/wp-content/uploads/2011/04/bateria.jpg" alt="PapoTech #122 - Matador de Baterias" /></p>
+<p>Neste episódio especulamos sobre a fabricada da Apple no Brasil, saúde de Jobs, como de costume uns casos, e outras notícias do mundo da tecnologia.</p>
+<ul>
+<li>Fábrica da Apple no Brasil</li>
+<li>Saúde de Steve Jobs</li>
+<li><a href="http://en.wikipedia.org/wiki/EEStor" target="_blank">EEStor UIltracapacitor</a></li>
+<li><a href="http://www.youtube.com/watch?v=HdzooQQDWGg" target="_blank">Impressora 3D</a></li>
+<li><a href="http://www.mtrip.com/" target="_blank">mTrip Travel Guides</a></li>
+<li>Certificados SSL</li>
+</ul>
+<p><strong>Duração 72 minutos</strong></p>
+<p><a href="http://www.papotech.com.br/podcast/papotech122.mp3" target="_blank">Episódio 122 - 64kbs (33MB)</a><br />
+<a href="http://www.papotech.com.br/podcast/papotech122.zip" target="_blank">Episódio 122 - 64kbs .ZIP (33MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a href="http://twitter.com/jrgandara" target="_blank"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=424</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech122.mp3" length="34550412" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech #121 - Volta das Férias</title>
+		<link>http://www.papotech.com.br/blog/?p=421</link>
+		<comments>http://www.papotech.com.br/blog/?p=421#comments</comments>
+		<pubDate>Sat, 26 Mar 2011 22:46:32 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=421</guid>
+		<description><![CDATA[
+Acabou as festas, carnaval, e finalmente estamos de volta! Não que eu tenha viajado muito, mas nosso co-host tem rodinhas no pé, e não anda parando muito por aqui. Mas  isso não importa agora, importa é que a temporada 7 do PapoTech já começou. Assuntos desse episódio:
+
+Neo cube
+
+
+Microsoft Store
+Sony Vaio Serie Y
+
+
+Como trocar Papel de [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.papotech.com.br/blog/wp-content/uploads/2011/03/papoetch121.jpg" alt="PapoTech #121" /></p>
+<p>Acabou as festas, carnaval, e finalmente estamos de volta! Não que eu tenha viajado muito, mas nosso co-host tem rodinhas no pé, e não anda parando muito por aqui. Mas  isso não importa agora, importa é que a temporada 7 do PapoTech já começou. Assuntos desse episódio:</p>
+<ul>
+<li><a target="_blank" href="http://www.youtube.com/watch?v=gidumziw4JE">Neo cube</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://www.microsoftstore.com.br/shop/pt-BR">Microsoft Store</a></li>
+<li><a target="_blank" href="http://www.sony.pt/product/vn-y-series/vpcyb1s1e-s">Sony Vaio Serie Y</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://marlonpalmas.wordpress.com/2010/01/08/como-mudar-o-wallpaper-do-windows-7-starter/">Como trocar Papel de parede no Starter</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://ricardomartins.com.br/2010/03/10/alterar-o-idioma-do-windows-7-e-vista-qualquer-versao/">Como trocar o idioma em qualquer versão do Windows 7 ou Vista</a></li>
+</ul>
+<ul>
+<li>Windows Phone (<a target="_blank" href="http://www.youtube.com/watch?v=EHlN21ebeak">Comercial</a> e <a target="_blank" href="http://www.youtube.com/watch?v=w0-pxBZBvlM">Demo</a>)</li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://www.youtube.com/watch?v=Og91woBM7pk">Android 2.3 Samsung</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://www.youtube.com/watch?v=UWwDPI2hBJo">Swype</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://www.youtube.com/watch?v=ZMRTvU17dMI">Garageband para Ipad</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://www.youtube.com/watch?v=poAMpU2EFTM">Bulling deu errado</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://www.blippitt.com/pentalobe-screwdriver-how-to-repair-your-apple-product">Hack para parafusos Pentalobe do iPhone 4</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://theheatweb.com/unfriend-finder-unfriend-facebook/">Plugin unfriend para o Facebook</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://games10-classic.blogspot.com/2009/10/como-usar-o-msn-85-sem-precisar.html">Como manter o Messenger 8.5</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://www.trillian.im/learn/tour-windows.html">Trillian</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://www.azbox.eu/">AzBox HD Premium</a> x <a target="_blank" href="http://www.sonystyle.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10151&amp;catalogId=10551&amp;langId=-1&amp;productId=8198552921666261253">Sony SMP N100</a> x <a target="_blank" href="http://www.asus.com/product.aspx?P_ID=sPkRGUeRrpiVYl5K">Asus O!Play HDP-R1</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://www.youtube.com/watch?v=riOvEe0wqUQ">Não é Brastemp</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="http://www.submarino.com.br/produto/11/21545254/telefone+sem+fio+gigaset+a580+ip+hibrido+multi-linhas+%28fixo+e+voip%29#A1">Siemens A580</a> e <a target="_blank" href="http://www.cisco.com/en/US/products/ps10027/index.html">ATA Linksys 3102</a></li>
+</ul>
+<p><strong>Duração 71 minutos</strong></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech121.mp3">Episódio 121 - 64kbs (33MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech121.zip">Episódio 121 - 64kbs .ZIP (33MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a target="_blank" href="http://twitter.com/jrgandara"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=421</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech121.mp3" length="34272556" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech em férias&#8230;</title>
+		<link>http://www.papotech.com.br/blog/?p=418</link>
+		<comments>http://www.papotech.com.br/blog/?p=418#comments</comments>
+		<pubDate>Wed, 09 Feb 2011 11:57:18 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[PapoTech]]></category>
+
+		<category><![CDATA[Notícias]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=418</guid>
+		<description><![CDATA[Como a maioria de vocês, nós também aproveitamos as festas de final de  ano para tirar umas férias merecidas. Só que um pouco mais longa, já que  estamos mais cansados que vocês (hahaha).
+Eu, já estou de volta e  trabalhando há dias, mas nosso co-host, Vinicius, está numa badalação  hemisférica. Liguei pra [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2011/02/geek-vacation.jpg" title="Férias forçadas…"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2011/02/vacation.gif" alt="Férias 2011" /></a>Como a maioria de vocês, nós também aproveitamos as festas de final de  ano para tirar umas férias merecidas. Só que um pouco mais longa, já que  estamos mais cansados que vocês (hahaha).</p>
+<p>Eu, já estou de volta e  trabalhando há dias, mas nosso co-host, Vinicius, está numa badalação  hemisférica. Liguei pra ele quinta passada e estava na Argentina, e  agora nos EUA. Onde estará Wally semana que vem? Ninguém sabe. Quando  ele cansar dessas viagens e voltar, retomaremos o Podcast como de costume, aquele que tarda mas não falha.  Afinal, já vai para seis anos e não sei por qual razão ainda insistimos  em fazer o PapoTech. Acho que porque é divertido e a audiência nos  incentiva sempre a voltar das férias… Aguardem em breve a sexta temporada.</p>
+<p>Enquanto isso, ouça nosso amigo Dr. Pimpolho opinar sobre o Facebook:</p>
+<p><span class="messageBody"><a href="http://bit.ly/hRwPa5" rel="nofollow" target="_blank">http://bit.ly/hRwPa5</a></span></p>
+<p>Abraço a todos,</p>
+<p>JR Gândara</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=418</wfw:commentRss>
+		</item>
+		<item>
+		<title>PapoTech #120 - Amigão/Amiguinho</title>
+		<link>http://www.papotech.com.br/blog/?p=414</link>
+		<comments>http://www.papotech.com.br/blog/?p=414#comments</comments>
+		<pubDate>Fri, 24 Dec 2010 02:57:43 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=414</guid>
+		<description><![CDATA[
+Neste ùltimo episódio de 2010, discutimos um pouco de tudo.
+Amiguinho Amigão
+iPad no Brasil
+Veja x Epoca para iPad
+Cut The Rope
+Angry Birds
+NeoCube
+Toobz
+Filme The Social Network (Facebook)
+Site do CRAM
+Aprenda como a HP pode facilitar sua vida 
+Duração 52 minutos
+Episódio 120 - 64kbs (24MB)
+Episódio 120 - 64kbs .ZIP (24MB)
+Fique atualizado sobre o PapoTech pelo :
+JRGandara e Vinicius Lobo
+
+]]></description>
+			<content:encoded><![CDATA[<p><strong><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/12/papo120.jpg" alt="PapoTech #120" /></strong></p>
+<p>Neste ùltimo episódio de 2010, discutimos um pouco de tudo.</p>
+<p>Amiguinho Amigão<br />
+iPad no Brasil<br />
+Veja x Epoca para iPad<br />
+Cut The Rope<br />
+Angry Birds<br />
+NeoCube<br />
+Toobz<br />
+Filme The Social Network (Facebook)<br />
+<a href="http://www.cram.org.br">Site do CRAM</a><br />
+<a href="http://www.hp.com/go/acelere" title="Acelere HP" target="_blank">Aprenda como a HP pode facilitar sua vida </a></p>
+<p><strong>Duração 52 minutos</strong></p>
+<p><a href="http://www.papotech.com.br/podcast/papotech120.mp3" target="_blank">Episódio 120 - 64kbs (24MB)</a><br />
+<a href="http://www.papotech.com.br/podcast/papotech120.zip" target="_blank">Episódio 120 - 64kbs .ZIP (24MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a href="http://twitter.com/jrgandara" target="_blank"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=414</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech120.mp3" length="24893022" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech #119 - Media Center</title>
+		<link>http://www.papotech.com.br/blog/?p=413</link>
+		<comments>http://www.papotech.com.br/blog/?p=413#comments</comments>
+		<pubDate>Fri, 19 Nov 2010 02:28:17 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=413</guid>
+		<description><![CDATA[
+Neste episódio falamos de Panetone, iPhone 4, Google, Twitter, iPad, Kinect, eleições, cadeado tecnologico, Kineth, review de media center e muitos outros assuntos.
+- Panetone Tommy (Foto)
+- The Social Network (Filme)
+- A Cabeça de Steve Jobs (Livro)
+- Microsoft Kinect
+- Inventor do Segway morre em acidente de Segway
+- Cadeado Tecnológico
+- Media Center (GPS/DVD/Rádio/TV Digital/Camera de ré/Bluetooth/iPod)
+Duração 77 [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2010/12/2010-diversas-29.jpg" title="Painel Corolla PapoTech"></a><a href="http://www.papotech.com.br/blog/wp-content/uploads/2010/12/painel_corolla.jpg" title="Papotech #119 - Painel do Corolla"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/12/painel_corolla.jpg" alt="Papotech #119 - Painel do Corolla" /></a><br />
+Neste episódio falamos de Panetone, iPhone 4, Google, Twitter, iPad, Kinect, eleições, cadeado tecnologico, Kineth, review de media center e muitos outros assuntos.</p>
+<p>- <a target="_blank" href="http://www.google.com/imgres?imgurl=http://www.gimba.com.br/imagens/imagem.asp%3Fcodprod%3D9672184%26h%3D384%26w%3D384%26tamanho%3D&amp;imgrefurl=http://www.mercadovirtual.com.br/contaClique.jsp%3Fcodproduto%3D19848851%26pmv%3D&amp;usg=__3Y6MroSXSO_ztzqD9bWeveHGLCk=&amp;h=384&amp;w=384&amp;sz=36&amp;hl=en&amp;start=0&amp;sig2=GITafphsgM1ZuqWyF9F2LQ&amp;zoom=1&amp;tbnid=8w5aMZXAN0cKuM:&amp;tbnh=156&amp;tbnw=156&amp;ei=4ejlTLTtM4K8lQepl_WhCw&amp;prev=/images%3Fq%3Dpanettone%2Btommy%26um%3D1%26hl%3Den%26client%3Dfirefox-a%26sa%3DN%26rls%3Dorg.mozilla:en-US:official%26biw%3D1263%26bih%3D828%26tbs%3Disch:1&amp;um=1&amp;itbs=1&amp;iact=hc&amp;vpx=140&amp;vpy=109&amp;dur=2177&amp;hovh=225&amp;hovw=225&amp;tx=145&amp;ty=95&amp;oei=4ejlTLTtM4K8lQepl_WhCw&amp;esq=1&amp;page=1&amp;ndsp=24&amp;ved=1t:429,r:0,s:0">Panetone Tommy</a> (Foto)<br />
+- <a target="_blank" href="http://www.imdb.com/title/tt1285016/">The Social Network</a> (Filme)<br />
+- <a target="_blank" href="http://www2.ediouro.com.br/acabecadestevejobs/">A Cabeça de Steve Jobs</a> (Livro)<br />
+- <a target="_blank" href="http://en.wikipedia.org/wiki/Kinect">Microsoft Kinect</a><br />
+- <a target="_blank" href="http://www.bbc.co.uk/news/uk-england-leeds-11416654">Inventor do Segway morre em acidente de Segway</a><br />
+- <a target="_blank" href="http://gizmodo.com/5681779/lightening-review-master-lock-speed-dial">Cadeado Tecnológico</a><br />
+- <a target="_blank" href="http://cgi.ebay.com/ebaymotors/09-11-TOYOTA-COROLLA-DVD-GPS-NAVIGATION-SD-IPOD-7-INCH-_W0QQcmdZViewItemQQhashZitem1c152efe52QQitemZ120614485586QQptZCarQ5fAudioQ5fVideo">Media Center</a> (GPS/DVD/Rádio/TV Digital/Camera de ré/Bluetooth/iPod)</p>
+<p><strong>Duração 77 minutos</strong></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech119.mp3">Episódio 119 - 64kbs (35MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech119.zip">Episódio 119 - 64kbs .ZIP (35MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a target="_blank" href="http://twitter.com/jrgandara"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=413</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech119.mp3" length="37158263" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech #118 - Live Video Stream</title>
+		<link>http://www.papotech.com.br/blog/?p=411</link>
+		<comments>http://www.papotech.com.br/blog/?p=411#comments</comments>
+		<pubDate>Thu, 07 Oct 2010 03:54:34 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=411</guid>
+		<description><![CDATA[
+
+
+
+
+]]></description>
+			<content:encoded><![CDATA[<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="440" height="354" id="utv586238" name="utv_n_527063">
+<param name="flashvars" value="loc=%2F&amp;autoplay=false&amp;vid=10043388&amp;locale=en_US"></param>
+<param name="allowfullscreen" value="true"></param>
+<param name="allowscriptaccess" value="always"></param>
+<param name="src" value="http://www.ustream.tv/flash/video/10043388?v3=1"></param><embed src="http://www.ustream.tv/flash/video/10043388?v3=1" flashvars="loc=%2F&amp;autoplay=false&amp;vid=10043388&amp;locale=en_US" width="440" height="354" allowfullscreen="true" allowscriptaccess="always" id="utv586238" name="utv_n_527063" type="application/x-shockwave-flash"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=411</wfw:commentRss>
+		</item>
+		<item>
+		<title>Episódio #117 - A Lambretta</title>
+		<link>http://www.papotech.com.br/blog/?p=409</link>
+		<comments>http://www.papotech.com.br/blog/?p=409#comments</comments>
+		<pubDate>Sat, 25 Sep 2010 03:56:53 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=409</guid>
+		<description><![CDATA[
+Neste episódio falamos das notícias da semana e da comemoração dos 5 anos do PapoTech. 
+Duração 55 minutos
+Episódio 117 - 64kbs (26MB)
+Episódio 117 - 64kbs .ZIP (26MB)
+Fique atualizado sobre o PapoTech pelo :
+JRGandara e Vinicius Lobo
+
+]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://www.papotech.com.br/blog/wp-content/uploads/2010/09/lambretta.jpg" title="PapoTech a Lambretta"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/09/lambretta.jpg" alt="PapoTech a Lambretta" /></a></strong></p>
+<p>Neste episódio falamos das notícias da semana e da comemoração dos 5 anos do PapoTech.<strong> </strong></p>
+<p><strong>Duração 55 minutos</strong></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech117.mp3">Episódio 117 - 64kbs (26MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech117.zip">Episódio 117 - 64kbs .ZIP (26MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a target="_blank" href="http://twitter.com/jrgandara"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=409</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech116.mp3" length="37275721" type="audio/mpeg" />
+<enclosure url="http://www.papotech.com.br/podcast/papotech117.mp3" length="26556500" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Episódio #116 - Pauerex</title>
+		<link>http://www.papotech.com.br/blog/?p=408</link>
+		<comments>http://www.papotech.com.br/blog/?p=408#comments</comments>
+		<pubDate>Sat, 11 Sep 2010 03:27:24 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=408</guid>
+		<description><![CDATA[
+- A Invenção da Mentira
+- Angry Birds
+- Carrington Flares
+- Google Instant
+- Triumphy of the Nerds
+- HDR Photography
+- *3001#12345#*
+- Novos iPods e Apple TV
+- Lanternas MagLite, Fenix e Surefire
+- Virtualização HP
+- Limpador Ultrasônico Chicago
+- PowerEx MH-C9000
+- Baterias Sanyo Eneloop
+- Apple Battery Charger
+Duração 77 minutos
+Episódio 116 - 64kbs (35MB)
+Episódio 116 - 64kbs .ZIP (35MB)
+Fique atualizado sobre o PapoTech pelo :
+JRGandara e Vinicius [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2010/09/papotech116.jpg" title="PapoTech #116 - Pauerex"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/09/papotech116.jpg" alt="PapoTech #116 - Pauerex" /></a></p>
+<p><a href="http://setimodia.wordpress.com/2010/01/10/filme-a-invencao-da-mentira/">- A Invenção da Mentira</a><br />
+<a href="http://itunes.apple.com/us/app/angry-birds/id343200656?mt=8">- Angry Birds</a><br />
+<a href="http://science.nasa.gov/science-news/science-at-nasa/2008/06may_carringtonflare/">- Carrington Flares</a><br />
+<a href="http://www.google.com/instant/">- Google Instant</a><br />
+<a href="http://www.evolluxdownloads.com.br/2010/04/o-triunfo-dos-nerds-historia-da.html">- Triumphy of the Nerds</a><br />
+<a href="http://en.wikipedia.org/wiki/High_dynamic_range_imaging/">- HDR Photography</a><br />
+- *3001#12345#*<br />
+<a href="http://www.apple.com/">- Novos iPods e Apple TV</a><br />
+- Lanternas <a href="http://www.maglite.com/index.asp?m=skipflash">MagLite</a>, <a href="http://www.fenixtactical.com/">Fenix</a> e <a href="http://www.surefire.com/">Surefire</a><br />
+<a href="http://www.hp.com/go/descubra " target="_blank">- Virtualização HP</a><br />
+<a href="http://www.harborfreight.com/25-liter-ultrasonic-cleaner-95563.html">- Limpador Ultrasônico Chicago</a><br />
+<a href="http://www.mahaenergy.com/store/viewitem.asp?idproduct=423">- PowerEx MH-C9000</a><br />
+<a href="http://www.eneloop.info/">- Baterias Sanyo Eneloop</a><br />
+<a href="http://www.apple.com/battery-charger/">- Apple Battery Charger</a></p>
+<p><strong>Duração 77 minutos</strong></p>
+<p><a href="http://www.papotech.com.br/podcast/papotech116.mp3" target="_blank">Episódio 116 - 64kbs (35MB)</a><br />
+<a href="http://www.papotech.com.br/podcast/papotech116.zip" target="_blank">Episódio 116 - 64kbs .ZIP (35MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a href="http://twitter.com/jrgandara" target="_blank"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=408</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech116.mp3" length="37275721" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>#115 - Celular Demais</title>
+		<link>http://www.papotech.com.br/blog/?p=406</link>
+		<comments>http://www.papotech.com.br/blog/?p=406#comments</comments>
+		<pubDate>Sun, 08 Aug 2010 22:14:08 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=406</guid>
+		<description><![CDATA[
+Neste episódio falamos um pouco de tudo, inclusive iPhone 4, Android, iPad, YouTube, Photobomb, Kindle, Alarme GSM, Auto Media Center e outros bichos.
+JailBreakMe
+Nunca Lave um tijolo em sua lavadora de roupas (Vídeo)
+Autorama Dicas &#38; Truques by JRGandara (Vídeo)
+Photobomb
+Alarm GSM
+Media Center
+Duração 52 minutos
+Episódio 115 - 64kbs (24MB)
+Episódio 115 - 64kbs .ZIP (24MB)
+Fique atualizado sobre o PapoTech pelo :
+JRGandara e Vinicius Lobo
+
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2010/08/papotech115.jpg" title="PapoTech 115"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/08/papotech115.jpg" alt="PapoTech 115" /></a></p>
+<p>Neste episódio falamos um pouco de tudo, inclusive iPhone 4, Android, iPad, YouTube, Photobomb, Kindle, Alarme GSM, Auto Media Center e outros bichos.</p>
+<p><a href="http://www.jailbreakme.com">JailBreakMe</a></p>
+<p><a href="http://www.youtube.com/watch?v=zwYW_RGWSmM">Nunca Lave um tijolo em sua lavadora de roupas</a> (Vídeo)</p>
+<p><a href="http://americanaautorama.com.br/Videos.php">Autorama Dicas &amp; Truques by JRGandara</a> (Vídeo)</p>
+<p><a href="http://www.funnyjunk.com/funny_pictures/358612/Photobomb+Face+Swap+Compilation/">Photobomb</a></p>
+<p><a href="http://cgi.ebay.com/GSM-Home-Wireless-Alarm-System-SMS-Alarm-/330452353270?pt=LH_DefaultDomain_0">Alarm GSM</a></p>
+<p><a href="http://cgi.ebay.com/ebaymotors/8-2-Din-Dash-CAR-DVD-PLAYER-GPS-NAV-Toyota-Corolla-_W0QQcmdZViewItemQQitemZ190421901813QQptZCarQ5fAudioQ5fVideo">Media Center</a></p>
+<p><strong>Duração 52 minutos</strong></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech115.mp3">Episódio 115 - 64kbs (24MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech115.zip">Episódio 115 - 64kbs .ZIP (24MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a target="_blank" href="http://twitter.com/jrgandara"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=406</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech115.mp3" length="25221841" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Episódio #114 - Segure Diferente</title>
+		<link>http://www.papotech.com.br/blog/?p=404</link>
+		<comments>http://www.papotech.com.br/blog/?p=404#comments</comments>
+		<pubDate>Sun, 11 Jul 2010 20:38:11 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=404</guid>
+		<description><![CDATA[
+Neste episódio discutimos as notícias da semana e principalmente sobre o problema de antena do iPhone 4 que se tornou assunto do momento.
+Firefox 4 Beta
+Canon Wonder Camera (Vídeo)
+Homem Cavalo no Google
+HTC EVO vs. iPhone 4 (Vídeo)
+iPhone 4 vs. HTC EVO (Vídeo)
+Desmontando o iPhone 4 em Stop Motion (Vídeo)
+Teste do vidro super resistente do iPhone 4 (Vídeo)
+Teste de download [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2010/07/papo114.jpg" title="PapoTech 114"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/07/papo114.jpg" alt="PapoTech 114" /></a><br />
+Neste episódio discutimos as notícias da semana e principalmente sobre o problema de antena do iPhone 4 que se tornou assunto do momento.</p>
+<p><a href="http://www.mozilla.com/en-US/firefox/beta/">Firefox 4 Beta</a><br />
+<a href="http://www.youtube.com/watch?v=zfsGb9SDcCU&amp;annotation_id=annotation_251005&amp;feature=iv">Canon Wonder Camera (Vídeo)</a><br />
+<a href="http://www.googlestreetview.com.br/2010/07/01/o-homem-cavalo-esta-devolta/">Homem Cavalo no Google</a><br />
+<a href="http://www.youtube.com/watch?v=UAOtC9QfXac">HTC EVO vs. iPhone 4 (Vídeo)</a><br />
+<a href="http://www.youtube.com/watch?v=FL7yD-0pqZg">iPhone 4 vs. HTC EVO (Vídeo)</a><br />
+<a href="http://www.youtube.com/watch?v=YkcLLI6Yv8I">Desmontando o iPhone 4 em Stop Motion (Vídeo)</a><br />
+<a href="http://www.youtube.com/watch?v=K7-OBoDFeDY">Teste do vidro super resistente do iPhone 4 (Vídeo)</a><br />
+<a href="http://gizmodo.com/5571171/iphone-4-loses-reception-when-you-hold-it-by-the-antenna-band">Teste de download no iPhone 4</a><br />
+<strong><br />
+Duração 57 minutos</strong></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech114.mp3">Episódio 114 - 64kbs (27MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech114.zip">Episódio 114 - 64kbs .ZIP (27MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a target="_blank" href="http://twitter.com/jrgandara"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=404</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech114.mp3" length="27252798" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech #113 - Tudo Azul</title>
+		<link>http://www.papotech.com.br/blog/?p=401</link>
+		<comments>http://www.papotech.com.br/blog/?p=401#comments</comments>
+		<pubDate>Fri, 25 Jun 2010 03:04:43 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<category><![CDATA[Notícias]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=401</guid>
+		<description><![CDATA[Neste episódio contamos alguns &#8220;causos&#8221; do JR, da Sonia e do Tio Alceu. Também temos um upadate do Fitbit, falamos de Velcro, E3, iOS4, AzBox Premium HD e mais.
+Fitbit
+Como surgiu o Velcro
+Garoto de 2 anos usando iPad
+A Cabeça de Steve Jobs
+AzBox Premium HD
+Swype
+Duração 63 minutos
+Episódio 113 - 64kbs (29MB)
+Episódio 113 - 64kbs .ZIP (29MB)
+Fique atualizado sobre o PapoTech [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2010/06/papotech113.jpg" title="PapoTech 113 - Tudo Azul"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/06/papotech113.jpg" alt="PapoTech 113 - Tudo Azul" /></a>Neste episódio contamos alguns &#8220;causos&#8221; do JR, da Sonia e do Tio Alceu. Também temos um upadate do Fitbit, falamos de Velcro, E3, iOS4, AzBox Premium HD e mais.</p>
+<p><a href="http://www.fitbit.com/">Fitbit</a></p>
+<p><a href="http://pt.wikipedia.org/wiki/Velcro">Como surgiu o Velcro</a></p>
+<p><a href="http://www.youtube.com/watch?v=YFeWxjSPv2E">Garoto de 2 anos usando iPad</a></p>
+<p><a href="http://www.livrariasaraiva.com.br/produto/produto.dll/detalhe?pro_id=2600484&amp;pac_id=25135&amp;gclid=CIetrc6huqICFQLCsgod4kUF5w">A Cabeça de Steve Jobs</a></p>
+<p><a href="http://www.azbox.com.py/home/mostra_produto.php?codigo=154">AzBox Premium HD</a></p>
+<p><a href="http://www.youtube.com/watch?v=WuP6AQPRpUg">Swype</a></p>
+<p><strong>Duração 63 minutos</strong></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech113.mp3">Episódio 113 - 64kbs (29MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech113.zip">Episódio 113 - 64kbs .ZIP (29MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a target="_blank" href="http://twitter.com/jrgandara"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=401</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech113.mp3" length="30308909" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech 112 - Ambos Enfermos</title>
+		<link>http://www.papotech.com.br/blog/?p=400</link>
+		<comments>http://www.papotech.com.br/blog/?p=400#comments</comments>
+		<pubDate>Sun, 13 Jun 2010 06:33:06 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=400</guid>
+		<description><![CDATA[
+Neste episódio, em que ambos estamos enfermos, falamos das poucas notícias da semana, essas ofuscadas pelo excesso de informações sobre as novidades da Apple na WWDC 2010.
+Twinester - nest do Papotech
+Google TV
+Scoth-Brite Microfiber Cloth
+Toalha Mágica
+Toro 53768 ECXTRA™ 6-Zone Outdoor Sprinkler Timer (valve, Popup 570 sprinkler)
+Pink Floyd Back Catalog
+Autorama - Ep. 1, Ep. 2, Demo 1, Demo 2 [...]]]></description>
+			<content:encoded><![CDATA[<p><a rel="attachment wp-att-399" href="http://www.papotech.com.br/blog/?attachment_id=399" title="PapoTech 112 - Ambos Enfermos"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/06/papotech112.jpg" alt="PapoTech 112 - Ambos Enfermos" /></a></p>
+<p>Neste episódio, em que ambos estamos enfermos, falamos das poucas notícias da semana, essas ofuscadas pelo excesso de informações sobre as novidades da Apple na WWDC 2010.</p>
+<p><a target="_blank" href="http://twinester.com" title="Twinester">Twinester</a> - <a target="_blank" href="http://twinester.com" title="Twinester"></a><a href="http://twinester.mtv.uol.com.br/papotech">nest</a><a href="http://twinester.mtv.uol.com.br/papotech"> do Papotech</a></p>
+<p><a href="http://www.engadget.com/2010/05/21/google-tv-everything-you-ever-wanted-to-know/" title="Tudo sobre Google TV">Google TV</a></p>
+<p><a href="http://solutions.3m.com/wps/portal/3M/en_US/Building-Life/Cycle/Products/Catalog/?PC_7_RJH9U52300PM102FLRECAB2K44_nid=GS687XYY4Fgs55CB2R38L3glB53898M7NLbl" title="Scoth Brite">Scoth-Brite Microfiber Cloth</a></p>
+<p><a href="http://www.toalhamagica.com.br/" title="Toalha Mágica">Toalha Mágica</a></p>
+<p><a href="http://www.toro.com/sprinklers/timers/ecxtra/53768.html" title="Sprinkler Timer">Toro 53768 ECXTRA™ 6-Zone Outdoor Sprinkler Timer</a> (<a href="http://www.toro.com/sprinklers/valves/inline/53380.html" title="Valve">valve</a>, <a href="http://www.toro.com/sprinklers/fixedspray/fixed/53818.html" title="Sprinkler">Popup 570 sprinkler</a>)</p>
+<p><a href="http://n1.cdn.spikedhumor.com/1/716000/183267_bodyart04_1.jpg" title="Back Catalog">Pink Floyd Back Catalog</a></p>
+<p>Autorama - <a href="http://www.youtube.com/watch?v=xi8HH2p68FI" title="Dicas e Truques 1">Ep. 1</a>, <a href="http://www.youtube.com/watch?v=4zpSs_XAyOo" title="Dicas e Truques 2">Ep. 2</a>, <a href="http://www.youtube.com/watch?v=O310zbFpU_I" title="Demo 1">Demo 1</a>, <a href="http://www.youtube.com/user/PY2JF#p/u/9/J5c3fow7zg8" title="Demo 2">Demo 2</a> e <a href="http://www.youtube.com/user/PY2JF#p/u/3/2hXvpZeqs7U" title="Piloto">no lugar do piloto</a></p>
+<p><a href="http://www.apple.com/iphone/features/">Apple iPhone 4</a> (iOS 4)</p>
+<p><a href="http://www.youtube.com/watch?v=uybcPhKRjcc" title="Wired Magazine para iPad">Wired Magazine para iPad</a></p>
+<p><a href="http://www.youtube.com/watch?v=avM3Aor7Ptg">Time Magazine para iPad</a></p>
+<p><strong>Duração 70 minutos</strong></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech112.mp3">Episódio 112 - 64kbs (33MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech112.zip">Episódio 112 - 64kbs .ZIP (33MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a target="_blank" href="http://twitter.com/jrgandara"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=400</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech112.mp3" length="33858248" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Episódio 111 - O Retorno</title>
+		<link>http://www.papotech.com.br/blog/?p=395</link>
+		<comments>http://www.papotech.com.br/blog/?p=395#comments</comments>
+		<pubDate>Sun, 30 May 2010 14:21:15 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=395</guid>
+		<description><![CDATA[Finalmente voltamos para fazer a temporada de 2010 do PapoTech.  Como todos sabem, uma temporada termina mais por pura falta de tempo do que porque cansamos daqueles comentaristas destrutivos de plantão. Isso tem se repetido desde 2005, e portanto prevejo que 2010 não será diferente. Mas nesta temporada, comentários serão moderados mais de perto. Não [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/bibicleta1.jpg" title="PapoTech 111"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/bibicleta1.jpg" alt="PapoTech 111" /></a>Finalmente voltamos para fazer a temporada de 2010 do PapoTech.  Como todos sabem, uma temporada termina mais por pura falta de tempo do que porque cansamos daqueles comentaristas destrutivos de plantão. Isso tem se repetido desde 2005, e portanto prevejo que 2010 não será diferente. Mas nesta temporada, comentários serão moderados mais de perto. Não importa se positivos ou negativos, mas devem ser contrutivos e educados. É só isso que pedimos em troca do trabalho que temos em fazer esse Podcast. Portanto, bem vindos &#8216;a temporada 2010 do PapoTech. Esperamos que se divirtam tanto como nós.</p>
+<ul>
+<li><a target="_blank" href="http://itunes.apple.com/us/app/prince-of-persia-retro/id373984189?mt=8">Prince of Persia Retrô</a></li>
+<li>Opções de GPS no iPhone</li>
+<li><a href="http://www.youtube.com/watch?v=-_mmX-BhU2Y" title="Explicação sobre o que é uma estrela cadente">O que é realmente uma estrela cadente (Vídeo)<br />
+</a></li>
+<li><a href="http://www.toro.com/irrigation/res/index.html" title="Sistemas de Irrigação Toro">Sistemas de irrigação automatizado</a></li>
+<li><a href="http://loja.intelbras.com.br/prod/6562/6533/6580/Micro-Central-Conecta-II-28.aspx" title="PABX Intelbrás">PABX de baixo custo Connecta</a></li>
+<li><a href="http://www.intelbras.com.br/maxcom/download/Guia_Techfone_Instalacao_22_10_08.pdf" title="Techfone">Porteiro Eletrônico Techfone da Intelbrás</a></li>
+<li><a href="http://cgi.ebay.com/Wireless-WiFi-IP-Internet-Pan-Tilt-Camera-Two-way-Audio-/140352072219?cmd=ViewItem&amp;pt=LH_DefaultDomain_0&amp;hash=item20ada2aa1b" title="Camera IP">Câmera IP robótica Wi-Fi</a></li>
+<li><a href="http://www.maglite.com/productline.asp" title="Lanternas Maglite">Lanternas Maglite</a></li>
+<li><a href="http://www.imdb.com/title/tt0898266/" title="Seriado Nerd">The Big Bang Theory</a> e <a href="http://www.imdb.com/title/tt0487831/" title="Seriado Tech">IT Crowd</a></li>
+<li>La Crosse: <a href="http://www.lacrossetechnology.com/3610ch/index.php" title="WS3610">Estação metereológica WS3610</a> x <a href="http://www.lacrossetechnology.com/9133/index.php" title="Wireless Station">Wireless Station</a></li>
+<li><a href="http://www.aquario.com.br/?action=produto/detalhe&amp;c=14&amp;s=43&amp;p=216">Antena Aquario Wex Station 2.4 GHz 17 dBi<br />
+</a></li>
+<li><a href="http://www.youtube.com/watch?v=SboCFBFpD4s&amp;feature=related" title="CQC GPS">CQC: TV LCD + GPS (Vìdeo)<br />
+</a></li>
+<li><a href="http://www.youtube.com/watch?v=vfkjHnsAsvg&amp;feature=related" title="Photoshop CS5">Adobe Photoshop CS5 (Vídeo) </a></li>
+<li>Review do iPad</li>
+</ul>
+<blockquote><p><a href="http://www.youtube.com/watch?v=vTSDPKktbUk" title="iPad + Velcro">iPad + Velcro</a></p>
+<p><a href="http://cgi.ebay.com/Micro-SIM-SIM-adapter-3FF-Mini-SIM-FREE-SHIP-/140411610670?cmd=ViewItem&amp;pt=SIM_Cards&amp;hash=item20b12f262e" title="Adaptador simcard">Adapatador de Simcard</a></p>
+<p><a href="http://www.ismashphone.com/2010/05/myfi-on-the-iphone.html" title="My-Fi">Hot Spot para iPhone My-Fi</a></p>
+<p><a href="http://cgi.ebay.com/Unlocked-Novatel-Wireless-Mifi-2372-3G-WiFi-Modem-/220592727939?cmd=ViewItem&amp;pt=PDA_Accessories&amp;hash=item335c59e783" title="MiFi Novatel">Hot Spot Novatel Mifi</a></p>
+<p>Kindle x iPad</p>
+<p><a href="http://store.apple.com/us/product/IPAD_CASE?mco=MTc0MjU1OTM" title="Case iPad Apple">Capa original da Apple</a></p>
+<p>Apps: <a href="http://itunes.apple.com/br/app/the-early-edition/id363496943?mt=8" title="Early Edition">Early Edition</a>, <a href="http://itunes.apple.com/br/app/newsrack/id288815275?mt=8">Newsrack</a>, <a href="http://itunes.apple.com/us/app/twitterrific/id284540316?mt=8">Twiterrific</a>, <a href="http://itunes.apple.com/us/app/twit/id299663499?mt=8">TWIT</a>, <a href="http://itunes.apple.com/gb/app/glass-tower-2/id368940123?mt=8">TowerGlass2 </a>e <a href="http://itunes.apple.com/us/app/usa-today-for-ipad/id364257176?mt=8">USA Today</a></p></blockquote>
+<p><strong>Duração 93 minutos</strong></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech111.mp3">Episódio 111 - 64kbs (42MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech111.zip">Episódio 111 - 64kbs .ZIP (42MB)</a></p>
+<p>Fique atualizado sobre o PapoTech pelo <a target="_blank" href="http://twitter.com/jrgandara"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/logotwitter.gif" alt="Twitter JRgandara" /></a>:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=395</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech110.mp3" length="27789560" type="audio/mpeg" />
+<enclosure url="http://www.papotech.com.br/podcast/papotech111.mp3" length="44874383" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech está de volta</title>
+		<link>http://www.papotech.com.br/blog/?p=393</link>
+		<comments>http://www.papotech.com.br/blog/?p=393#comments</comments>
+		<pubDate>Mon, 24 May 2010 13:11:26 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=393</guid>
+		<description><![CDATA[Ola! Será que têm alguém por aqui ainda?
+Pois é, novamente demos uma bela desaparecida. Eu fiquei totalmente envolvido com a finalização da minha casa nova, que mais parecia à construção de uma igreja de tanto que demorou. Também fui me meter a construtor, deu nisso. Em seguida veio a mudança, tanto para a casa nova [...]]]></description>
+			<content:encoded><![CDATA[<p><span lang="PT-BR"><font face="Calibri"><a href="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/pre111.jpg" title="Tirando a poeira dos microfones"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2010/05/pre111.jpg" alt="Tirando a poeira dos microfones" /></a>Ola! Será que têm alguém por aqui ainda?</font></span></p>
+<p><span lang="PT-BR"></span><span lang="PT-BR"><font face="Calibri">Pois é, novamente demos uma bela desaparecida. Eu fiquei totalmente envolvido com a finalização da minha casa nova, que mais parecia à construção de uma igreja de tanto que demorou. Também fui me meter a construtor, deu nisso. Em seguida veio a mudança, tanto para a casa nova como da empresa para o local novo. Então podem imaginar que foi uma reviravolta na minha vida. Só agora as coisas estão acalmando. Não que esteja tudo resolvido, mas resolvi ir mais devagar com isso senão acabo com minha saúde. </font></span><span lang="PT-BR"><font face="Calibri">Já o Vinicius, além de tudo que ele faz, resolveu abrir uma loja de roupas de grife para complicar só mais um pouquinho sua vida.</font></span></p>
+<p><span lang="PT-BR"><font face="Calibri">Nem temos almoçado juntos ultimamente. Da regularidade de uma vez por semana, acho que ao longo dessa pausa do PapoTech, almoçamos no máximo umas quatro vezes. Então podem imaginar como seria complicado manter o Podcast nessa fase. E que fase&#8230; </font></span></p>
+<p><span lang="PT-BR"></span><span lang="PT-BR"><font face="Calibri">Alguns ouvintes cobraram notícias, ou ao menos, uma explicação do porque da parada. Será possível que não tínhamos uns minutos para colocar um post aqui e explicar? Pois é, na realidade achávamos que na próxima semana voltaríamos a gravar, mas nos final das contas foram-se meses. Bom, pelo menos o pessoal que me segue no Twitter sempre recebia resposta quando perguntavam . E que ironia a imagem e título do último episódio, tudo indicava que morremos.</font></span><span lang="PT-BR"><font face="Calibri"><span> </span></font></span></p>
+<p><span lang="PT-BR"><font face="Calibri"><span></span>Mas hoje estou aqui para dar uma boa notícia aos ouvintes duro na queda do PapoTech. Voltamos às gravações nesta semana. Finalmente conversamos por telefone e concordamos que não podemos deixar esse Podcast morrer. Não só pela legião de ouvintes que nos acompanharam nesses 110 episódios, mas também pelo Tio Alceu, Sonia e por nós mesmos, que nos divertíamos demais em fazê-lo. E acreditem, estamos precisando dessa diversão de volta. Hoje almoçaremos para fechar os detalhes da retomada nas gravações, vamos tirar a poeira dos microfones, montar o estúdio e voltar a ativa ainda nesta semana. </font></span></p>
+<p><span lang="PT-BR"></span><span lang="PT-BR"><font face="Calibri">Ainda bem que nesses meses todos nada aconteceu, portanto não perdemos quase nenhum assunto interessante pra discutir. Só a Apple que parece que lançou um iPod Touch com anabolizantes que <span> </span>todos dizem que não serve pra nada. E o Google é claro, tentando dominar o mundo com seus aplicativos grátis. Mas em breve falaremos mais sobre esses assuntos desinteressantes.</font></span></p>
+<p><span lang="PT-BR"></span><span lang="PT-BR"><font face="Calibri">Abraço</font></span></p>
+<p><span lang="PT-BR"></span><span lang="PT-BR"><font face="Calibri">Jr Gandara</font></span></p>
+<p><span lang="PT-BR"></span><span lang="PT-BR"><font face="Calibri"><em>Você pode me seguir no Twitter: @jrgandara</em></font></span></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=393</wfw:commentRss>
+		</item>
+		<item>
+		<title>PapoTech 110 - Inove ou Morra</title>
+		<link>http://www.papotech.com.br/blog/?p=391</link>
+		<comments>http://www.papotech.com.br/blog/?p=391#comments</comments>
+		<pubDate>Thu, 13 Aug 2009 13:42:13 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=391</guid>
+		<description><![CDATA[
+Neste episódio falamos sobre DvDisaster, Zeo Sleep Monitor, abajur tecnologico da Philips, as notícias da semana e colocamos vários navegadores no GPS Foston FS430.
+DVDisaster
+Zeo Sleep Monitor (Vídeo)
+Philips Wake Up Light (Vídeo)
+GPS Foston FS-430 (Vídeo)
+Recado para o Barrichelo (Vídeo) impróprio para menores
+Episódio 110 - 64kbs (27MB)
+Episódio 110 - 64kbs .ZIP (27MB)
+Episódio 110 - 18kbs (7MB)
+Fique atualizado sobre o PapoTech e [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2009/08/papotech110.jpg" title="PapoTech 110 - Inove ou Morra"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2009/08/papotech110.jpg" alt="PapoTech 110 - Inove ou Morra" /></a><br />
+Neste episódio falamos sobre DvDisaster, Zeo Sleep Monitor, abajur tecnologico da Philips, as notícias da semana e colocamos vários navegadores no GPS Foston FS430.</p>
+<p><a href="http://dvdisaster.net/en/">DVDisaster</a></p>
+<p><a href="http://www.myzeo.com/pages/44_how_it_works.cfm">Zeo Sleep Monitor</a> (<a href="http://www.youtube.com/watch?v=d2LneOTswbc">Vídeo</a>)</p>
+<p><a href="http://www.wakeuplight.philips.co.uk/">Philips Wake Up Light</a> (<a href="http://www.youtube.com/watch?v=7fVG3tmnm2Y">Vídeo</a>)</p>
+<p>GPS Foston FS-430 (<a href="http://www.youtube.com/watch?v=UwSCGZ4vuC0">Vídeo</a>)</p>
+<p>Recado para o Barrichelo (<a href="http://www.youtube.com/watch?v=uWIO_Vhfvsw">Vídeo</a>) <em>impróprio para menores</em></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech110.mp3">Episódio 110 - 64kbs (27MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech110.zip">Episódio 110 - 64kbs .ZIP (27MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech110low.mp3">Episódio 110 - 18kbs (7MB)</a></p>
+<p>Fique atualizado sobre o PapoTech e dicas pelo Twitter:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=391</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech110.mp3" length="27789560" type="audio/mpeg" />
+<enclosure url="http://www.papotech.com.br/podcast/papotech110low.mp3" length="7839300" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech 109 - Uuuuh</title>
+		<link>http://www.papotech.com.br/blog/?p=390</link>
+		<comments>http://www.papotech.com.br/blog/?p=390#comments</comments>
+		<pubDate>Sat, 18 Jul 2009 16:19:51 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=390</guid>
+		<description><![CDATA[
+Neste episódio falamos um pouco do Michael Jackson, Rapidshare, Chrome OS, GPS Garmin 760 e 765, Tomtom 930 e outras notícias.
+Bouquê de noiva causa acidente de avião na Itália
+Como fazer o Moonwalk (backslide)
+Abajur tecnológico da Philips
+Como instalar o Apple OS Snow Leopard no PC
+Isso é que eu chamo de trabalho em equipe (Teamwork)
+RapidShare Library
+São Paulo 360 [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2009/07/papotech109.jpg" title="PapoTech 109 - Uuuuh"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2009/07/papotech109.jpg" alt="PapoTech 109 - Uuuuh" /></a><br />
+Neste episódio falamos um pouco do Michael Jackson, Rapidshare, Chrome OS, GPS Garmin 760 e 765, Tomtom 930 e outras notícias.</p>
+<p><a href="http://noticias.uol.com.br/bbc/2009/07/14/ult5022u2697.jhtm">Bouquê de noiva causa acidente de avião na Itália</a></p>
+<p><a href="http://www.youtube.com/watch?v=lIaLkKHxm9Q">Como fazer o Moonwalk (backslide)</a></p>
+<p><a href="http://www.youtube.com/watch?v=7fVG3tmnm2Y">Abajur tecnológico da Philips</a></p>
+<p><a href="http://osx86tuga.com/como-instalar-o-snow-leopard-da-wwdc-2009/">Como instalar o Apple OS Snow Leopard no PC</a></p>
+<p><a href="http://www.youtube.com/watch?gl=BR&amp;v=WfBlUQguvyw">Isso é que eu chamo de trabalho em equipe (Teamwork)</a></p>
+<p><a href="http://rapidlibrary.com/">RapidShare Library</a></p>
+<p><a href="http://www.br360.com.br/">São Paulo 360 Graus</a></p>
+<p>GS Garmin <a href="http://gpsmagazine.com/2007/10/garmin_nuvi_760_review.php">760</a>, <a href="http://www.gpsmagazine.com/2009/01/garmin_nuvi_755t_review.php">755</a> e <a href="http://www.gpsmagazine.com/2009/02/tomtom_go_930t_review.php">Tomtom 930</a></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech109.mp3">Episódio 109 - 64kbs (33MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech109.zip">Episódio 109 - 64kbs .ZIP (33MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech109low.mp3">Episódio 109 - 18kbs (9MB)</a></p>
+<p>Fique atualizado sobre o PapoTech e dicas pelo Twitter:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=390</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech109.mp3" length="35432571" type="audio/mpeg" />
+<enclosure url="http://www.papotech.com.br/podcast/papotech109low.mp3" length="9988849" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech 108 - A Maçã</title>
+		<link>http://www.papotech.com.br/blog/?p=388</link>
+		<comments>http://www.papotech.com.br/blog/?p=388#comments</comments>
+		<pubDate>Fri, 26 Jun 2009 01:51:41 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=388</guid>
+		<description><![CDATA[
+Neste episódio damos dicas de como comprar no eBay, falamos do Paypal e discutimos as notícias da semana.
+Autorama SCX Digital (Vídeo)
+Pastor filosofa sobre a maça da Apple
+Prestações de contas do pastor
+Paypal
+Aprendendo inglês com os Beatles (Vídeo)
+10 Festival de Aeromodelismo de Itú
+Teste com a filmadora Sony HDR-XR500V (Vídeo)
+Episódio 108 - 64kbs (24MB)
+Episódio 108 - 64kbs .ZIP (24MB)
+Episódio 108 - 18kbs (7MB)
+Fique [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2009/06/papotech108.jpg" title="PapoTech 108"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2009/06/papotech108.jpg" alt="PapoTech 108" /></a></p>
+<p>Neste episódio damos dicas de como comprar no eBay, falamos do Paypal e discutimos as notícias da semana.</p>
+<p><a href="http://www.youtube.com/watch?v=W4T_TlmsMRI">Autorama SCX Digital (Vídeo)</a></p>
+<p><a href="http://igrejainternacional.wordpress.com/2009/06/12/a-maca/">Pastor filosofa sobre a maça da Apple</a></p>
+<p><a href="http://igrejainternacional.wordpress.com/2009/06/15/prestacao-de-contas-mes-de-junho/">Prestações de contas do pastor</a></p>
+<p><a href="http://www.paypal.com/">Paypal</a></p>
+<p><a href="http://www.youtube.com/watch?v=h4qI7kb9iTY">Aprendendo inglês com os Beatles (Vídeo)</a></p>
+<p><a href="http://www.giantitu.com.br/index.htm">10 Festival de Aeromodelismo de Itú</a></p>
+<p><a href="http://www.youtube.com/watch?v=uD7sYJwK0BY">Teste com a filmadora Sony HDR-XR500V (Vídeo)</a></p>
+<p><a href="http://www.papotech.com.br/podcast/papotech108.mp3" target="_blank">Episódio 108 - 64kbs (24MB)</a><br />
+<a href="http://www.papotech.com.br/podcast/papotech108.zip" target="_blank">Episódio 108 - 64kbs .ZIP (24MB)</a><br />
+<a href="http://www.papotech.com.br/podcast/papotech108low.mp3" target="_blank">Episódio 108 - 18kbs (7MB)</a></p>
+<p>Fique atualizado sobre o PapoTech e dicas pelo Twitter:<br />
+<a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=388</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech108.mp3" length="24992577" type="audio/mpeg" />
+<enclosure url="http://www.papotech.com.br/podcast/papotech108low.mp3" length="7052696" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech 107 - PapoTech Street View</title>
+		<link>http://www.papotech.com.br/blog/?p=386</link>
+		<comments>http://www.papotech.com.br/blog/?p=386#comments</comments>
+		<pubDate>Thu, 11 Jun 2009 19:57:28 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=386</guid>
+		<description><![CDATA[
+Semana da WWDC, novos MacBooks, iPhone novo, Projeto Natal e Bing da Microsoft, Kodak Easy Share e mais notícias da semana.
+Projeto Natal da Microsoft para Xbox
+Porta Retrato Kodak Easyshare W1020
+Buscador Bing
+KNFB Reader para deficientes visuais
+Leo Laporte do TwiT perde o controle durante programa
+Episódio 107 - 64kbs (33MB)
+Episódio 107 - 64kbs .ZIP (33MB)
+Episódio 107 - 18kbs (9MB)
+Fique atualizado sobre o PapoTech [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2009/06/papotech107.jpg" title="papotech107.jpg"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2009/06/papotech107.jpg" alt="papotech107.jpg" /></a><br />
+Semana da WWDC, novos MacBooks, iPhone novo, Projeto Natal e Bing da Microsoft, Kodak Easy Share e mais notícias da semana.</p>
+<p><a href="http://www.youtube.com/watch?v=oACt9R9z37U">Projeto Natal da Microsoft para Xbox</a></p>
+<p><a href="http://www.kodak.com/eknec/PageQuerier.jhtml?pq-path=13162&amp;pq-locale=en_US&amp;_requestid=7372">Porta Retrato Kodak Easyshare W1020</a></p>
+<p><a href="http://www.bing.com">Buscador Bing</a></p>
+<p><a href="http://www.knfbreader.com/">KNFB Reader para deficientes visuais</a></p>
+<p><a href="http://www.youtube.com/watch?v=IsV-lgnAjps">Leo Laporte do TwiT perde o controle durante programa</a></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech107.mp3">Episódio 107 - 64kbs (33MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech107.zip">Episódio 107 - 64kbs .ZIP (33MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech107low.mp3">Episódio 107 - 18kbs (9MB)</a></p>
+<p>Fique atualizado sobre o PapoTech e dicas pelo Twitter:<br />
+ <a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=386</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech107.mp3" length="34225087" type="audio/mpeg" />
+<enclosure url="http://www.papotech.com.br/podcast/papotech107low.mp3" length="9649260" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>PapoTech 106 - ZZZZZ</title>
+		<link>http://www.papotech.com.br/blog/?p=384</link>
+		<comments>http://www.papotech.com.br/blog/?p=384#comments</comments>
+		<pubDate>Fri, 05 Jun 2009 02:34:17 +0000</pubDate>
+		<dc:creator>PapoTech</dc:creator>
+		
+		<category><![CDATA[Podcasts]]></category>
+
+		<category><![CDATA[PapoTech]]></category>
+
+		<guid isPermaLink="false">http://www.papotech.com.br/blog/?p=384</guid>
+		<description><![CDATA[
+Neste episódio as notícias da semana e muito mais.
+Camisetas do Sheldon do Big Bang Theory
+Media Center para automóveis
+Episódio 106 - 64kbs (23MB)
+Episódio 106 - 64kbs .ZIP (23MB)
+Episódio 106 - 18kbs (6MB)
+Fique atualizado sobre o PapoTech e dicas pelo Twitter:
+ JRGandara e Vinicius Lobo
+
+]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.papotech.com.br/blog/wp-content/uploads/2009/06/papotech106.jpg" title="PapoTech 106"><img src="http://www.papotech.com.br/blog/wp-content/uploads/2009/06/papotech106.jpg" alt="PapoTech 106" /></a><br />
+Neste episódio as notícias da semana e muito mais.</p>
+<p><a href="http://www.sheldonshirts.com/sheldon.html">Camisetas do Sheldon do Big Bang Theory</a></p>
+<p><a href="http://www.ipmart.com/main/product/Special,DVD,With,GPS,For,TOYOTA,COROLLA,,2G,SD,Card,105961.php?prod=105961">Media Center para automóveis</a></p>
+<p><a target="_blank" href="http://www.papotech.com.br/podcast/papotech106.mp3">Episódio 106 - 64kbs (23MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech106.zip">Episódio 106 - 64kbs .ZIP (23MB)</a><br />
+<a target="_blank" href="http://www.papotech.com.br/podcast/papotech106low.mp3">Episódio 106 - 18kbs (6MB)</a></p>
+<p>Fique atualizado sobre o PapoTech e dicas pelo Twitter:<br />
+ <a href="http://twitter.com/jrgandara">JRGandara</a> e <a href="http://twitter.com/viniciuslobo">Vinicius Lobo</a></p>
+<p></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.papotech.com.br/blog/?feed=rss2&amp;p=384</wfw:commentRss>
+<enclosure url="http://www.papotech.com.br/podcast/papotech106.mp3" length="24804705" type="audio/mpeg" />
+<enclosure url="http://www.papotech.com.br/podcast/papotech106low.mp3" length="6999788" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

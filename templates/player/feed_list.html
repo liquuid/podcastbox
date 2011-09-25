@@ -1,0 +1,10 @@
+{% extends "base_hp.html" %}
+
+{% block content %}
+    <h2>Feeds</h2>
+    <ul>
+        {% for feed in object_list %}
+            <li>{{ feed.name }} - {{ feed.url }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
