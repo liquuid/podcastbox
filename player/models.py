@@ -6,6 +6,7 @@ from time import strptime, mktime
 from django.db import models
 from django.contrib.auth.models import User
 from django.db.models.signals import post_save
+#from django.core.management.validation import max_length
 
 class UserProfile(models.Model):
     user = models.ForeignKey('auth.User')
@@ -17,7 +18,7 @@ class UserProfile(models.Model):
 #codigo magico
 def create_user_profile(sender, instance, created, **kwargs):
     if created:
-       profile, created = UserProfile.objects.get_or_create(user=instance)
+        profile, created = UserProfile.objects.get_or_create(user=instance)
 
 post_save.connect(create_user_profile, sender=User)
 
@@ -46,6 +47,23 @@ class Feed(models.Model):
         fparser = feedparser.parse(self._raw_feed)
         return fparser.feed.description
 
+    def _list_episodes(self):
+        # TODO: teste
+        fparser = feedparser.parse(self._raw_feed)
+        return fparser.entries
+    
+    def _create_episode(self, episode_data):
+        # TODO: teste
+        episode = Episode()
+        episode._parse_data(episode_data)
+        episode
+        episode.save()
+        
+    def _create_episodes(self):
+        # TODO: teste
+        for episode_data in self._list_episodes:
+            self._create_episode(episode_data)
+            
     def _get_title(self):
         fparser = feedparser.parse(self._raw_feed)
         return fparser.feed.title
@@ -91,7 +109,15 @@ class Feed(models.Model):
 class Episode(models.Model):
     title = models.CharField(max_length = 64)
     url = models.CharField(max_length = 256)
-    feeds = models.ForeignKey('Feed')
-
+    updated = models.DateTimeField()
+    summary = models.TextField(max_length = 512, null=True, blank=True)
+    feeds = models.ForeignKey('Feed') 
+    
+    def _parse_data(self, data):
+        self.title = data['title']
+        self.url = data['link']
+        self.updated = strptime(data['updated'][:25], "%a, %d %b %Y %H:%M:%S")
+        self.sumary = data['sumary']
+        
     def __str__(self):
-        return "%s of %s" % (self.name, self.podcast.name)
+        return "%s of %s" % (self.title)
