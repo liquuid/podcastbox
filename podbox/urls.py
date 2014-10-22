@@ -1,11 +1,9 @@
-from django.conf.urls.defaults import *
 from django.contrib import admin
-#from django.conf.urls.static import static
+from django.conf.urls import patterns, include, url
 import django.contrib.staticfiles
 import settings
 from django.views.generic import ListView
 from player.models import *
-
 
 admin.autodiscover()
 urlpatterns = patterns('',
@@ -13,8 +11,8 @@ urlpatterns = patterns('',
     #(r'^podbox/', include('podbox.foo.urls')),
     (r'^admin/', include(admin.site.urls)),
     (r'^feeds/$', ListView.as_view(model=Feed)),
-    (r'^feed_ws/(?P<user_id>.*)$', 'podbox.player.views.feed_ws'),
-    (r'^$', 'podbox.player.views.index'),
+    (r'^feed_ws/(?P<user_id>.*)$', 'player.views.feed_ws'),
+    (r'^$', 'player.views.index'),
 )
 """
 if settings.DEBUG or settings.DATABASE_NAME.startswith("test_"):

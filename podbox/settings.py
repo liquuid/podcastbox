@@ -67,7 +67,6 @@ SECRET_KEY = 'lmz_sy(%1a8-cc+02o+%yf2_3zxgr*ai=uw5d(4igt%59%dm!!'
 TEMPLATE_LOADERS = (
     'django.template.loaders.filesystem.Loader',
     'django.template.loaders.app_directories.Loader',
-#     'django.template.loaders.eggs.Loader',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -76,8 +75,6 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
-    'django.middleware.csrf.CsrfResponseMiddleware',
-
 )
 
 ROOT_URLCONF = 'podbox.urls'
@@ -87,7 +84,7 @@ TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
-    "/home/liquuid/devel/podbox/django/podbox/templates"
+    "/home/liquuid/devel/podbox/templates", 
 )
 
 INSTALLED_APPS = (
@@ -97,7 +94,6 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    #'south',
     'django.contrib.admin',
-    'podbox.player'
+    'player'
 )
