@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import feedparser
 from urllib2 import urlopen
 from hashlib import md5
@@ -21,6 +22,23 @@ def create_user_profile(sender, instance, created, **kwargs):
         profile, created = UserProfile.objects.get_or_create(user=instance)
 
 post_save.connect(create_user_profile, sender=User)
+
+
+class Episode(models.Model):
+    title = models.CharField(max_length = 64)
+    url = models.CharField(max_length = 256)
+    updated = models.DateTimeField()
+    summary = models.TextField(max_length = 512, null=True, blank=True)
+    feeds = models.ForeignKey('Feed') 
+    
+    def _parse_data(self, data):
+        self.title = data['title']
+        self.url = data['link']
+        self.updated = datetime.strptime(data['updated'][:25], "%a, %d %b %Y %H:%M:%S")
+        self.summary = data['summary']
+        
+    def __str__(self):
+        return "%s" % (self.title)
 
 class Feed(models.Model):
     url = models.CharField(max_length = 256, unique=True)
@@ -56,12 +74,12 @@ class Feed(models.Model):
         # TODO: teste
         episode = Episode()
         episode._parse_data(episode_data)
-        episode
+        episode.feeds = self
         episode.save()
         
     def _create_episodes(self):
         # TODO: teste
-        for episode_data in self._list_episodes:
+        for episode_data in self._list_episodes():
             self._create_episode(episode_data)
             
     def _get_title(self):
@@ -106,18 +124,4 @@ class Feed(models.Model):
         else:
             return self.url
 
-class Episode(models.Model):
-    title = models.CharField(max_length = 64)
-    url = models.CharField(max_length = 256)
-    updated = models.DateTimeField()
-    summary = models.TextField(max_length = 512, null=True, blank=True)
-    feeds = models.ForeignKey('Feed') 
-    
-    def _parse_data(self, data):
-        self.title = data['title']
-        self.url = data['link']
-        self.updated = strptime(data['updated'][:25], "%a, %d %b %Y %H:%M:%S")
-        self.sumary = data['sumary']
-        
-    def __str__(self):
-        return "%s of %s" % (self.title)
+
