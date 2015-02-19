@@ -1,5 +1,6 @@
 import os
 import sys
+import django
 reload(sys)
 sys.setdefaultencoding('utf-8')
 # Django settings for podbox project.
@@ -13,6 +14,7 @@ ADMINS = (
 
 MANAGERS = ADMINS
 SITE_ROOT = os.path.dirname(os.path.realpath(__file__))
+DJANGO_ROOT = os.path.dirname(os.path.realpath(django.__file__))
 
 DATABASES = {
     'default': {
@@ -87,7 +89,7 @@ TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
-    "/home/liquuid/devel/podbox/templates", 
+    os.path.join(SITE_ROOT, 'templates'),
 )
 
 INSTALLED_APPS = (
