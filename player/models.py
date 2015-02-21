@@ -33,7 +33,7 @@ class Episode(models.Model):
     
     def _parse_data(self, data):
         self.title = data['title']
-        self.url = data['link']
+        self.url = data["links"][1]["href"]
         self.updated = datetime.strptime(data['updated'][:25], "%a, %d %b %Y %H:%M:%S")
         self.summary = data['summary']
         
@@ -51,6 +51,10 @@ class Feed(models.Model):
     # ??
     silent = models.BooleanField(default = True)
     
+    def update_episodes(self):
+        self._get_feed()
+        self._create_episodes()
+
     def _get_feed(self):
         try:
             if not self._raw_feed:
@@ -74,8 +78,12 @@ class Feed(models.Model):
         # TODO: teste
         episode = Episode()
         episode._parse_data(episode_data)
-        episode.feeds = self
-        episode.save()
+        try:
+            Episode.objects.get(url=episode.url)
+            print "ja existe"
+        except:
+            episode.feeds = self
+            episode.save()
         
     def _create_episodes(self):
         # TODO: teste
