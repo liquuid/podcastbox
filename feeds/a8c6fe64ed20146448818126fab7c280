@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 	<atom:link href="http://www.meujogonaosalva.net/category/sound-test/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.meujogonaosalva.net/category/sound-test/</link>
 	<description>Este feed possui apenas episódios do BGMCast</description>
-	<lastBuildDate>Thu, 19 Feb 2015 04:00:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Feb 2015 09:07:27 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -42,6 +42,90 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 	<itunes:category text="Technology" />
 	<itunes:category text="Comedy" />
 	<item>
+		<title>BGMCast #018 &#8211; Esquadrão Relâmpago Changeman</title>
+		<link>http://www.meujogonaosalva.net/2015/02/21/bgmcast-018-esquadrao-relampago-changeman/</link>
+		<comments>http://www.meujogonaosalva.net/2015/02/21/bgmcast-018-esquadrao-relampago-changeman/#comments</comments>
+		<pubDate>Sat, 21 Feb 2015 09:07:27 +0000</pubDate>
+		<dc:creator><![CDATA[liquuid]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[changeman]]></category>
+		<category><![CDATA[tokusatsu]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=792</guid>
+		<description><![CDATA[Nesse episódio fiz uma homenagem aos 30 anos da estreia de Changeman no Japão Senppu no Ginga Dai Seidan Gosma Earth Force Changeman Tanjou Yume Wa Dekkaku Shinryuku Mono Yuugen Hiddler Hei Seishun no Yakudou Densetsu no Mamoru Gojin Gekitotsu Atsuki Yuusha Tachi Lady Soldier Shumei no nana Ahames Kimi Yo Utsukushiki Are Omoide no <a href='http://www.meujogonaosalva.net/2015/02/21/bgmcast-018-esquadrao-relampago-changeman/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<p>Nesse episódio fiz uma homenagem aos 30 anos da estreia de Changeman no Japão</p>
+<p>Senppu no Ginga<br />
+Dai Seidan Gosma<br />
+Earth Force<br />
+Changeman Tanjou<br />
+Yume Wa Dekkaku<br />
+Shinryuku Mono<br />
+Yuugen Hiddler Hei<br />
+Seishun no Yakudou<br />
+Densetsu no Mamoru Gojin</p>
+<p>Gekitotsu<br />
+Atsuki Yuusha Tachi<br />
+Lady Soldier<br />
+Shumei no nana<br />
+Ahames Kimi Yo Utsukushiki Are<br />
+Omoide no Soudake<br />
+Yami Kara no Yobikoe<br />
+Kanashumi Uchuu Juushi<br />
+Ore Tachi wa Makenai!<br />
+Oigeki</p>
+<p>Isoge! Kessen No jie!<br />
+Let&#8217;s Change<br />
+Shutter Base Hasshin<br />
+Fight Change Robo<br />
+Asteroid Memory<br />
+Shouke! Uchuu e</p>
+<p>Never Stop Changeman</p>
+<p>apresentação: liquuid</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/02/21/bgmcast-018-esquadrao-relampago-changeman/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/02/bgmcast-018.mp3" length="71818572" type="audio/mpeg" />
+		<itunes:subtitle>Nesse episódio fiz uma homenagem aos 30 anos da estreia de Changeman no Japão - Senppu no Ginga Dai Seidan Gosma Earth Force Changeman Tanjou Yume Wa Dekkaku Shinryuku Mono Yuugen Hiddler Hei Seishun no Yakudou Densetsu no Mamoru Gojin - </itunes:subtitle>
+		<itunes:summary>Nesse episódio fiz uma homenagem aos 30 anos da estreia de Changeman no Japão
+
+Senppu no Ginga
+Dai Seidan Gosma
+Earth Force
+Changeman Tanjou
+Yume Wa Dekkaku
+Shinryuku Mono
+Yuugen Hiddler Hei
+Seishun no Yakudou
+Densetsu no Mamoru Gojin
+
+Gekitotsu
+Atsuki Yuusha Tachi
+Lady Soldier
+Shumei no nana
+Ahames Kimi Yo Utsukushiki Are
+Omoide no Soudake
+Yami Kara no Yobikoe
+Kanashumi Uchuu Juushi
+Ore Tachi wa Makenai!
+Oigeki
+
+Isoge! Kessen No jie!
+Let&#039;s Change
+Shutter Base Hasshin
+Fight Change Robo
+Asteroid Memory
+Shouke! Uchuu e
+
+Never Stop Changeman
+
+apresentação: liquuid</itunes:summary>
+		<itunes:author>Otavio Modolo, Rafael Dias &amp; Sammy Davila</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<rawvoice:poster url="http://www.meujogonaosalva.net/wp-content/uploads/2015/01/bgmcast018.png" />
+	</item>
+		<item>
 		<title>BGMCast #017</title>
 		<link>http://www.meujogonaosalva.net/2015/02/14/bgmcast-017/</link>
 		<comments>http://www.meujogonaosalva.net/2015/02/14/bgmcast-017/#comments</comments>

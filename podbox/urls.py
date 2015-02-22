@@ -12,8 +12,9 @@ urlpatterns = patterns('',
     (r'^admin/', include(admin.site.urls)),
     (r'^feeds/$', ListView.as_view(model=Feed)),
     (r'^updatefeed/(?P<feed_id>.*)$', 'player.views.update_feed'),
-    (r'^feed_ws/(?P<user_id>.*)$', 'player.views.feed_ws'),
-    (r'^episodes_tl_ws/(?P<user_id>.*)$', 'player.views.episodes_time_line'),
+    (r'^feed_ws/$', 'player.views.feed_ws'),
+    (r'^episodes_tl_ws/$', 'player.views.episodes_time_line'),
+    (r'^episodes_playlist/$', 'player.views.episodes_playlist'),
     (r'^$', 'player.views.index'),
 )
 """

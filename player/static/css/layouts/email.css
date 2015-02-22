@@ -132,6 +132,9 @@ a {
 
 
 /* Email Item Styles */
+.email-item:hover {
+    background-color: #eee;
+}
 .email-item {
     padding: 0.9em 1em;
     border-bottom: 1px solid #ddd;

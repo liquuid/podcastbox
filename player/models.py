@@ -23,13 +23,23 @@ def create_user_profile(sender, instance, created, **kwargs):
 
 post_save.connect(create_user_profile, sender=User)
 
+class UserEpisode(models.Model):
+    episode = models.ForeignKey('Episode')
+    is_new = models.BooleanField(default = True)
+    favorite = models.BooleanField(default = False)
+
+class UserFeed(models.Model):
+    episode = models.ForeignKey('Feed')
+    favorite = models.BooleanField(default = False)
+    silent = models.BooleanField(default = False)
+
 
 class Episode(models.Model):
     title = models.CharField(max_length = 64)
     url = models.CharField(max_length = 256)
     updated = models.DateTimeField()
     summary = models.TextField(max_length = 512, null=True, blank=True)
-    feeds = models.ForeignKey('Feed') 
+    feeds = models.ForeignKey('Feed')
     
     def _parse_data(self, data):
         self.title = data['title']
@@ -40,17 +50,21 @@ class Episode(models.Model):
     def __str__(self):
         return "%s" % (self.title)
 
+class Category(models.Model):
+    name = models.CharField(max_length = 256, unique=True)
+    def __str__(self):
+        return "%s" % (self.name)
+
 class Feed(models.Model):
     url = models.CharField(max_length = 256, unique=True)
     link = models.CharField(max_length = 256, null=True, blank=True)
     description = models.TextField(max_length = 1024, null=True, blank=True)
     title = models.CharField(max_length = 64, null=True, blank=True)
     pubdate = models.DateTimeField('Date of publication',null=True, blank=True)
+    category = models.ForeignKey('Category')
     
     _raw_feed = "";
-    # ??
-    silent = models.BooleanField(default = True)
-    
+
     def update_episodes(self):
         self._get_feed()
         self._create_episodes()
