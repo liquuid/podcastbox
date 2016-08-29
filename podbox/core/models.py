@@ -1,3 +1,5 @@
+from django.db import models
+
 # -*- coding: utf-8 -*-
 import feedparser
 from urllib.request import urlopen
@@ -7,7 +9,9 @@ from time import strptime, mktime
 from django.db import models
 from django.contrib.auth.models import User
 from django.db.models.signals import post_save
-#from django.core.management.validation import max_length
+
+
+# from django.core.management.validation import max_length
 
 class UserProfile(models.Model):
     user = models.ForeignKey('auth.User')
@@ -16,53 +20,60 @@ class UserProfile(models.Model):
     def __str__(self):
         return "%s's profile" % self.user
 
-#codigo magico
+
+# codigo magico
 def create_user_profile(sender, instance, created, **kwargs):
     if created:
         profile, created = UserProfile.objects.get_or_create(user=instance)
 
+
 post_save.connect(create_user_profile, sender=User)
+
 
 class UserEpisode(models.Model):
     episode = models.ForeignKey('Episode')
-    is_new = models.BooleanField(default = True)
-    favorite = models.BooleanField(default = False)
+    is_new = models.BooleanField(default=True)
+    favorite = models.BooleanField(default=False)
+
 
 class UserFeed(models.Model):
     episode = models.ForeignKey('Feed')
-    favorite = models.BooleanField(default = False)
-    silent = models.BooleanField(default = False)
+    favorite = models.BooleanField(default=False)
+    silent = models.BooleanField(default=False)
 
 
 class Episode(models.Model):
-    title = models.CharField(max_length = 64)
-    url = models.CharField(max_length = 256)
+    title = models.CharField(max_length=64)
+    url = models.CharField(max_length=256)
     updated = models.DateTimeField()
-    summary = models.TextField(max_length = 512, null=True, blank=True)
+    summary = models.TextField(max_length=512, null=True, blank=True)
     feeds = models.ForeignKey('Feed')
-    
+
     def _parse_data(self, data):
         self.title = data['title']
         self.url = data["links"][1]["href"]
         self.updated = datetime.strptime(data['updated'][:25], "%a, %d %b %Y %H:%M:%S")
         self.summary = data['summary']
-        
+
     def __str__(self):
         return "%s" % (self.title)
 
+
 class Category(models.Model):
-    name = models.CharField(max_length = 256, unique=True)
+    name = models.CharField(max_length=256, unique=True)
+
     def __str__(self):
         return "%s" % (self.name)
 
+
 class Feed(models.Model):
-    url = models.CharField(max_length = 256, unique=True)
-    link = models.CharField(max_length = 256, null=True, blank=True)
-    description = models.TextField(max_length = 1024, null=True, blank=True)
-    title = models.CharField(max_length = 64, null=True, blank=True)
-    pubdate = models.DateTimeField('Date of publication',null=True, blank=True)
+    url = models.CharField(max_length=256, unique=True)
+    link = models.CharField(max_length=256, null=True, blank=True)
+    description = models.TextField(max_length=1024, null=True, blank=True)
+    title = models.CharField(max_length=64, null=True, blank=True)
+    pubdate = models.DateTimeField('Date of publication', null=True, blank=True)
     category = models.ForeignKey('Category')
-    
+
     _raw_feed = "";
 
     def update_episodes(self):
@@ -78,7 +89,7 @@ class Feed(models.Model):
             self._raw_feed = urlopen(self.url).read()
             fd.write(self._raw_feed)
             fd.close()
-            
+
     def _get_description(self):
         fparser = feedparser.parse(self._raw_feed)
         return fparser.feed.description
@@ -87,7 +98,7 @@ class Feed(models.Model):
         # TODO: teste
         fparser = feedparser.parse(self._raw_feed)
         return fparser.entries
-    
+
     def _create_episode(self, episode_data):
         # TODO: teste
         episode = Episode()
@@ -98,12 +109,12 @@ class Feed(models.Model):
         except:
             episode.feeds = self
             episode.save()
-        
+
     def _create_episodes(self):
         # TODO: teste
         for episode_data in self._list_episodes():
             self._create_episode(episode_data)
-            
+
     def _get_title(self):
         fparser = feedparser.parse(self._raw_feed)
         return fparser.feed.title
@@ -118,7 +129,7 @@ class Feed(models.Model):
             return fparser.feed.updated
         except:
             return fparser.entries[0].updated
-    
+
     def _save_description(self):
         self.description = self._get_description()
         self.save()
@@ -130,20 +141,20 @@ class Feed(models.Model):
     def _save_title(self):
         self.title = self._get_title()
         self.save()
-    
+
     def _save_pubdate(self):
         self.pubdate = self._rfc2datetime()
         self.save()
-     
+
     def _rfc2datetime(self):
         time_struct = strptime(self._get_pubdate()[:25], "%a, %d %b %Y %H:%M:%S")
         return datetime.fromtimestamp(mktime(time_struct))
-        
 
     def __str__(self):
         if self.title:
             return self.title
         else:
             return self.url
+
 
 

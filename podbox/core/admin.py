@@ -1,8 +1,8 @@
+# Register your models here.
 # -*- coding: utf-8 -*-
 
 from django.contrib import admin
-
-from player.models import *
+from podbox.core.models import *
 
 admin.site.register(UserProfile)
 admin.site.register(Feed)
