@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import feedparser
-from urllib2 import urlopen
+from urllib.request import urlopen
 from hashlib import md5
 from datetime import datetime
 from time import strptime, mktime
@@ -94,7 +94,7 @@ class Feed(models.Model):
         episode._parse_data(episode_data)
         try:
             Episode.objects.get(url=episode.url)
-            print "ja existe"
+            print("ja existe")
         except:
             episode.feeds = self
             episode.save()

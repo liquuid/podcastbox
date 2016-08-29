@@ -1,22 +1,22 @@
 from django.contrib import admin
-from django.conf.urls import patterns, include, url
+from django.conf.urls import include, url
 import django.contrib.staticfiles
-import settings
+#import settings
 from django.views.generic import ListView
 from player.models import *
 
 admin.autodiscover()
-urlpatterns = patterns('',
+urlpatterns = [
     # Example:
     #(r'^podbox/', include('podbox.foo.urls')),
-    (r'^admin/', include(admin.site.urls)),
-    (r'^feeds/$', ListView.as_view(model=Feed)),
-    (r'^updatefeed/(?P<feed_id>.*)$', 'player.views.update_feed'),
-    (r'^feed_ws/$', 'player.views.feed_ws'),
-    (r'^episodes_tl_ws/$', 'player.views.episodes_time_line'),
-    (r'^episodes_playlist/$', 'player.views.episodes_playlist'),
-    (r'^$', 'player.views.index'),
-)
+    url(r'^admin/', include(admin.site.urls)),
+    url(r'^feeds/$', ListView.as_view(model=Feed)),
+    url(r'^updatefeed/(?P<feed_id>.*)$', 'player.views.update_feed'),
+    url(r'^feed_ws/$', 'player.views.feed_ws'),
+    url(r'^episodes_tl_ws/$', 'player.views.episodes_time_line'),
+    url(r'^episodes_playlist/$', 'player.views.episodes_playlist'),
+    url(r'^$', 'player.views.index'),
+]
 """
 if settings.DEBUG or settings.DATABASE_NAME.startswith("test_"):
     import os

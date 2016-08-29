@@ -1,8 +1,8 @@
 import os
 import sys
 import django
-reload(sys)
-sys.setdefaultencoding('utf-8')
+#reload(sys)
+#sys.setdefaultencoding('utf-8')
 # Django settings for podbox project.
 
 DEBUG = True
