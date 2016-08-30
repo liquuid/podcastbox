@@ -11,6 +11,27 @@ def suite():
     suite.addTest(doctest.DocTestSuite(models))
     return suite
 
+class EpisodeTest(TestCase):
+    def setUp(self):
+        self.title = "Episodio1"
+        self.url = "http://"
+        self.updated = datetime.datetime.now()
+        self.summary = "yadayadayadayadayada"
+        self.feeds = Feed()
+
+    def tearDown(self):
+        pass
+    """
+        def _parse_data(self, data):
+            self.title = data['title']
+            self.url = data["links"][1]["href"]
+            self.updated = datetime.strptime(data['updated'][:25].strip(), "%a, %d %b %Y %H:%M:%S")
+            self.summary = data['summary']
+
+        def __str__(self):
+            return "%s" % (self.title)
+    """
+
 class FeedTest(TestCase):
     def setUp(self):
         self.category = Category()
