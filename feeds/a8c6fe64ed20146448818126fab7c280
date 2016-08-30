@@ -7,6 +7,7 @@
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
 >
 
 <channel>
@@ -14,21 +15,20 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 	<atom:link href="http://www.meujogonaosalva.net/category/sound-test/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.meujogonaosalva.net/category/sound-test/</link>
 	<description>Este feed possui apenas episódios do BGMCast</description>
-	<lastBuildDate>Sat, 21 Feb 2015 09:07:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Jul 2016 05:00:53 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.1.1</generator>
-<!-- podcast_generator="Blubrry PowerPress/6.0.1" mode="advanced" -->
+	<generator>https://wordpress.org/?v=4.5.3</generator>
+<!-- podcast_generator="Blubrry PowerPress/7.0.1" mode="advanced" category="548" -->
 	<itunes:summary>Neste podcast falamos majoritariamente sobre games e tópicos relacionados mas podemos citar outros assuntos nerds como filmes, animes, seriados, tecnologias relacionadas entre outros. Episódios fora de contexto podem ocorrer de vez em quando. Tudo sempre com um bom humor para você, ouvinte, aproveitar esse fantástico mundo das nerdices!</itunes:summary>
-	<itunes:author>Otavio Modolo, Rafael Dias &amp; Sammy Davila</itunes:author>
-	<itunes:explicit>no</itunes:explicit>
+	<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
 	<itunes:image href="http://www.meujogonaosalva.net/wp-content/uploads/2014/01/Cast-tunes-Cover.jpg" />
 	<itunes:owner>
-		<itunes:name>Otavio Modolo, Rafael Dias &amp; Sammy Davila</itunes:name>
+		<itunes:name>Otavio Modolo &amp; Rafael Dias</itunes:name>
 		<itunes:email>meujogonaosalva@gmail.com</itunes:email>
 	</itunes:owner>
-	<managingEditor>meujogonaosalva@gmail.com (Otavio Modolo, Rafael Dias &amp; Sammy Davila)</managingEditor>
+	<managingEditor>meujogonaosalva@gmail.com (Otavio Modolo &amp; Rafael Dias)</managingEditor>
 	<copyright>Copyright &#xA9; Meu Jogo Não Salva 2014</copyright>
 	<itunes:subtitle>Podcast sobre games, noticias de games e relacionados. Neste feed vc receberá o MJNS, o JEMF e o BGMCast</itunes:subtitle>
 	<image>
@@ -41,10 +41,1248 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 	</itunes:category>
 	<itunes:category text="Technology" />
 	<itunes:category text="Comedy" />
+	<rawvoice:subscribe feed="http://www.meujogonaosalva.net/category/sound-test/feed/" itunes="http://itunes.apple.com/podcast/meu-jogo-nao-salva/id794982470"></rawvoice:subscribe>
 	<item>
+		<title>MJNS entra em hiato</title>
+		<link>http://www.meujogonaosalva.net/2015/10/22/mjns-entra-em-hiato/</link>
+		<comments>http://www.meujogonaosalva.net/2015/10/22/mjns-entra-em-hiato/#comments</comments>
+		<pubDate>Thu, 22 Oct 2015 04:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Mjns e Jemf]]></category>
+		<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=1137</guid>
+		<description><![CDATA[Olá pessoal! Venho aqui dar esta triste porém momentânea notícia. O podcast entrará em hiato por um tempo. O motivo principal é a crise em que o país se encontra e que está nos afetando mais do que gostaríamos. Graças a isso estamos tendo que desprender mais tempo para nossa vida profissional e estamos ficando <a href='http://www.meujogonaosalva.net/2015/10/22/mjns-entra-em-hiato/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<p>Olá pessoal! Venho aqui dar esta triste porém momentânea notícia. O podcast entrará em hiato por um tempo. O motivo principal é a crise em que o país se encontra e que está nos afetando mais do que gostaríamos. Graças a isso estamos tendo que desprender mais tempo para nossa vida profissional e estamos ficando sem tempo para fazer o podcast (e que é algo que nos toma uma quantidade considerável de tempo). Sendo assim, estaremos dando esta pequena pausa até que as coisas voltem aos trilhos. Isso não quer dizer que ficaremos ausentes até que as coisas se normalizem! Temos a intenção de colocar podcasts no ar de forma esporádicas sem garantir periodicidade. Então, nos vemos no próximo podcast que vai sair não sei quando XD (espero que mais pra cá do que pra lá!). Enquanto isso, estamos nos esforçando nos 5 min que temos pra jogar noticias <a href="https://www.facebook.com/groups/salaomemorycardruim/">lá no nosso grupo no facebook</a>! Acesse e converse com a gente!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/10/22/mjns-entra-em-hiato/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/10/mjns.mp3" length="1432911" type="audio/mpeg" />
+		<itunes:subtitle>Olá pessoal! Venho aqui dar esta triste porém momentânea notícia. O podcast entrará em hiato por um tempo. O motivo principal é a crise em que o país se encontra e que está nos afetando mais do que gostaríamos.</itunes:subtitle>
+		<itunes:summary>Olá pessoal! Venho aqui dar esta triste porém momentânea notícia. O podcast entrará em hiato por um tempo. O motivo principal é a crise em que o país se encontra e que está nos afetando mais do que gostaríamos. Graças a isso estamos tendo que desprender mais tempo para nossa vida profissional e estamos ficando [...]</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
+		<itunes:duration>1:59</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #43 &#8211; Saint Seiya, Saekano, Durarara!!, Eureka 7 e Noein</title>
+		<link>http://www.meujogonaosalva.net/2015/08/15/bgmcast-43-saint-seiya-saekano-durarara-eureka-7-e-noein/</link>
+		<comments>http://www.meujogonaosalva.net/2015/08/15/bgmcast-43-saint-seiya-saekano-durarara-eureka-7-e-noein/#respond</comments>
+		<pubDate>Sat, 15 Aug 2015 05:00:43 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[durarara]]></category>
+		<category><![CDATA[eureka 7]]></category>
+		<category><![CDATA[noein]]></category>
+		<category><![CDATA[saekano]]></category>
+		<category><![CDATA[saint seiya]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=1083</guid>
+		<description><![CDATA[Playlist: Saint Seiya Omega &#8211; Pegasus Fantasy (Omega Version) Saint Seiya Lost Canvas &#8211; The Realm of Athena Saint Seiya Lost Canvas &#8211; Hana no Kusari Saint Seiya Omega &#8211; Shinsei mega Shinwa Saenai Heroine no Sodatekata &#8211; Kimi Iro Signal Saenai Heroine no Sodatekata &#8211; Colorful Durarara!!x2 &#8211; Headhunt Durarara!!x2 &#8211; Never say Never <a href='http://www.meujogonaosalva.net/2015/08/15/bgmcast-43-saint-seiya-saekano-durarara-eureka-7-e-noein/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist:</h1>
+<p>Saint Seiya Omega &#8211; Pegasus Fantasy (Omega Version)<br />
+Saint Seiya Lost Canvas &#8211; The Realm of Athena<br />
+Saint Seiya Lost Canvas &#8211; Hana no Kusari<br />
+Saint Seiya Omega &#8211; Shinsei mega Shinwa</p>
+<p>Saenai Heroine no Sodatekata &#8211; Kimi Iro Signal<br />
+Saenai Heroine no Sodatekata &#8211; Colorful<br />
+Durarara!!x2 &#8211; Headhunt<br />
+Durarara!!x2 &#8211; Never say Never</p>
+<p>Eureka 7 &#8211; Days<br />
+Eureka 7 &#8211; Himitsu Kichi<br />
+Eureka 7 &#8211; Shounen Heart<br />
+Eureka 7 &#8211; Fly Away</p>
+<p>Noein &#8211; Changri-la<br />
+Noein &#8211; Rakurima jikū-kai<br />
+Noein &#8211; Bōkyō<br />
+Noein &#8211; Yoake no Ahioto</p>
+<p>Noein &#8211; Idea</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/08/15/bgmcast-43-saint-seiya-saekano-durarara-eureka-7-e-noein/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/08/bgmcast43.mp3" length="66734080" type="audio/mpeg" />
+		<itunes:subtitle>Playlist: Saint Seiya Omega – Pegasus Fantasy (Omega Version) Saint Seiya Lost Canvas – The Realm of Athena Saint Seiya Lost Canvas – Hana no Kusari Saint Seiya Omega – Shinsei mega Shinwa Saenai Heroine no Sodatekata – Kimi Iro Signal Saenai Heroine n...</itunes:subtitle>
+		<itunes:summary>Playlist: Saint Seiya Omega – Pegasus Fantasy (Omega Version) Saint Seiya Lost Canvas – The Realm of Athena Saint Seiya Lost Canvas – Hana no Kusari Saint Seiya Omega – Shinsei mega Shinwa Saenai Heroine no Sodatekata – Kimi Iro Signal Saenai Heroine no Sodatekata – Colorful Durarara!!x2 – Headhunt Durarara!!x2 – Never say Never [...]</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>1:09:01</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #42 &#8211; Alan Wake, Ys, Brutal Legends, Metal Gear Rising, Xenoblade e Final Fantasy X</title>
+		<link>http://www.meujogonaosalva.net/2015/08/08/bgmcast-42-alan-wake-ys-brutal-legends-metal-gear-rising-xenoblade-e-final-fantasy-x/</link>
+		<comments>http://www.meujogonaosalva.net/2015/08/08/bgmcast-42-alan-wake-ys-brutal-legends-metal-gear-rising-xenoblade-e-final-fantasy-x/#respond</comments>
+		<pubDate>Sat, 08 Aug 2015 05:00:37 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[alan wake]]></category>
+		<category><![CDATA[brutal legends]]></category>
+		<category><![CDATA[final fantasy]]></category>
+		<category><![CDATA[metalgear rising]]></category>
+		<category><![CDATA[Xenoblade]]></category>
+		<category><![CDATA[Ys]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=1081</guid>
+		<description><![CDATA[Playlist: Alan Wake A Writer&#8217;s Dream How can I be Sure The Poet and the Muse The Happy Song Ys First Step Toward Wars Palace of Destruction Tower of the Shadow of Death To make the end of battle Subterranean Canal Brutal Legends Lamprey Attack Ruins Gather This Great Army Girlfriend Metal Gear Rising A <a href='http://www.meujogonaosalva.net/2015/08/08/bgmcast-42-alan-wake-ys-brutal-legends-metal-gear-rising-xenoblade-e-final-fantasy-x/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist:</h1>
+<p><a href="http://store.steampowered.com/app/108710/">Alan Wake</a></p>
+<p>A Writer&#8217;s Dream<br />
+How can I be Sure<br />
+The Poet and the Muse<br />
+The Happy Song</p>
+<p><a href="http://store.steampowered.com/app/223810/">Ys</a></p>
+<p>First Step Toward Wars<br />
+Palace of Destruction<br />
+Tower of the Shadow of Death<br />
+To make the end of battle<br />
+Subterranean Canal</p>
+<p><a href="http://store.steampowered.com/app/225260/">Brutal Legends</a></p>
+<p>Lamprey Attack<br />
+Ruins<br />
+Gather This Great Army<br />
+Girlfriend</p>
+<p><a href="http://store.steampowered.com/app/235460/">Metal Gear Rising</a></p>
+<p>A Soul Can&#8217;t be Cut<br />
+Return to Ashes<br />
+Rising Action 1</p>
+<p>Xenoblade Chronicles &#8211; Mechanical Rhythm</p>
+<p>Final Fantasy X &#8211; Otherworld</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/08/08/bgmcast-42-alan-wake-ys-brutal-legends-metal-gear-rising-xenoblade-e-final-fantasy-x/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/08/bgmcast42.mp3" length="55891968" type="audio/mpeg" />
+		<itunes:subtitle>Playlist: Alan Wake A Writer’s Dream How can I be Sure The Poet and the Muse The Happy Song Ys First Step Toward Wars Palace of Destruction Tower of the Shadow of Death To make the end of battle Subterranean Canal Brutal Legends Lamprey Attack Ruins Ga...</itunes:subtitle>
+		<itunes:summary>Playlist: Alan Wake A Writer’s Dream How can I be Sure The Poet and the Muse The Happy Song Ys First Step Toward Wars Palace of Destruction Tower of the Shadow of Death To make the end of battle Subterranean Canal Brutal Legends Lamprey Attack Ruins Gather This Great Army Girlfriend Metal Gear Rising A [...]</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>58:05</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #41 &#8211; FLCL, Shigatsu wa Kimi no Uso, Saint Seyia e Gokukoku no Brynhildr</title>
+		<link>http://www.meujogonaosalva.net/2015/08/01/bgmcast-41-flcl-shigatsu-wa-kimi-no-uso-saint-seyia-e-gokukoku-no-brynhildr/</link>
+		<comments>http://www.meujogonaosalva.net/2015/08/01/bgmcast-41-flcl-shigatsu-wa-kimi-no-uso-saint-seyia-e-gokukoku-no-brynhildr/#respond</comments>
+		<pubDate>Sat, 01 Aug 2015 05:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[flcl]]></category>
+		<category><![CDATA[gokukoku no brynhildr]]></category>
+		<category><![CDATA[Saint Seyia]]></category>
+		<category><![CDATA[shigatsu wa kimi no uso]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=1071</guid>
+		<description><![CDATA[Playlist FLCL Pink Stalker Beautiful Morning With You Advice Shigatsu wa Kimi no Uso Kirameki Orange Nanairo Symphony Hikaru Nara Saint Seiya Pegasus Fantasy (best collection) Blue Forever (best collection) Soldier Dream Chikyuugi Brynhildr in the Darkness Brynhildr in the Darkness Hang up Dance With the Devil Analyse Rage Your Destiny Ichibanboshi]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p>FLCL</p>
+<p>Pink<br />
+Stalker<br />
+Beautiful Morning With You<br />
+Advice</p>
+<p><a href="http://www.crunchyroll.com/your-lie-in-april">Shigatsu wa Kimi no Uso</a></p>
+<p>Kirameki<br />
+Orange<br />
+Nanairo Symphony<br />
+Hikaru Nara</p>
+<p><a href="http://www.crunchyroll.com/saint-seiya">Saint Seiya</a></p>
+<p>Pegasus Fantasy (best collection)<br />
+Blue Forever (best collection)<br />
+Soldier Dream<br />
+Chikyuugi</p>
+<p><a href="http://www.crunchyroll.com/brynhildr-in-the-darkness">Brynhildr in the Darkness</a></p>
+<p>Brynhildr in the Darkness<br />
+Hang up<br />
+Dance With the Devil<br />
+Analyse<br />
+Rage Your Destiny</p>
+<p>Ichibanboshi</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/08/01/bgmcast-41-flcl-shigatsu-wa-kimi-no-uso-saint-seyia-e-gokukoku-no-brynhildr/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/07/bgmcast41.mp3" length="62558208" type="audio/mpeg" />
+		<itunes:subtitle>Playlist FLCL Pink Stalker Beautiful Morning With You Advice Shigatsu wa Kimi no Uso Kirameki Orange Nanairo Symphony Hikaru Nara Saint Seiya Pegasus Fantasy (best collection) Blue Forever (best collection) Soldier Dream Chikyuugi Brynhildr in the Dark...</itunes:subtitle>
+		<itunes:summary>Playlist FLCL Pink Stalker Beautiful Morning With You Advice Shigatsu wa Kimi no Uso Kirameki Orange Nanairo Symphony Hikaru Nara Saint Seiya Pegasus Fantasy (best collection) Blue Forever (best collection) Soldier Dream Chikyuugi Brynhildr in the Darkness Brynhildr in the Darkness Hang up Dance With the Devil Analyse Rage Your Destiny Ichibanboshi</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>1:04:40</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #40 &#8211; Chrono Cross, Kingdon Hearts até Vandal Hearts</title>
+		<link>http://www.meujogonaosalva.net/2015/07/25/bgmcast-40-chrono-cross-kingdon-hearts-ate-vandal-hearts/</link>
+		<comments>http://www.meujogonaosalva.net/2015/07/25/bgmcast-40-chrono-cross-kingdon-hearts-ate-vandal-hearts/#respond</comments>
+		<pubDate>Sat, 25 Jul 2015 05:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[Rafael Dias]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[bgm]]></category>
+		<category><![CDATA[calibur]]></category>
+		<category><![CDATA[cast]]></category>
+		<category><![CDATA[dreamcast]]></category>
+		<category><![CDATA[hearts]]></category>
+		<category><![CDATA[kingdom]]></category>
+		<category><![CDATA[nes]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[psone]]></category>
+		<category><![CDATA[psx]]></category>
+		<category><![CDATA[snes]]></category>
+		<category><![CDATA[soul]]></category>
+		<category><![CDATA[vandal]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=1057</guid>
+		<description><![CDATA[Playlist: Chrono Cross: Time&#8217;s Scar Another Aruni Lost Piece Guilty Gear: Feedback Keep Yourself Alice II Feel a Fear Kingdom Hearts: Dearly Beloved Dive into the Heart Destiny&#8217;s Force Metroid Prime: Title Escape Samus vs. Metroid Prime Sonic Adventure: Introduction Boss Chaos Mystic Ruin Soul Calibur: Tales of Souls and Swords Labyrinth of the Moonlight <a href='http://www.meujogonaosalva.net/2015/07/25/bgmcast-40-chrono-cross-kingdon-hearts-ate-vandal-hearts/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist:</h1>
+<p>Chrono Cross:</p>
+<p>Time&#8217;s Scar<br />
+Another Aruni<br />
+Lost Piece</p>
+<p>Guilty Gear:</p>
+<p>Feedback<br />
+Keep Yourself Alice II<br />
+Feel a Fear</p>
+<p>Kingdom Hearts:</p>
+<p>Dearly Beloved<br />
+Dive into the Heart<br />
+Destiny&#8217;s Force</p>
+<p>Metroid Prime:</p>
+<p>Title<br />
+Escape<br />
+Samus vs. Metroid Prime</p>
+<p>Sonic Adventure:</p>
+<p>Introduction<br />
+Boss Chaos<br />
+Mystic Ruin</p>
+<p>Soul Calibur:</p>
+<p>Tales of Souls and Swords<br />
+Labyrinth of the Moonlight<br />
+Brave Sword, Braver Soul</p>
+<p>Tekken 3:</p>
+<p>Trilha 1<br />
+Trilha 10<br />
+Trilha 3</p>
+<p>Vandal Hearts:</p>
+<p>Trilha 1<br />
+Trilha 04<br />
+Trilha 12</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/07/25/bgmcast-40-chrono-cross-kingdon-hearts-ate-vandal-hearts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/07/BGMCast40.mp3" length="63735808" type="audio/mpeg" />
+		<itunes:subtitle>Playlist: Chrono Cross: Time’s Scar Another Aruni Lost Piece Guilty Gear: Feedback Keep Yourself Alice II Feel a Fear Kingdom Hearts: Dearly Beloved Dive into the Heart Destiny’s Force Metroid Prime: Title Escape Samus vs.</itunes:subtitle>
+		<itunes:summary>Playlist: Chrono Cross: Time’s Scar Another Aruni Lost Piece Guilty Gear: Feedback Keep Yourself Alice II Feel a Fear Kingdom Hearts: Dearly Beloved Dive into the Heart Destiny’s Force Metroid Prime: Title Escape Samus vs. Metroid Prime Sonic Adventure: Introduction Boss Chaos Mystic Ruin Soul Calibur: Tales of Souls and Swords Labyrinth of the Moonlight [...]</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
+		<itunes:duration>1:06:12</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #39 &#8211; Rayearth, Honey and Clover, Kiseijuu, Star Ocean Ex e Kill la Kill</title>
+		<link>http://www.meujogonaosalva.net/2015/07/18/bgmcast-39-rayearth-honey-and-clover-kiseijuu-star-ocean-ex-e-kill-la-kill/</link>
+		<comments>http://www.meujogonaosalva.net/2015/07/18/bgmcast-39-rayearth-honey-and-clover-kiseijuu-star-ocean-ex-e-kill-la-kill/#respond</comments>
+		<pubDate>Sat, 18 Jul 2015 05:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[honey and clover]]></category>
+		<category><![CDATA[kill la kill]]></category>
+		<category><![CDATA[kiseijuu]]></category>
+		<category><![CDATA[mahou kishi rayearth]]></category>
+		<category><![CDATA[star ocean]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=1045</guid>
+		<description><![CDATA[Playlist: Mahou Kishi Rayearth Yuzurenai Negai Asu e no Yuuki Hikari to Kate wo Dakishimeta Mama Itsuka Kagayaku Honey and Clover Fugainaiya Room 201 Tsuki ni Kaeru Honoho Kiseijuu Let Me Hear Fureau dake de Star Ocean Ex To The Light Hearts Kill la Kill Sirius Gomen ne, liko ja Irarenai Ambiguous Shinsekai Koukyougaku Before <a href='http://www.meujogonaosalva.net/2015/07/18/bgmcast-39-rayearth-honey-and-clover-kiseijuu-star-ocean-ex-e-kill-la-kill/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist:</h1>
+<p>Mahou Kishi Rayearth</p>
+<p>Yuzurenai Negai<br />
+Asu e no Yuuki<br />
+Hikari to Kate wo Dakishimeta Mama<br />
+Itsuka Kagayaku</p>
+<p>Honey and Clover</p>
+<p>Fugainaiya<br />
+Room 201<br />
+Tsuki ni Kaeru<br />
+Honoho</p>
+<p>Kiseijuu</p>
+<p>Let Me Hear<br />
+Fureau dake de</p>
+<p>Star Ocean Ex</p>
+<p>To The Light<br />
+Hearts</p>
+<p>Kill la Kill</p>
+<p>Sirius<br />
+Gomen ne, liko ja Irarenai<br />
+Ambiguous<br />
+Shinsekai Koukyougaku</p>
+<p>Before my Body is Dry</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/07/18/bgmcast-39-rayearth-honey-and-clover-kiseijuu-star-ocean-ex-e-kill-la-kill/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/07/bgmcast39.mp3" length="76007424" type="audio/mpeg" />
+		<itunes:subtitle>Playlist: Mahou Kishi Rayearth Yuzurenai Negai Asu e no Yuuki Hikari to Kate wo Dakishimeta Mama Itsuka Kagayaku Honey and Clover Fugainaiya Room 201 Tsuki ni Kaeru Honoho Kiseijuu Let Me Hear Fureau dake de Star Ocean Ex To The Light Hearts Kill la Ki...</itunes:subtitle>
+		<itunes:summary>Playlist: Mahou Kishi Rayearth Yuzurenai Negai Asu e no Yuuki Hikari to Kate wo Dakishimeta Mama Itsuka Kagayaku Honey and Clover Fugainaiya Room 201 Tsuki ni Kaeru Honoho Kiseijuu Let Me Hear Fureau dake de Star Ocean Ex To The Light Hearts Kill la Kill Sirius Gomen ne, liko ja Irarenai Ambiguous Shinsekai Koukyougaku Before [...]</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>1:18:40</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #37 &#8211; Vandread, FLCL, Honey and Clover e GTO</title>
+		<link>http://www.meujogonaosalva.net/2015/07/04/bgmcast-37-vandread-flcl-honey-and-clover-e-gto/</link>
+		<comments>http://www.meujogonaosalva.net/2015/07/04/bgmcast-37-vandread-flcl-honey-and-clover-e-gto/#respond</comments>
+		<pubDate>Sat, 04 Jul 2015 05:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[flcl]]></category>
+		<category><![CDATA[gto]]></category>
+		<category><![CDATA[honey and clover]]></category>
+		<category><![CDATA[vandread]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=1022</guid>
+		<description><![CDATA[Playlist Vandread The Second Stage Super Vandread Somedays (Orugo-ru) Spacy Spicy Love Somedays FLCL Come Down Little Busters Crazy Sunshine Blue Drive Monster Honey and Clover Tsuki no Naifu Sakana Sorosoro Ikanakucha Yoru wo Kakeru Great Teacher Onizuka Onizuka Impossible Onizuka Blues Hitori no Yuru Shizuku Driver&#8217;s High]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p>Vandread The Second Stage</p>
+<p>Super Vandread<br />
+Somedays (Orugo-ru)<br />
+Spacy Spicy Love<br />
+Somedays</p>
+<p>FLCL</p>
+<p>Come Down<br />
+Little Busters<br />
+Crazy Sunshine<br />
+Blue Drive Monster</p>
+<p>Honey and Clover</p>
+<p>Tsuki no Naifu<br />
+Sakana<br />
+Sorosoro Ikanakucha<br />
+Yoru wo Kakeru</p>
+<p><a href="http://www.crunchyroll.com/gto-the-animation">Great Teacher Onizuka</a></p>
+<p>Onizuka Impossible<br />
+Onizuka Blues<br />
+Hitori no Yuru<br />
+Shizuku</p>
+<p>Driver&#8217;s High</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/07/04/bgmcast-37-vandread-flcl-honey-and-clover-e-gto/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/07/BGMCast37.mp3" length="57907200" type="audio/mpeg" />
+		<itunes:subtitle>Playlist Vandread The Second Stage Super Vandread Somedays (Orugo-ru) Spacy Spicy Love Somedays FLCL Come Down Little Busters Crazy Sunshine Blue Drive Monster Honey and Clover Tsuki no Naifu Sakana Sorosoro Ikanakucha Yoru wo Kakeru Great Teacher Oniz...</itunes:subtitle>
+		<itunes:summary>Playlist Vandread The Second Stage Super Vandread Somedays (Orugo-ru) Spacy Spicy Love Somedays FLCL Come Down Little Busters Crazy Sunshine Blue Drive Monster Honey and Clover Tsuki no Naifu Sakana Sorosoro Ikanakucha Yoru wo Kakeru Great Teacher Onizuka Onizuka Impossible Onizuka Blues Hitori no Yuru Shizuku Driver’s High</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>59:49</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #36 &#8211; Mario, Mario e Mario</title>
+		<link>http://www.meujogonaosalva.net/2015/06/27/bgmcast-36-mario-mario-e-mario/</link>
+		<comments>http://www.meujogonaosalva.net/2015/06/27/bgmcast-36-mario-mario-e-mario/#respond</comments>
+		<pubDate>Sat, 27 Jun 2015 05:13:38 +0000</pubDate>
+		<dc:creator><![CDATA[Rafael Dias]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[16 bits]]></category>
+		<category><![CDATA[64]]></category>
+		<category><![CDATA[64 bits]]></category>
+		<category><![CDATA[8 bits]]></category>
+		<category><![CDATA[bgm]]></category>
+		<category><![CDATA[bgmcast]]></category>
+		<category><![CDATA[mario]]></category>
+		<category><![CDATA[nes]]></category>
+		<category><![CDATA[nintendo]]></category>
+		<category><![CDATA[ost]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[snes]]></category>
+		<category><![CDATA[trilha sonora]]></category>
+		<category><![CDATA[wii]]></category>
+		<category><![CDATA[wiii u]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=1012</guid>
+		<description><![CDATA[Playlist Super Mario Bros. 1 Super Mario Bros. 2 Super Mario Bros. 3 Super Mario World Super Mario 64 Mario Galaxy 2 Super Mario 3D World &#160;]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p><strong>Super Mario Bros. 1</strong></p>
+<p><strong>Super Mario Bros. 2</strong></p>
+<p><strong>Super Mario Bros. 3</strong></p>
+<p><strong>Super Mario World</strong></p>
+<p><strong>Super Mario 64</strong></p>
+<p><strong>Mario Galaxy 2</strong></p>
+<p><strong>Super Mario 3D World</strong></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/06/27/bgmcast-36-mario-mario-e-mario/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/06/BGM-Cast-36.mp3" length="64413696" type="audio/mpeg" />
+		<itunes:subtitle>Playlist Super Mario Bros. 1 Super Mario Bros. 2 Super Mario Bros. 3 Super Mario World Super Mario 64 Mario Galaxy 2 Super Mario 3D World  </itunes:subtitle>
+		<itunes:summary>Playlist Super Mario Bros. 1 Super Mario Bros. 2 Super Mario Bros. 3 Super Mario World Super Mario 64 Mario Galaxy 2 Super Mario 3D World  </itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
+		<itunes:duration>1:06:53</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #35 &#8211; Vandread, Shirobako, Kamisama Hajimemashita e FLCL</title>
+		<link>http://www.meujogonaosalva.net/2015/06/20/bgmcast-35-vandread-shirobako-kamisama-hajimemashita-e-flcl/</link>
+		<comments>http://www.meujogonaosalva.net/2015/06/20/bgmcast-35-vandread-shirobako-kamisama-hajimemashita-e-flcl/#respond</comments>
+		<pubDate>Sat, 20 Jun 2015 05:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[flcl]]></category>
+		<category><![CDATA[kamisama hajimemashita]]></category>
+		<category><![CDATA[shirobako]]></category>
+		<category><![CDATA[vandread]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=997</guid>
+		<description><![CDATA[Playlist Vandread The Second Stage Arakure-tachi no machi Terepasu no hoshi SP ban-gata bokugekiki Nirvana seigyo funou Nirvana no kiki Shirobako Colorful Box Animetic Love Letter Treasure Box Platinum Jet Kamisama Hajimemashita Kamisama Hajimemashita Kamisama Onegai Kamisama no Kamisama Ototoi Oide FLCL Sad Sad Kiddie Sleepy Head CARNIVAL RUNNERS HIGH Ride on Shooting Star]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p>Vandread The Second Stage</p>
+<p>Arakure-tachi no machi<br />
+Terepasu no hoshi<br />
+SP ban-gata bokugekiki<br />
+Nirvana seigyo funou<br />
+Nirvana no kiki</p>
+<p>Shirobako</p>
+<p>Colorful Box<br />
+Animetic Love Letter<br />
+Treasure Box<br />
+Platinum Jet</p>
+<p>Kamisama Hajimemashita</p>
+<p>Kamisama Hajimemashita<br />
+Kamisama Onegai<br />
+Kamisama no Kamisama<br />
+Ototoi Oide</p>
+<p>FLCL</p>
+<p>Sad Sad Kiddie<br />
+Sleepy Head<br />
+CARNIVAL<br />
+RUNNERS HIGH</p>
+<p>Ride on Shooting Star</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/06/20/bgmcast-35-vandread-shirobako-kamisama-hajimemashita-e-flcl/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/06/BGMCast35.mp3" length="54951936" type="audio/mpeg" />
+		<itunes:subtitle>Playlist Vandread The Second Stage Arakure-tachi no machi Terepasu no hoshi SP ban-gata bokugekiki Nirvana seigyo funou Nirvana no kiki Shirobako Colorful Box Animetic Love Letter Treasure Box Platinum Jet Kamisama Hajimemashita Kamisama Hajimemashita ...</itunes:subtitle>
+		<itunes:summary>Playlist Vandread The Second Stage Arakure-tachi no machi Terepasu no hoshi SP ban-gata bokugekiki Nirvana seigyo funou Nirvana no kiki Shirobako Colorful Box Animetic Love Letter Treasure Box Platinum Jet Kamisama Hajimemashita Kamisama Hajimemashita Kamisama Onegai Kamisama no Kamisama Ototoi Oide FLCL Sad Sad Kiddie Sleepy Head CARNIVAL RUNNERS HIGH Ride on Shooting Star</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>56:44</itunes:duration>
+	</item>
+		<item>
+		<title>BGM Cast #34 &#8211; De Ace Combat e Metal Gear, até Final Fantasy</title>
+		<link>http://www.meujogonaosalva.net/2015/06/13/bgm-cast-34-de-ace-combat-e-metal-gear-ate-final-fantasy/</link>
+		<comments>http://www.meujogonaosalva.net/2015/06/13/bgm-cast-34-de-ace-combat-e-metal-gear-ate-final-fantasy/#respond</comments>
+		<pubDate>Sat, 13 Jun 2015 05:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Rafael Dias]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[ace combat]]></category>
+		<category><![CDATA[arcanum]]></category>
+		<category><![CDATA[Bastion]]></category>
+		<category><![CDATA[bgm]]></category>
+		<category><![CDATA[épico]]></category>
+		<category><![CDATA[final fantasy]]></category>
+		<category><![CDATA[jogo]]></category>
+		<category><![CDATA[kingdon hearts]]></category>
+		<category><![CDATA[mass effect]]></category>
+		<category><![CDATA[mgs]]></category>
+		<category><![CDATA[mjns]]></category>
+		<category><![CDATA[neotokyo]]></category>
+		<category><![CDATA[ost]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Skyrim]]></category>
+		<category><![CDATA[souls]]></category>
+		<category><![CDATA[trilha sonora]]></category>
+		<category><![CDATA[uncharted]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[zelda]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=992</guid>
+		<description><![CDATA[Playlist NieR &#8211; Hills of Radiant Wind Chrono Trigger &#8211; Corridors of Time Ace Combat Zero &#8211; Zero The Legend of Zelda &#8211; Intro The Legend of Zelda: Twilight Princess &#8211; Midna&#8217;s Desperation Final Fantasy X &#8211; To Zanarkand Final Fantasy: Crystal Chronicles &#8211; Oh Light! World of Warcraft &#8211; Call to Arms Dragon Age: <a href='http://www.meujogonaosalva.net/2015/06/13/bgm-cast-34-de-ace-combat-e-metal-gear-ate-final-fantasy/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p><strong>NieR</strong> &#8211; Hills of Radiant Wind</p>
+<p><strong>Chrono Trigger</strong> &#8211; Corridors of Time</p>
+<p><strong>Ace Combat Zero</strong> &#8211; Zero</p>
+<p><strong>The Legend of Zelda</strong> &#8211; Intro</p>
+<p><strong>The Legend of Zelda: Twilight Princess</strong> &#8211; Midna&#8217;s Desperation</p>
+<p><strong>Final Fantasy X</strong> &#8211; To Zanarkand</p>
+<p><strong>Final Fantasy: Crystal Chronicles</strong> &#8211; Oh Light!</p>
+<p><strong>World of Warcraft</strong> &#8211; Call to Arms</p>
+<p><strong>Dragon Age: Origins</strong> &#8211; Dragon Age Origins</p>
+<p><strong>Bastion</strong> &#8211; Build That Wall (Zia&#8217;s Theme)</p>
+<p><strong>Demon’s Souls</strong> &#8211; One Who Craves Souls</p>
+<p><strong>Arcanum</strong> &#8211; Demise of the Zephyr</p>
+<p><strong>Metal Gear Solid</strong> &#8211; The Best is yet to Come (End Title)</p>
+<p><strong>Kingdom Hearts</strong> &#8211; Dearly Beloved</p>
+<p><strong>Dark Souls</strong> &#8211; Gwyn Lord of Cinder</p>
+<p><strong>Mass Effect 2</strong> &#8211; Suicide Mission</p>
+<p><strong>Uncharted 3</strong> &#8211; Small Beginnings</p>
+<p><strong>The Elder Scrolls V: Skyrim</strong> &#8211; Main Theme</p>
+<p><strong>NeoTokyo (HL2 mod)</strong> &#8211; Departure</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/06/13/bgm-cast-34-de-ace-combat-e-metal-gear-ate-final-fantasy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/06/BGM-Cast-34.mp3" length="60794880" type="audio/mpeg" />
+		<itunes:subtitle>Playlist NieR – Hills of Radiant Wind Chrono Trigger – Corridors of Time Ace Combat Zero – Zero The Legend of Zelda – Intro The Legend of Zelda: Twilight Princess – Midna’s Desperation Final Fantasy X – To Zanarkand Final Fantasy: Crystal Chronicles – ...</itunes:subtitle>
+		<itunes:summary>Playlist NieR – Hills of Radiant Wind Chrono Trigger – Corridors of Time Ace Combat Zero – Zero The Legend of Zelda – Intro The Legend of Zelda: Twilight Princess – Midna’s Desperation Final Fantasy X – To Zanarkand Final Fantasy: Crystal Chronicles – Oh Light! World of Warcraft – Call to Arms Dragon Age: [...]</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
+		<itunes:duration>1:03:09</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #33 &#8211; Vandread, Shurato, FLCL e Honey and Clover</title>
+		<link>http://www.meujogonaosalva.net/2015/06/06/bgmcast-33-vandread-shurato-flcl-e-honey-and-clover/</link>
+		<comments>http://www.meujogonaosalva.net/2015/06/06/bgmcast-33-vandread-shurato-flcl-e-honey-and-clover/#respond</comments>
+		<pubDate>Sat, 06 Jun 2015 05:00:21 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[flcl]]></category>
+		<category><![CDATA[honey and clover]]></category>
+		<category><![CDATA[shurato]]></category>
+		<category><![CDATA[vandread]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=980</guid>
+		<description><![CDATA[Playlist Vandread The Second Stage Nise Nirvana Sentou 4 &#8211; Semari kuru kyoufu Kessen Saigo no tatakai Teki bokan shutsugen! Tenkuu Senki Shurato SET THE FIRE Sanjin no Meizu Truth Shining Soul FLCL (Furi Kuri, também conhecido como Fury Curry) Funny Bunny Another Morning Last Dinosaur I Think I Can Honey and Clover Mistake Inaka <a href='http://www.meujogonaosalva.net/2015/06/06/bgmcast-33-vandread-shurato-flcl-e-honey-and-clover/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p><strong>Vandread The Second Stage</strong></p>
+<p>Nise Nirvana<br />
+Sentou 4 &#8211; Semari kuru kyoufu<br />
+Kessen<br />
+Saigo no tatakai<br />
+Teki bokan shutsugen!</p>
+<p><strong>Tenkuu Senki Shurato</strong></p>
+<p>SET THE FIRE<br />
+Sanjin no Meizu<br />
+Truth<br />
+Shining Soul</p>
+<p><strong>FLCL</strong> (Furi Kuri, também conhecido como Fury Curry)</p>
+<p>Funny Bunny<br />
+Another Morning<br />
+Last Dinosaur<br />
+I Think I Can</p>
+<p><strong>Honey and Clover</strong></p>
+<p>Mistake<br />
+Inaka no Seikatsu<br />
+Yubikiri<br />
+Spica</p>
+<p>Kiss Kara Hajimeyou</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/06/06/bgmcast-33-vandread-shurato-flcl-e-honey-and-clover/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/06/BGMCast33.mp3" length="62347264" type="audio/mpeg" />
+		<itunes:subtitle>Playlist Vandread The Second Stage Nise Nirvana Sentou 4 – Semari kuru kyoufu Kessen Saigo no tatakai Teki bokan shutsugen! Tenkuu Senki Shurato SET THE FIRE Sanjin no Meizu Truth Shining Soul FLCL (Furi Kuri,</itunes:subtitle>
+		<itunes:summary>Playlist Vandread The Second Stage Nise Nirvana Sentou 4 – Semari kuru kyoufu Kessen Saigo no tatakai Teki bokan shutsugen! Tenkuu Senki Shurato SET THE FIRE Sanjin no Meizu Truth Shining Soul FLCL (Furi Kuri, também conhecido como Fury Curry) Funny Bunny Another Morning Last Dinosaur I Think I Can Honey and Clover Mistake Inaka [...]</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>1:04:27</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #32 &#8211; Driver, Test Drive, NFS 3 e Gran Turismo</title>
+		<link>http://www.meujogonaosalva.net/2015/05/30/bgmcast-32/</link>
+		<comments>http://www.meujogonaosalva.net/2015/05/30/bgmcast-32/#respond</comments>
+		<pubDate>Sat, 30 May 2015 05:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Rafael Dias]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[bgm]]></category>
+		<category><![CDATA[driver]]></category>
+		<category><![CDATA[gran turismo]]></category>
+		<category><![CDATA[hot porsuit]]></category>
+		<category><![CDATA[need for speed]]></category>
+		<category><![CDATA[ost]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[test drive]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=969</guid>
+		<description><![CDATA[Playlist Driver Main Theme Miami Night Secret City Need For Speed 3 &#8211; Hot Porsuit Título Whacked Hydrus Flimsy Test Drive 4 Keep the Beat Gonna Yet Ya Pit Stop Two Gran Turismo Kiss You and Goodbye Freedom to Win Green Monster Like the Wind (Vocal Version) Beat the Corner Final Lap Second Chance]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p><strong>Driver</strong></p>
+<p>Main Theme<br />
+Miami Night<br />
+Secret City</p>
+<p><strong>Need For Speed 3 &#8211; Hot Porsuit</strong></p>
+<p>Título<br />
+Whacked<br />
+Hydrus<br />
+Flimsy</p>
+<p><strong>Test Drive 4</strong></p>
+<p>Keep the Beat<br />
+Gonna Yet Ya<br />
+Pit Stop Two</p>
+<p><strong>Gran Turismo</strong></p>
+<p>Kiss You and Goodbye<br />
+Freedom to Win<br />
+Green Monster<br />
+Like the Wind (Vocal Version)<br />
+Beat the Corner<br />
+Final Lap<br />
+Second Chance</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/05/30/bgmcast-32/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/05/BGM-Cast-32.mp3" length="59168768" type="audio/mpeg" />
+		<itunes:subtitle>Playlist Driver Main Theme Miami Night Secret City Need For Speed 3 – Hot Porsuit Título Whacked Hydrus Flimsy Test Drive 4 Keep the Beat Gonna Yet Ya Pit Stop Two Gran Turismo Kiss You and Goodbye Freedom to Win Green Monster Like the Wind (Vocal Vers...</itunes:subtitle>
+		<itunes:summary>Playlist Driver Main Theme Miami Night Secret City Need For Speed 3 – Hot Porsuit Título Whacked Hydrus Flimsy Test Drive 4 Keep the Beat Gonna Yet Ya Pit Stop Two Gran Turismo Kiss You and Goodbye Freedom to Win Green Monster Like the Wind (Vocal Version) Beat the Corner Final Lap Second Chance</itunes:summary>
+		<itunes:author>Rafael Dias</itunes:author>
+		<itunes:duration>1:01:27</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #031 &#8211; Sword Art Online, Vandread, Yu Yu Hakusho e Aldnoah.Zero</title>
+		<link>http://www.meujogonaosalva.net/2015/05/23/bgmcast-031/</link>
+		<comments>http://www.meujogonaosalva.net/2015/05/23/bgmcast-031/#respond</comments>
+		<pubDate>Sat, 23 May 2015 05:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[aldnoah zero]]></category>
+		<category><![CDATA[sword art online]]></category>
+		<category><![CDATA[vandread]]></category>
+		<category><![CDATA[yu yu hakusho]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=959</guid>
+		<description><![CDATA[Playlist Sword Art Online Startear Got to Win Aerial Fight Last Flight IGNITE Vandread The Second Stage Justice Yes Together Maguno no ketsui Dita no Negai Sentou 2 &#8211; Mejale no kaizoku-tachi Yu Yu Hakusho HOMEWORK ga Owaranai Yusuke POWER UP! Ashita ni Mukatte ~ENDING~ DAYDREAM GENERATION Aldnoah Zero Heavenly Blue &#38;Z AZ aLIEz Genesis]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p>Sword Art Online</p>
+<p>Startear<br />
+Got to Win<br />
+Aerial Fight<br />
+Last Flight<br />
+IGNITE</p>
+<p>Vandread The Second Stage</p>
+<p>Justice<br />
+Yes Together<br />
+Maguno no ketsui<br />
+Dita no Negai<br />
+Sentou 2 &#8211; Mejale no kaizoku-tachi</p>
+<p>Yu Yu Hakusho</p>
+<p>HOMEWORK ga Owaranai<br />
+Yusuke POWER UP!<br />
+Ashita ni Mukatte ~ENDING~<br />
+DAYDREAM GENERATION</p>
+<p>Aldnoah Zero</p>
+<p>Heavenly Blue<br />
+&amp;Z<br />
+AZ<br />
+aLIEz</p>
+<p>Genesis</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/05/23/bgmcast-031/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/05/BGMCast031.mp3" length="70168576" type="audio/mpeg" />
+		<itunes:subtitle>Playlist Sword Art Online Startear Got to Win Aerial Fight Last Flight IGNITE Vandread The Second Stage Justice Yes Together Maguno no ketsui Dita no Negai Sentou 2 – Mejale no kaizoku-tachi Yu Yu Hakusho HOMEWORK ga Owaranai Yusuke POWER UP!</itunes:subtitle>
+		<itunes:summary>Playlist Sword Art Online Startear Got to Win Aerial Fight Last Flight IGNITE Vandread The Second Stage Justice Yes Together Maguno no ketsui Dita no Negai Sentou 2 – Mejale no kaizoku-tachi Yu Yu Hakusho HOMEWORK ga Owaranai Yusuke POWER UP! Ashita ni Mukatte ~ENDING~ DAYDREAM GENERATION Aldnoah Zero Heavenly Blue &amp;Z AZ aLIEz Genesis</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>1:12:35</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #030 &#8211; The Witcher 3 e Final Fantasy Type-0</title>
+		<link>http://www.meujogonaosalva.net/2015/05/22/bgmcast-030-the-witcher-3-e-final-fantasy-type-0/</link>
+		<comments>http://www.meujogonaosalva.net/2015/05/22/bgmcast-030-the-witcher-3-e-final-fantasy-type-0/#respond</comments>
+		<pubDate>Fri, 22 May 2015 23:54:27 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[final fantasy]]></category>
+		<category><![CDATA[the witcher]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=953</guid>
+		<description><![CDATA[Playlist The Witcher 3: Wild Hunt The Trail Geralt of Rivia spikeroog Whisper of Oxenfurt Eyes of the Wolf &#8230;Steal for Humans Drink Up, There&#8217;s More! Farewell, Old Friend The Song of the Sword Dancer The Hunt is Coming Hunt of be Hunted The Field of Ard Skellig Final Fantasy Type-0 Warera Kitareri Kurisutaru no <a href='http://www.meujogonaosalva.net/2015/05/22/bgmcast-030-the-witcher-3-e-final-fantasy-type-0/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p>The Witcher 3: Wild Hunt</p>
+<p>The Trail<br />
+Geralt of Rivia<br />
+spikeroog<br />
+Whisper of Oxenfurt<br />
+Eyes of the Wolf<br />
+&#8230;Steal for Humans<br />
+Drink Up, There&#8217;s More!<br />
+Farewell, Old Friend<br />
+The Song of the Sword Dancer<br />
+The Hunt is Coming<br />
+Hunt of be Hunted<br />
+The Field of Ard Skellig</p>
+<p>Final Fantasy Type-0</p>
+<p>Warera Kitareri<br />
+Kurisutaru no Shito<br />
+Seihitsu na Jikan<br />
+Kieta Kioku<br />
+Remu Tokimiya<br />
+Tagiru Kokoro<br />
+Ikusa &#8211; Shiro no Heiki<br />
+Ikusa &#8211; Dokyuu no Hibiki<br />
+Ikusa &#8211; Tsuigeki<br />
+Ikusa &#8211; Shizuka na Gekitou<br />
+Finisu no Koku</p>
+<p>Zero</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/05/22/bgmcast-030-the-witcher-3-e-final-fantasy-type-0/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/05/BGMCast030.mp3" length="64049152" type="audio/mpeg" />
+		<itunes:subtitle>Playlist The Witcher 3: Wild Hunt The Trail Geralt of Rivia spikeroog Whisper of Oxenfurt Eyes of the Wolf …Steal for Humans Drink Up, There’s More! Farewell, Old Friend The Song of the Sword Dancer The Hunt is Coming Hunt of be Hunted The Field of Ard...</itunes:subtitle>
+		<itunes:summary>Playlist The Witcher 3: Wild Hunt The Trail Geralt of Rivia spikeroog Whisper of Oxenfurt Eyes of the Wolf …Steal for Humans Drink Up, There’s More! Farewell, Old Friend The Song of the Sword Dancer The Hunt is Coming Hunt of be Hunted The Field of Ard Skellig Final Fantasy Type-0 Warera Kitareri Kurisutaru no [...]</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>1:06:34</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast 029 &#8211; Dragon Ball, Rayearth, Yu Yu Hakusho e Vandread</title>
+		<link>http://www.meujogonaosalva.net/2015/05/09/bgmcast-029/</link>
+		<comments>http://www.meujogonaosalva.net/2015/05/09/bgmcast-029/#respond</comments>
+		<pubDate>Sat, 09 May 2015 05:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[dragon ball]]></category>
+		<category><![CDATA[mahou kishi rayearth]]></category>
+		<category><![CDATA[vandread]]></category>
+		<category><![CDATA[yu yu hakusho]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=933</guid>
+		<description><![CDATA[Playlist: Dragon Ball Mystical Adventure! Danger is Everywhere Sexy Girl Bulma I&#8217;ll give you a Romantic Night Mahou Kishi Rayearth Yuzurenai Negai Hikari to Kate wo Dakishimeta Asu e no yuuki Itsuka Kagayaku Yu Yu Hakusho Hohoemi no Bakudan Sayonara Bye Bye UNBALANCE na Kiss wo Shite Tayou ga Mata Kagayaku Vandread Michi naru kyouteki <a href='http://www.meujogonaosalva.net/2015/05/09/bgmcast-029/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist:</h1>
+<p>Dragon Ball</p>
+<p>Mystical Adventure!<br />
+Danger is Everywhere<br />
+Sexy Girl Bulma<br />
+I&#8217;ll give you a Romantic Night</p>
+<p>Mahou Kishi Rayearth</p>
+<p>Yuzurenai Negai<br />
+Hikari to Kate wo Dakishimeta<br />
+Asu e no yuuki<br />
+Itsuka Kagayaku</p>
+<p>Yu Yu Hakusho</p>
+<p>Hohoemi no Bakudan<br />
+Sayonara Bye Bye<br />
+UNBALANCE na Kiss wo Shite<br />
+Tayou ga Mata Kagayaku</p>
+<p>Vandread</p>
+<p>Michi naru kyouteki<br />
+Tekishuu<br />
+Vandread Dita<br />
+What a wonderful world (Orugo-ru ver)</p>
+<p>What a Wonderful World</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/05/09/bgmcast-029/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/05/BGMCast029.mp3" length="56825856" type="audio/mpeg" />
+		<itunes:subtitle>Playlist: Dragon Ball Mystical Adventure! Danger is Everywhere Sexy Girl Bulma I’ll give you a Romantic Night Mahou Kishi Rayearth Yuzurenai Negai Hikari to Kate wo Dakishimeta Asu e no yuuki Itsuka Kagayaku Yu Yu Hakusho Hohoemi no Bakudan Sayonara By...</itunes:subtitle>
+		<itunes:summary>Playlist: Dragon Ball Mystical Adventure! Danger is Everywhere Sexy Girl Bulma I’ll give you a Romantic Night Mahou Kishi Rayearth Yuzurenai Negai Hikari to Kate wo Dakishimeta Asu e no yuuki Itsuka Kagayaku Yu Yu Hakusho Hohoemi no Bakudan Sayonara Bye Bye UNBALANCE na Kiss wo Shite Tayou ga Mata Kagayaku Vandread Michi naru kyouteki [...]</itunes:summary>
+		<itunes:author>id</itunes:author>
+		<itunes:duration>58:41</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #28 &#8212; Enslaved, 007 golden eye, Bit Trip Runner</title>
+		<link>http://www.meujogonaosalva.net/2015/05/05/bgmcast-28-enslaved-007-golden-eye-bit-trip-runner/</link>
+		<comments>http://www.meujogonaosalva.net/2015/05/05/bgmcast-28-enslaved-007-golden-eye-bit-trip-runner/#respond</comments>
+		<pubDate>Tue, 05 May 2015 03:09:34 +0000</pubDate>
+		<dc:creator><![CDATA[liquuid]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[007 golden eye]]></category>
+		<category><![CDATA[Bit Trip Runner]]></category>
+		<category><![CDATA[enslaved]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=919</guid>
+		<description><![CDATA[Enslaved: Cloud Surfing Catch The Dragonspy Pigsy Blues The heroes journey No death in love Pyramid Bit Trip Runner: Blackout City Impetus Mermaid Always Sometimes Monsters: I Remember &#8211; 007 Goldeneye (Wii) Sloopy Sands- Donkey Kong Country Returns (Wii) Punch-Out (Wii) Staff Roll &#8211; Punch-Out (Wii)]]></description>
+				<content:encoded><![CDATA[<p>Enslaved:</p>
+<p>Cloud Surfing<br />
+Catch The Dragonspy<br />
+Pigsy Blues<br />
+The heroes journey<br />
+No death in love<br />
+Pyramid</p>
+<p>Bit Trip Runner:</p>
+<p>Blackout City<br />
+Impetus<br />
+Mermaid</p>
+<p>Always Sometimes Monsters:</p>
+<p>I Remember &#8211; 007 Goldeneye (Wii)<br />
+Sloopy Sands- Donkey Kong Country Returns (Wii)<br />
+Punch-Out (Wii)<br />
+Staff Roll &#8211; Punch-Out (Wii)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/05/05/bgmcast-28-enslaved-007-golden-eye-bit-trip-runner/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/05/bgmcast-028.mp3" length="60894954" type="audio/mpeg" />
+		<itunes:subtitle>Enslaved: Cloud Surfing Catch The Dragonspy Pigsy Blues The heroes journey No death in love Pyramid Bit Trip Runner: Blackout City Impetus Mermaid Always Sometimes Monsters: I Remember – 007 Goldeneye (Wii) Sloopy Sands- Donkey Kong Country Returns (Wi...</itunes:subtitle>
+		<itunes:summary>Enslaved: Cloud Surfing Catch The Dragonspy Pigsy Blues The heroes journey No death in love Pyramid Bit Trip Runner: Blackout City Impetus Mermaid Always Sometimes Monsters: I Remember – 007 Goldeneye (Wii) Sloopy Sands- Donkey Kong Country Returns (Wii) Punch-Out (Wii) Staff Roll – Punch-Out (Wii)</itunes:summary>
+		<itunes:author>liquuid</itunes:author>
+		<itunes:duration>1:03:17</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #027 &#8211; Sword Art Online, Vandread, Final Fantasy Unlimited e FLCL</title>
+		<link>http://www.meujogonaosalva.net/2015/04/25/bgmcast-027-sword-art-online-vandread-final-fantasy-unlimited-e-flcl/</link>
+		<comments>http://www.meujogonaosalva.net/2015/04/25/bgmcast-027-sword-art-online-vandread-final-fantasy-unlimited-e-flcl/#respond</comments>
+		<pubDate>Sat, 25 Apr 2015 05:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[final fantasy]]></category>
+		<category><![CDATA[flcl]]></category>
+		<category><![CDATA[sword art online]]></category>
+		<category><![CDATA[vandread]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=892</guid>
+		<description><![CDATA[Playlist Sword Art Online INNOCENCE A Narrow Scape Smile for me Critical Phase Overfly Vandread Ikutose haruka Isoiso to kanchigai Dita no nichijou Yuusounaru tatakai Hanayakana nigiwai Ten o oou kage Final Fantasy Unlimited Over the FANTASY Romancing Train VIVID Chocobo Walk, Anywhere FLCL Instant Music One Life Kabalevsky from &#8216;Clown&#8217; ~Gallop Hybrid Raindow Beautiful <a href='http://www.meujogonaosalva.net/2015/04/25/bgmcast-027-sword-art-online-vandread-final-fantasy-unlimited-e-flcl/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p>Sword Art Online</p>
+<p>INNOCENCE<br />
+A Narrow Scape<br />
+Smile for me<br />
+Critical Phase<br />
+Overfly</p>
+<p>Vandread</p>
+<p>Ikutose haruka<br />
+Isoiso to kanchigai<br />
+Dita no nichijou<br />
+Yuusounaru tatakai<br />
+Hanayakana nigiwai<br />
+Ten o oou kage</p>
+<p>Final Fantasy Unlimited</p>
+<p>Over the FANTASY<br />
+Romancing Train<br />
+VIVID<br />
+Chocobo Walk, Anywhere</p>
+<p>FLCL</p>
+<p>Instant Music<br />
+One Life<br />
+Kabalevsky from &#8216;Clown&#8217; ~Gallop<br />
+Hybrid Raindow</p>
+<p>Beautiful Morning With You</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/04/25/bgmcast-027-sword-art-online-vandread-final-fantasy-unlimited-e-flcl/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/04/BGMCast027.mp3" length="56883200" type="audio/mpeg" />
+		<itunes:subtitle>Playlist Sword Art Online INNOCENCE A Narrow Scape Smile for me Critical Phase Overfly Vandread Ikutose haruka Isoiso to kanchigai Dita no nichijou Yuusounaru tatakai Hanayakana nigiwai Ten o oou kage Final Fantasy Unlimited Over the FANTASY Romancing ...</itunes:subtitle>
+		<itunes:summary>Playlist Sword Art Online INNOCENCE A Narrow Scape Smile for me Critical Phase Overfly Vandread Ikutose haruka Isoiso to kanchigai Dita no nichijou Yuusounaru tatakai Hanayakana nigiwai Ten o oou kage Final Fantasy Unlimited Over the FANTASY Romancing Train VIVID Chocobo Walk, Anywhere FLCL Instant Music One Life Kabalevsky from ‘Clown’ ~Gallop Hybrid Raindow Beautiful [...]</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
+		<itunes:duration>58:45</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #026 – Mortal Kombat I,II e III</title>
+		<link>http://www.meujogonaosalva.net/2015/04/18/bgmcast-026-mortal-kombat-iii-e-iii/</link>
+		<comments>http://www.meujogonaosalva.net/2015/04/18/bgmcast-026-mortal-kombat-iii-e-iii/#respond</comments>
+		<pubDate>Sat, 18 Apr 2015 09:10:52 +0000</pubDate>
+		<dc:creator><![CDATA[liquuid]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[mortal kombat]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=883</guid>
+		<description><![CDATA[Nesse episódio: Mortal Kombat I: In the Beginning&#8230;. The Courtyard The Temple Gate The Cavern The Bridge Goro and the Emperor Victory SCRLAHTS Mortal Kombat II: Prologue: The Battlefield The Dead Pool The Screaming Forest The Armory The Portal Air Kombat Shao Kahn&#8217;s Last Stand Mortal Kombat III: Tittle Screen Player Select Battle Plan VS <a href='http://www.meujogonaosalva.net/2015/04/18/bgmcast-026-mortal-kombat-iii-e-iii/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<p>Nesse episódio:</p>
+<p>Mortal Kombat I: </p>
+<p>In the Beginning&#8230;.<br />
+The Courtyard<br />
+The Temple Gate<br />
+The Cavern<br />
+The Bridge<br />
+Goro and the Emperor<br />
+Victory<br />
+SCRLAHTS</p>
+<p>Mortal Kombat II:</p>
+<p>Prologue: The Battlefield<br />
+The Dead Pool<br />
+The Screaming Forest<br />
+The Armory<br />
+The Portal<br />
+Air Kombat<br />
+Shao Kahn&#8217;s Last Stand </p>
+<p>Mortal Kombat III:</p>
+<p>Tittle Screen<br />
+Player Select<br />
+Battle Plan<br />
+VS<br />
+The Subway<br />
+Rooftop<br />
+Victory<br />
+The Bank<br />
+The Temple<br />
+The Streets<br />
+The Bridge<br />
+The Pit<br />
+Soul Chamber<br />
+Shao kahn Tower</p>
+<p>Apresentação: liquuid</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/04/18/bgmcast-026-mortal-kombat-iii-e-iii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/04/bgmcast-026.mp3" length="51224347" type="audio/mpeg" />
+		<itunes:subtitle>Nesse episódio: Mortal Kombat I: In the Beginning…. The Courtyard The Temple Gate The Cavern The Bridge Goro and the Emperor Victory SCRLAHTS Mortal Kombat II: Prologue: The Battlefield The Dead Pool The Screaming Forest The Armory The Portal Air Komba...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Mortal Kombat I: In the Beginning…. The Courtyard The Temple Gate The Cavern The Bridge Goro and the Emperor Victory SCRLAHTS Mortal Kombat II: Prologue: The Battlefield The Dead Pool The Screaming Forest The Armory The Portal Air Kombat Shao Kahn’s Last Stand Mortal Kombat III: Tittle Screen Player Select Battle Plan VS [...]</itunes:summary>
+		<itunes:author>bgmcast</itunes:author>
+		<itunes:duration>50:36</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #025 &#8211; Especial Nostalgia!</title>
+		<link>http://www.meujogonaosalva.net/2015/04/12/bgmcast-025-especial-nostalgia/</link>
+		<comments>http://www.meujogonaosalva.net/2015/04/12/bgmcast-025-especial-nostalgia/#respond</comments>
+		<pubDate>Sun, 12 Apr 2015 17:42:54 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[captain tsubasa]]></category>
+		<category><![CDATA[digimon]]></category>
+		<category><![CDATA[dragon ball]]></category>
+		<category><![CDATA[dragon quest]]></category>
+		<category><![CDATA[ducktales]]></category>
+		<category><![CDATA[el hazard]]></category>
+		<category><![CDATA[inuyasha]]></category>
+		<category><![CDATA[jibaku-kun]]></category>
+		<category><![CDATA[mahou kishi rayearth]]></category>
+		<category><![CDATA[patlabor]]></category>
+		<category><![CDATA[pokemon]]></category>
+		<category><![CDATA[rurouni warriors]]></category>
+		<category><![CDATA[saint seiya]]></category>
+		<category><![CDATA[sakura card captor]]></category>
+		<category><![CDATA[saylor moon]]></category>
+		<category><![CDATA[shurato]]></category>
+		<category><![CDATA[slayers]]></category>
+		<category><![CDATA[street fighter]]></category>
+		<category><![CDATA[tenchi muyo]]></category>
+		<category><![CDATA[us manga]]></category>
+		<category><![CDATA[yu yu hakusho]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=872</guid>
+		<description><![CDATA[Playlist Saint Seiya Classico Abertura 1 Abertura 2 Guerreiras Mágicas de Rayearth Abertura Encerramento Super Campeões Abertura Encerramento Shurato Abertura Encerramento Saylor Moon Abertura Encerramento Samurai Warriors Abertura Fly (Dragon Quest) Abertura Dragon Ball Abertura Encerramento Street Fighter II Victory Abertura Encerramento US Mangá do Brasil Abertura Yu Yu Hakusho Abertura Encerramento 1 Encerramento 2 <a href='http://www.meujogonaosalva.net/2015/04/12/bgmcast-025-especial-nostalgia/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist</h1>
+<p>Saint Seiya Classico</p>
+<p style="padding-left: 30px;">Abertura 1<br />
+Abertura 2</p>
+<p>Guerreiras Mágicas de Rayearth</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>Super Campeões</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>Shurato</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>Saylor Moon</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>Samurai Warriors</p>
+<p style="padding-left: 30px;">Abertura</p>
+<p>Fly (Dragon Quest)</p>
+<p style="padding-left: 30px;">Abertura</p>
+<p>Dragon Ball</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>Street Fighter II Victory</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>US Mangá do Brasil</p>
+<p style="padding-left: 30px;">Abertura</p>
+<p>Yu Yu Hakusho</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento 1<br />
+Encerramento 2<br />
+Encerramento 3<br />
+Encerramento 4<br />
+Encerramento 5</p>
+<p>Pokemon</p>
+<p style="padding-left: 30px;">Varias aberturas</p>
+<p>Digimon</p>
+<p style="padding-left: 30px;">Várias aberturas</p>
+<p>Dragon Ball Z</p>
+<p style="padding-left: 30px;">Abertura 1<br />
+Abertura 2<br />
+Encerramento</p>
+<p>Patlabor</p>
+<p style="padding-left: 30px;">Abertura 1<br />
+Abertura 2</p>
+<p>Sakura Card Captor</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>Hantaro</p>
+<p style="padding-left: 30px;">Abertura</p>
+<p>Inuyasha</p>
+<p style="padding-left: 30px;">Várias aberturas e encerramentos</p>
+<p>Dragon Ball GT</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>Slayers</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>Bucky</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>Tenchi Muyo</p>
+<p style="padding-left: 30px;">Abertura<br />
+Encerramento</p>
+<p>El Hazard</p>
+<p style="padding-left: 30px;">Abertura</p>
+<p>Saint Seiya</p>
+<p style="padding-left: 30px;">Abertura 1<br />
+Abertura 2<br />
+Encerramento</p>
+<p>DuckTales (extra hehe)</p>
+<p style="padding-left: 30px;">Abertura</p>
+<p style="padding-left: 30px;">
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/04/12/bgmcast-025-especial-nostalgia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/04/BGMCast25.mp3" length="68937728" type="audio/mpeg" />
+		<itunes:subtitle>Playlist Saint Seiya Classico Abertura 1 Abertura 2 Guerreiras Mágicas de Rayearth Abertura Encerramento Super Campeões Abertura Encerramento Shurato Abertura Encerramento Saylor Moon Abertura Encerramento Samurai Warriors Abertura Fly (Dragon Quest) A...</itunes:subtitle>
+		<itunes:summary>Playlist Saint Seiya Classico Abertura 1 Abertura 2 Guerreiras Mágicas de Rayearth Abertura Encerramento Super Campeões Abertura Encerramento Shurato Abertura Encerramento Saylor Moon Abertura Encerramento Samurai Warriors Abertura Fly (Dragon Quest) Abertura Dragon Ball Abertura Encerramento Street Fighter II Victory Abertura Encerramento US Mangá do Brasil Abertura Yu Yu Hakusho Abertura Encerramento 1 Encerramento 2 [...]</itunes:summary>
+		<itunes:author>Otavio modolo</itunes:author>
+		<itunes:duration>1:33:21</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #024 – Aberturas de GTA, Double Dragon Neon</title>
+		<link>http://www.meujogonaosalva.net/2015/04/04/bgmcast-024-aberturas-de-gta-double-dragon-neon/</link>
+		<comments>http://www.meujogonaosalva.net/2015/04/04/bgmcast-024-aberturas-de-gta-double-dragon-neon/#respond</comments>
+		<pubDate>Sat, 04 Apr 2015 20:44:21 +0000</pubDate>
+		<dc:creator><![CDATA[liquuid]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[double dragon]]></category>
+		<category><![CDATA[Double Dragon Neon]]></category>
+		<category><![CDATA[gta]]></category>
+		<category><![CDATA[ninja gaiden 2]]></category>
+		<category><![CDATA[Super Metroid]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=858</guid>
+		<description><![CDATA[Nesse episódio: Música de abertura de todos os GTA Super Metroid Medley &#8211; FamilyJules7X Ninja Gaiden 2, Act 4 -2 &#8211; eman3624 Double Dragon &#8211; Ferdk Double Dragon Neon: Neon Jungle &#8211; Mango Tango Firebird &#8211; Billy and the Breakers Glad I am &#8211; Lee Brothers Pick yourself up and dance Final Palace Dared to <a href='http://www.meujogonaosalva.net/2015/04/04/bgmcast-024-aberturas-de-gta-double-dragon-neon/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<p>Nesse episódio:</p>
+<p>Música de abertura de todos os GTA</p>
+<p>Super Metroid Medley &#8211; FamilyJules7X<br />
+Ninja Gaiden 2, Act 4 -2 &#8211; eman3624<br />
+Double Dragon &#8211;  Ferdk</p>
+<p>Double Dragon Neon:<br />
+Neon Jungle &#8211; Mango Tango<br />
+Firebird &#8211; Billy and the Breakers<br />
+Glad I am &#8211; Lee Brothers<br />
+Pick yourself up and dance<br />
+Final Palace<br />
+Dared to Dream</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/04/04/bgmcast-024-aberturas-de-gta-double-dragon-neon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/04/bgmcast-024.mp3" length="60344181" type="audio/mpeg" />
+		<itunes:subtitle>Nesse episódio: Música de abertura de todos os GTA Super Metroid Medley – FamilyJules7X Ninja Gaiden 2, Act 4 -2 – eman3624 Double Dragon – Ferdk Double Dragon Neon: Neon Jungle – Mango Tango Firebird – Billy and the Breakers Glad I am – Lee Brothers P...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Música de abertura de todos os GTA Super Metroid Medley – FamilyJules7X Ninja Gaiden 2, Act 4 -2 – eman3624 Double Dragon – Ferdk Double Dragon Neon: Neon Jungle – Mango Tango Firebird – Billy and the Breakers Glad I am – Lee Brothers Pick yourself up and dance Final Palace Dared to [...]</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
+		<itunes:duration>1:02:43</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #023 &#8211; Initial D, Steins Gate, Code Geass e Vandread</title>
+		<link>http://www.meujogonaosalva.net/2015/03/28/bgmcast-023-initial-d-steins-gate-code-geass-e-vandread/</link>
+		<comments>http://www.meujogonaosalva.net/2015/03/28/bgmcast-023-initial-d-steins-gate-code-geass-e-vandread/#respond</comments>
+		<pubDate>Sat, 28 Mar 2015 05:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[code geass]]></category>
+		<category><![CDATA[initial d]]></category>
+		<category><![CDATA[steins gate]]></category>
+		<category><![CDATA[vandread]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=844</guid>
+		<description><![CDATA[Playlist: Initial D Nobody Reason Remember Me Don&#8217;t Stop the Music Space Boy Steins;Gate GATE OF STEINER Itsumo Kono Basho de (Movie Size) Tokitsukasadoru Juuni no Meiyaku Hacking to the Gate Code Geass Colors Mosaic Kakera Code Geass Boukoku no Akito &#8211; More Than Word World End Vandread Trust Iccohokusen ni ooabare Moetagiru ikari Ichizuna <a href='http://www.meujogonaosalva.net/2015/03/28/bgmcast-023-initial-d-steins-gate-code-geass-e-vandread/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h1>Playlist:</h1>
+<p>Initial D</p>
+<p>Nobody Reason<br />
+Remember Me<br />
+Don&#8217;t Stop the Music<br />
+Space Boy</p>
+<p>Steins;Gate</p>
+<p>GATE OF STEINER<br />
+Itsumo Kono Basho de (Movie Size)<br />
+Tokitsukasadoru Juuni no Meiyaku<br />
+Hacking to the Gate</p>
+<p>Code Geass</p>
+<p>Colors<br />
+Mosaic Kakera<br />
+Code Geass Boukoku no Akito &#8211; More Than Word<br />
+World End</p>
+<p>Vandread</p>
+<p>Trust<br />
+Iccohokusen ni ooabare<br />
+Moetagiru ikari<br />
+Ichizuna omoi<br />
+Uchuu ni haseru yume</p>
+<p>Himegoto</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/03/28/bgmcast-023-initial-d-steins-gate-code-geass-e-vandread/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/03/BGMCast023.mp3" length="71153664" type="audio/mpeg" />
+		<itunes:subtitle>Playlist: Initial D Nobody Reason Remember Me Don’t Stop the Music Space Boy Steins;Gate GATE OF STEINER Itsumo Kono Basho de (Movie Size) Tokitsukasadoru Juuni no Meiyaku Hacking to the Gate Code Geass Colors Mosaic Kakera Code Geass Boukoku no Akito ...</itunes:subtitle>
+		<itunes:summary>Playlist: Initial D Nobody Reason Remember Me Don’t Stop the Music Space Boy Steins;Gate GATE OF STEINER Itsumo Kono Basho de (Movie Size) Tokitsukasadoru Juuni no Meiyaku Hacking to the Gate Code Geass Colors Mosaic Kakera Code Geass Boukoku no Akito – More Than Word World End Vandread Trust Iccohokusen ni ooabare Moetagiru ikari Ichizuna [...]</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>1:13:37</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #021</title>
+		<link>http://www.meujogonaosalva.net/2015/03/14/bgmcast-021/</link>
+		<comments>http://www.meujogonaosalva.net/2015/03/14/bgmcast-021/#respond</comments>
+		<pubDate>Sat, 14 Mar 2015 05:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[jojo]]></category>
+		<category><![CDATA[nekomonogatari]]></category>
+		<category><![CDATA[nisemonogatari]]></category>
+		<category><![CDATA[shin sekai yori]]></category>
+		<category><![CDATA[sword art online]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=806</guid>
+		<description><![CDATA[Playlist: Nisemonogatari Naisho no Hanashi Mashmallow Justice Futakotome Nekomonogatari (Kuro) Perfect Slumber JoJo no Kimyou na Bouken Sono Chi no Sadame Blood Strain Stand Proud Sono Chi no Kioku Sword Art Online Yume Sekai Swordland March Down Luminous Sword Crossing Field Shin Sekai Yori Kage no Dai Ichibu Down the River Kage no Denshouka Dai <a href='http://www.meujogonaosalva.net/2015/03/14/bgmcast-021/' class='excerpt-more'>[...]</a>]]></description>
+				<content:encoded><![CDATA[<h2>Playlist:</h2>
+<p>Nisemonogatari</p>
+<p>Naisho no Hanashi<br />
+Mashmallow Justice<br />
+Futakotome</p>
+<p>Nekomonogatari (Kuro)</p>
+<p>Perfect Slumber</p>
+<p>JoJo no Kimyou na Bouken</p>
+<p>Sono Chi no Sadame<br />
+Blood Strain<br />
+Stand Proud<br />
+Sono Chi no Kioku</p>
+<p>Sword Art Online</p>
+<p>Yume Sekai<br />
+Swordland<br />
+March Down<br />
+Luminous Sword<br />
+Crossing Field</p>
+<p>Shin Sekai Yori</p>
+<p>Kage no Dai Ichibu<br />
+Down the River<br />
+Kage no Denshouka Dai Ni Bu<br />
+Strain of Fight<br />
+Kage no Denshouka Dai San Bu<br />
+Wareta Ringo</p>
+<p>Yuki ni Saku Hana</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/03/14/bgmcast-021/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/03/bgmcast021.mp3" length="72169472" type="audio/mpeg" />
+		<itunes:subtitle>Playlist: Nisemonogatari Naisho no Hanashi Mashmallow Justice Futakotome Nekomonogatari (Kuro) Perfect Slumber JoJo no Kimyou na Bouken Sono Chi no Sadame Blood Strain Stand Proud Sono Chi no Kioku Sword Art Online Yume Sekai Swordland March Down Lumin...</itunes:subtitle>
+		<itunes:summary>Playlist: Nisemonogatari Naisho no Hanashi Mashmallow Justice Futakotome Nekomonogatari (Kuro) Perfect Slumber JoJo no Kimyou na Bouken Sono Chi no Sadame Blood Strain Stand Proud Sono Chi no Kioku Sword Art Online Yume Sekai Swordland March Down Luminous Sword Crossing Field Shin Sekai Yori Kage no Dai Ichibu Down the River Kage no Denshouka Dai [...]</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
+		<itunes:duration>1:14:40</itunes:duration>
+	</item>
+		<item>
+		<title>BGMCast #020 &#8211; Lords of Shadow</title>
+		<link>http://www.meujogonaosalva.net/2015/03/07/bgmcast-020-lords-of-shadow/</link>
+		<comments>http://www.meujogonaosalva.net/2015/03/07/bgmcast-020-lords-of-shadow/#respond</comments>
+		<pubDate>Sat, 07 Mar 2015 04:52:33 +0000</pubDate>
+		<dc:creator><![CDATA[liquuid]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Castlevania]]></category>
+		<category><![CDATA[especial]]></category>
+		<category><![CDATA[lords of shadow]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=816</guid>
+		<description><![CDATA[Nesse episódio especial Lords of Shadow Besieged Village The Warg Hunting Path The Dead Bog The Swamp Troll The Ice Titan Labyrinth Entrance Waterfalls of Agharta Agharta Cornell Maze Gardens Castle Hall The Evil Butcher LauraÆs Mercy Carmilla The God Mask BelmontÆs Theme Final Confrontation The End Love Lost Apresentação : liquuid]]></description>
+				<content:encoded><![CDATA[<p>Nesse episódio especial Lords of Shadow</p>
+<p>Besieged Village<br />
+The Warg<br />
+Hunting Path<br />
+The Dead Bog<br />
+The Swamp Troll<br />
+The Ice Titan<br />
+Labyrinth Entrance<br />
+Waterfalls of Agharta<br />
+Agharta<br />
+Cornell<br />
+Maze Gardens<br />
+Castle Hall<br />
+The Evil Butcher<br />
+LauraÆs Mercy<br />
+Carmilla<br />
+The God Mask<br />
+BelmontÆs Theme<br />
+Final Confrontation<br />
+The End<br />
+Love Lost</p>
+<p>Apresentação : liquuid</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/03/07/bgmcast-020-lords-of-shadow/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/03/bgmcast-020.mp3" length="65791956" type="audio/mpeg" />
+		<itunes:subtitle>Nesse episódio especial Lords of Shadow Besieged Village The Warg Hunting Path The Dead Bog The Swamp Troll The Ice Titan Labyrinth Entrance Waterfalls of Agharta Agharta Cornell Maze Gardens Castle Hall The Evil Butcher LauraÆs Mercy Carmilla The God ...</itunes:subtitle>
+		<itunes:summary>Nesse episódio especial Lords of Shadow Besieged Village The Warg Hunting Path The Dead Bog The Swamp Troll The Ice Titan Labyrinth Entrance Waterfalls of Agharta Agharta Cornell Maze Gardens Castle Hall The Evil Butcher LauraÆs Mercy Carmilla The God Mask BelmontÆs Theme Final Confrontation The End Love Lost Apresentação : liquuid</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
+		<itunes:duration>1:05:36</itunes:duration>
+		<rawvoice:poster url="http://www.meujogonaosalva.net/wp-content/uploads/2015/03/bgmcast020.png" />
+	</item>
+		<item>
+		<title>BGMCast #019</title>
+		<link>http://www.meujogonaosalva.net/2015/02/28/bgmcast-019/</link>
+		<comments>http://www.meujogonaosalva.net/2015/02/28/bgmcast-019/#respond</comments>
+		<pubDate>Sat, 28 Feb 2015 05:00:43 +0000</pubDate>
+		<dc:creator><![CDATA[id]]></dc:creator>
+				<category><![CDATA[BGMCast]]></category>
+		<category><![CDATA[BGMCast e Jemf]]></category>
+		<category><![CDATA[Mjns e BGMCast]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[durarara]]></category>
+		<category><![CDATA[earth girl arjuna]]></category>
+		<category><![CDATA[initial d]]></category>
+		<category><![CDATA[Rurouni Kenshin]]></category>
+
+		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=775</guid>
+		<description><![CDATA[Playlist: Rurouni Kenshin Dame 1/2 (Hanbun) 1/3 no junjou na kanjou (Sanbun no Junjou na Kanjou) Kimi ni Fureru dake de Earth Girl Arjuna One Saigo no Mameshiba Sanctuary Mameshiba Durarara!! Trust Me Butterfly Uragiri no Yuuyake Complication Initial D Around the World Rage your Dream Noizy Tribe Dog Fight Blast my Desire]]></description>
+				<content:encoded><![CDATA[<h1>Playlist:</h1>
+<p><strong>Rurouni Kenshin</strong></p>
+<p>Dame<br />
+1/2 (Hanbun)<br />
+1/3 no junjou na kanjou (Sanbun no Junjou na Kanjou)<br />
+Kimi ni Fureru dake de</p>
+<p><strong>Earth Girl Arjuna</strong></p>
+<p>One<br />
+Saigo no Mameshiba<br />
+Sanctuary<br />
+Mameshiba</p>
+<p><strong>Durarara!!</strong></p>
+<p>Trust Me<br />
+Butterfly<br />
+Uragiri no Yuuyake<br />
+Complication</p>
+<p><strong>Initial D</strong></p>
+<p>Around the World<br />
+Rage your Dream<br />
+Noizy Tribe<br />
+Dog Fight</p>
+<p>Blast my Desire</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.meujogonaosalva.net/2015/02/28/bgmcast-019/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/02/bgmcast019.mp3" length="75001856" type="audio/mpeg" />
+		<itunes:subtitle>Playlist: Rurouni Kenshin Dame 1/2 (Hanbun) 1/3 no junjou na kanjou (Sanbun no Junjou na Kanjou) Kimi ni Fureru dake de Earth Girl Arjuna One Saigo no Mameshiba Sanctuary Mameshiba Durarara!! Trust Me Butterfly Uragiri no Yuuyake Complication Initial D...</itunes:subtitle>
+		<itunes:summary>Playlist: Rurouni Kenshin Dame 1/2 (Hanbun) 1/3 no junjou na kanjou (Sanbun no Junjou na Kanjou) Kimi ni Fureru dake de Earth Girl Arjuna One Saigo no Mameshiba Sanctuary Mameshiba Durarara!! Trust Me Butterfly Uragiri no Yuuyake Complication Initial D Around the World Rage your Dream Noizy Tribe Dog Fight Blast my Desire</itunes:summary>
+		<itunes:author>Otavio Modolo</itunes:author>
+		<itunes:duration>1:17:38</itunes:duration>
+	</item>
+		<item>
 		<title>BGMCast #018 &#8211; Esquadrão Relâmpago Changeman</title>
 		<link>http://www.meujogonaosalva.net/2015/02/21/bgmcast-018-esquadrao-relampago-changeman/</link>
-		<comments>http://www.meujogonaosalva.net/2015/02/21/bgmcast-018-esquadrao-relampago-changeman/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2015/02/21/bgmcast-018-esquadrao-relampago-changeman/#respond</comments>
 		<pubDate>Sat, 21 Feb 2015 09:07:27 +0000</pubDate>
 		<dc:creator><![CDATA[liquuid]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -87,48 +1325,15 @@ Shouke! Uchuu e</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2015/02/21/bgmcast-018-esquadrao-relampago-changeman/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/02/bgmcast-018.mp3" length="71818572" type="audio/mpeg" />
-		<itunes:subtitle>Nesse episódio fiz uma homenagem aos 30 anos da estreia de Changeman no Japão - Senppu no Ginga Dai Seidan Gosma Earth Force Changeman Tanjou Yume Wa Dekkaku Shinryuku Mono Yuugen Hiddler Hei Seishun no Yakudou Densetsu no Mamoru Gojin - </itunes:subtitle>
-		<itunes:summary>Nesse episódio fiz uma homenagem aos 30 anos da estreia de Changeman no Japão
-
-Senppu no Ginga
-Dai Seidan Gosma
-Earth Force
-Changeman Tanjou
-Yume Wa Dekkaku
-Shinryuku Mono
-Yuugen Hiddler Hei
-Seishun no Yakudou
-Densetsu no Mamoru Gojin
-
-Gekitotsu
-Atsuki Yuusha Tachi
-Lady Soldier
-Shumei no nana
-Ahames Kimi Yo Utsukushiki Are
-Omoide no Soudake
-Yami Kara no Yobikoe
-Kanashumi Uchuu Juushi
-Ore Tachi wa Makenai!
-Oigeki
-
-Isoge! Kessen No jie!
-Let&#039;s Change
-Shutter Base Hasshin
-Fight Change Robo
-Asteroid Memory
-Shouke! Uchuu e
-
-Never Stop Changeman
-
-apresentação: liquuid</itunes:summary>
-		<itunes:author>Otavio Modolo, Rafael Dias &amp; Sammy Davila</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Nesse episódio fiz uma homenagem aos 30 anos da estreia de Changeman no Japão Senppu no Ginga Dai Seidan Gosma Earth Force Changeman Tanjou Yume Wa Dekkaku Shinryuku Mono Yuugen Hiddler Hei Seishun no Yakudou Densetsu no Mamoru Gojin Gekitotsu Atsuki Y...</itunes:subtitle>
+		<itunes:summary>Nesse episódio fiz uma homenagem aos 30 anos da estreia de Changeman no Japão Senppu no Ginga Dai Seidan Gosma Earth Force Changeman Tanjou Yume Wa Dekkaku Shinryuku Mono Yuugen Hiddler Hei Seishun no Yakudou Densetsu no Mamoru Gojin Gekitotsu Atsuki Yuusha Tachi Lady Soldier Shumei no nana Ahames Kimi Yo Utsukushiki Are Omoide no [...]</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
 		<rawvoice:poster url="http://www.meujogonaosalva.net/wp-content/uploads/2015/01/bgmcast018.png" />
 	</item>
 		<item>
 		<title>BGMCast #017</title>
 		<link>http://www.meujogonaosalva.net/2015/02/14/bgmcast-017/</link>
-		<comments>http://www.meujogonaosalva.net/2015/02/14/bgmcast-017/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2015/02/14/bgmcast-017/#respond</comments>
 		<pubDate>Sat, 14 Feb 2015 04:00:36 +0000</pubDate>
 		<dc:creator><![CDATA[id]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -167,38 +1372,15 @@ apresentação: liquuid</itunes:summary>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2015/02/14/bgmcast-017/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/01/bgmcast017.mp3" length="77135872" type="audio/mpeg" />
-		<itunes:subtitle>Playlist: Love Hina - Friendship Love Hina - Egao no Mirai e Love Hina Again - Kirari Takaramono Love Hina Again - Be For You, Be For Me - Yami to Boushi to Hon no Tabibito - Hitomi no naka no Meikyuu </itunes:subtitle>
-		<itunes:summary>Playlist:
-Love Hina - Friendship
-Love Hina - Egao no Mirai e
-Love Hina Again - Kirari Takaramono
-Love Hina Again - Be For You, Be For Me
-
-Yami to Boushi to Hon no Tabibito - Hitomi no naka no Meikyuu
-Yami to Boushi to Hon no Tabibito - Eien no Inori wo Sasagete
-Touka Gettan - Yume Oboro
-Touka Gettan - Kono Sekai ga Itsuka wa
-
-Kyousougiga - Koko
-Kyousougiga - City of Eternity
-Kyousougiga - The Secret of My Life
-Kyousougiga - Flawless
-Kyousougiga - Shissou Ginga
-
-Fullmetal Alchemist Brotherhood - Again
-Fullmetal Alchemist Brotherhood - Hologram
-Fullmetal Alchemist Brotherhood - Golden Time Lover
-Fullmetal Alchemist Brotherhood - Period
-
-Fullmetal Alchemist Brotherhood - Rain</itunes:summary>
-		<itunes:author>Otavio Modolo, Rafael Dias &amp; Sammy Davila</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Playlist: Love Hina – Friendship Love Hina – Egao no Mirai e Love Hina Again – Kirari Takaramono Love Hina Again – Be For You, Be For Me Yami to Boushi to Hon no Tabibito – Hitomi no naka no Meikyuu Yami to Boushi to Hon no Tabibito – Eien no Inori wo ...</itunes:subtitle>
+		<itunes:summary>Playlist: Love Hina – Friendship Love Hina – Egao no Mirai e Love Hina Again – Kirari Takaramono Love Hina Again – Be For You, Be For Me Yami to Boushi to Hon no Tabibito – Hitomi no naka no Meikyuu Yami to Boushi to Hon no Tabibito – Eien no Inori wo Sasagete Touka [...]</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
 		<itunes:duration>1:19:51</itunes:duration>
 	</item>
 		<item>
 		<title>BGMCast #016</title>
 		<link>http://www.meujogonaosalva.net/2015/02/07/bgmcast-016/</link>
-		<comments>http://www.meujogonaosalva.net/2015/02/07/bgmcast-016/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2015/02/07/bgmcast-016/#respond</comments>
 		<pubDate>Sat, 07 Feb 2015 14:18:21 +0000</pubDate>
 		<dc:creator><![CDATA[liquuid]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -254,55 +1436,15 @@ Slum &#8211; Might Final Fight (NES)</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2015/02/07/bgmcast-016/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/02/BGMCast-016.mp3" length="54329297" type="audio/mpeg" />
-		<itunes:subtitle>Nesse episódio: - Silver Surfer (NES) - Goonies II (NES) BGM 4 - Big Nose (NES) Olga Breeze - Sagaia (SMS) Sector 2 - Power Blade (NES) - Bloco Mega Man 5 (NES) - Gravityman Gyroman Chargeman Napalmman Protoman fortress - </itunes:subtitle>
-		<itunes:summary>Nesse episódio:
-
-Silver Surfer (NES)
-
-Goonies II (NES)
-BGM 4 - Big Nose (NES)
-Olga Breeze - Sagaia (SMS)
-Sector 2 - Power Blade (NES)
-
-Bloco Mega Man 5 (NES)
-
-Gravityman
-Gyroman
-Chargeman
-Napalmman
-Protoman fortress
-
-Main Theme &amp; Overworld - Super Mario Bros 1 (NES)
-Overword - Super Mario Bros 2 (NES)
-Overword 2 - Super Mario Bros 3 (NES)
-Kid Battle - Super Mario Bros 3 (NES)
-
-Bloody tears - Castlevania II (NES)
-
-Akumajou Special: Boku Dracula Kun (NES)
-
-Go, Go at the castle 
-Hop and step above the clouds
-Roller Coaster Ride
-
-Happy Birthday - Gimmick (NES)
-Level 1 - Gremlins 2 (NES)
-Ice cream Island - Kirby’s Adventure (NES)
-tower of lahja - Ninja Gaiden 2 (NES)
-Stage 5 - Lifeforce (NES)
-Slum - Might Final Fight (NES)
-
-Reunion - Might Final Fight (NES)
-
-Apresentação: liquuid</itunes:summary>
-		<itunes:author>Otavio Modolo, Rafael Dias &amp; Sammy Davila</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Nesse episódio: Silver Surfer (NES) Goonies II (NES) BGM 4 – Big Nose (NES) Olga Breeze – Sagaia (SMS) Sector 2 – Power Blade (NES) Bloco Mega Man 5 (NES) Gravityman Gyroman Chargeman Napalmman Protoman fortress Main Theme &amp; Overworld – Super Mario Bro...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Silver Surfer (NES) Goonies II (NES) BGM 4 – Big Nose (NES) Olga Breeze – Sagaia (SMS) Sector 2 – Power Blade (NES) Bloco Mega Man 5 (NES) Gravityman Gyroman Chargeman Napalmman Protoman fortress Main Theme &amp; Overworld – Super Mario Bros 1 (NES) Overword – Super Mario Bros 2 (NES) Overword 2 [...]</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
 		<itunes:duration>56:27</itunes:duration>
 	</item>
 		<item>
 		<title>BGMCast #015</title>
 		<link>http://www.meujogonaosalva.net/2015/01/31/bgmcast-015/</link>
-		<comments>http://www.meujogonaosalva.net/2015/01/31/bgmcast-015/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2015/01/31/bgmcast-015/#respond</comments>
 		<pubDate>Sat, 31 Jan 2015 04:00:27 +0000</pubDate>
 		<dc:creator><![CDATA[id]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -338,31 +1480,9 @@ Apresentação: liquuid</itunes:summary>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2015/01/31/bgmcast-015/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/01/bgmcast15.mp3" length="72171520" type="audio/mpeg" />
-		<itunes:subtitle>Playlist: Onegai Teacher - Shooting Star [op] Onegai Teacher - Sora no Mori de [ed] Onegai Teacher - Love a Riddle Onegai Teacher - Sora wa Takaranai - Scrapped Princess - Little Wing Scrapped Princess - Nodoka na tabi </itunes:subtitle>
-		<itunes:summary>Playlist:
-Onegai Teacher - Shooting Star [op]
-Onegai Teacher - Sora no Mori de [ed]
-Onegai Teacher - Love a Riddle
-Onegai Teacher - Sora wa Takaranai
-
-Scrapped Princess - Little Wing
-Scrapped Princess - Nodoka na tabi
-Scrapped Princess - Shannon Ryukishi e
-Scrapped Princess - Daichi no La-li-la
-
-Uchuu no Stelvia - Asu e no Brilliant Road
-Uchuu no Stelvia - The End of the World
-Uchuu no Stelvia - Over the Limits
-Uchuu no Stelvia - Kirei na Yozora
-
-Serial Experiments Lain - Duvet
-Serial Experiments Lain - Theme of a Hilly Road
-Serial Experiments Lain - Lain&#039;s Theme
-Serial Experiments Lain - Wind of Time-Zone
-
-Serial Experiments Lain - Far Shout</itunes:summary>
+		<itunes:subtitle>Playlist: Onegai Teacher – Shooting Star [op] Onegai Teacher – Sora no Mori de [ed] Onegai Teacher – Love a Riddle Onegai Teacher – Sora wa Takaranai Scrapped Princess – Little Wing Scrapped Princess – Nodoka na tabi Scrapped Princess – Shannon Ryukish...</itunes:subtitle>
+		<itunes:summary>Playlist: Onegai Teacher – Shooting Star [op] Onegai Teacher – Sora no Mori de [ed] Onegai Teacher – Love a Riddle Onegai Teacher – Sora wa Takaranai Scrapped Princess – Little Wing Scrapped Princess – Nodoka na tabi Scrapped Princess – Shannon Ryukishi e Scrapped Princess – Daichi no La-li-la Uchuu no Stelvia – Asu [...]</itunes:summary>
 		<itunes:author>Otavio Modolo</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:14:41</itunes:duration>
 	</item>
 		<item>
@@ -405,41 +1525,15 @@ Psyco soldier &#8211; KOF 94 (Neo Geo CD)</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2015/01/24/bgmcast-014-metroid-prime/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/01/bgmcast-014.mp3" length="61102087" type="audio/mpeg" />
-		<itunes:subtitle>Nesse episódio: - Metroid Prime (GC) - Tema Título Metroid Prime Tallon Overworld Phendrana Drifts Phendrana Drifts (Lake Area) Wreck Ship Frigate Orpheon Magmoor Caverns - Toki Tori 2 (PC) - All nice and quiet, or so it seems </itunes:subtitle>
-		<itunes:summary>Nesse episódio:
-
-Metroid Prime (GC)
-
-Tema Título Metroid Prime
-Tallon Overworld
-Phendrana Drifts
-Phendrana Drifts (Lake Area)
-Wreck Ship Frigate Orpheon
-Magmoor Caverns
-
-Toki Tori 2 (PC)
-
-All nice and quiet, or so it seems
-Where’s a glowy berrybug when you need one
-Sunny side up
-it’s easy be yellow
-Omellet du fromage
-
-
-Cntrol Crisis - KOF 97 (Neo Geo CD)
-In Spite Of One&#039;s Age (Master Team) - KOF 98 (Neo Geo CD)
-Ne! - KOF 94 (Neo Geo CD)
-Psyco soldier - KOF 94 (Neo Geo CD)
-
-Apresentação: liquuid</itunes:summary>
-		<itunes:author>Otavio Modolo, Rafael Dias &amp; Sammy Davila</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
+		<itunes:subtitle>Nesse episódio: Metroid Prime (GC) Tema Título Metroid Prime Tallon Overworld Phendrana Drifts Phendrana Drifts (Lake Area) Wreck Ship Frigate Orpheon Magmoor Caverns Toki Tori 2 (PC) All nice and quiet, or so it seems Where’s a glowy berrybug when you...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Metroid Prime (GC) Tema Título Metroid Prime Tallon Overworld Phendrana Drifts Phendrana Drifts (Lake Area) Wreck Ship Frigate Orpheon Magmoor Caverns Toki Tori 2 (PC) All nice and quiet, or so it seems Where’s a glowy berrybug when you need one Sunny side up it’s easy be yellow Omellet du fromage Cntrol Crisis [...]</itunes:summary>
+		<itunes:author>Otavio Modolo &amp; Rafael Dias</itunes:author>
 		<itunes:duration>1:03:30</itunes:duration>
 	</item>
 		<item>
 		<title>BGMCast #013</title>
 		<link>http://www.meujogonaosalva.net/2015/01/17/bgmcast-013/</link>
-		<comments>http://www.meujogonaosalva.net/2015/01/17/bgmcast-013/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2015/01/17/bgmcast-013/#respond</comments>
 		<pubDate>Sat, 17 Jan 2015 04:00:48 +0000</pubDate>
 		<dc:creator><![CDATA[id]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -475,37 +1569,15 @@ Apresentação: liquuid</itunes:summary>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2015/01/17/bgmcast-013/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/01/bgmcast013.mp3" length="71952384" type="audio/mpeg" />
-		<itunes:subtitle>Playlist: Fullmetal Alchemist Brotherhood - Uso Fullmetal Alchemist Brotherhood - Let it out Fullmetal Alchemist Brotherhood - Tsunaida te Fullmetal Alchemist Brotherhood - Sunkan Sentimental - Rurouni Kenshin - Sobakasu </itunes:subtitle>
-		<itunes:summary>Playlist:
-Fullmetal Alchemist Brotherhood - Uso
-Fullmetal Alchemist Brotherhood - Let it out
-Fullmetal Alchemist Brotherhood - Tsunaida te
-Fullmetal Alchemist Brotherhood - Sunkan Sentimental
-
-Rurouni Kenshin - Sobakasu
-Rurouni Kenshin - Kimi wa Dare wo Mamotte Iru
-Rurouni Kenshin - Kamyia Kaoru
-Rurouni Kenshin - Heart of the Sword
-
-Love Hina - Kimi Sae Ireba
-Love Hina - Smile Smile
-Love Hina - Hajimari wa Kokokara
-Love Hina - Sakura Saku Lullaby
-
-Last Exile - Cloud Age Sunphony
-Last Exile - Prayer for Love
-Last Exile - Ray of Hope
-Last Exile - Over the Sky [End Angel Feather Ver.]
-
-Last Exile - A New World Has Come</itunes:summary>
+		<itunes:subtitle>Playlist: Fullmetal Alchemist Brotherhood – Uso Fullmetal Alchemist Brotherhood – Let it out Fullmetal Alchemist Brotherhood – Tsunaida te Fullmetal Alchemist Brotherhood – Sunkan Sentimental Rurouni Kenshin – Sobakasu Rurouni Kenshin – Kimi wa Dare wo...</itunes:subtitle>
+		<itunes:summary>Playlist: Fullmetal Alchemist Brotherhood – Uso Fullmetal Alchemist Brotherhood – Let it out Fullmetal Alchemist Brotherhood – Tsunaida te Fullmetal Alchemist Brotherhood – Sunkan Sentimental Rurouni Kenshin – Sobakasu Rurouni Kenshin – Kimi wa Dare wo Mamotte Iru Rurouni Kenshin – Kamyia Kaoru Rurouni Kenshin – Heart of the Sword Love Hina – Kimi Sae [...]</itunes:summary>
 		<itunes:author>Otavio Modolo</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:14:27</itunes:duration>
 	</item>
 		<item>
 		<title>BGMCast #012</title>
 		<link>http://www.meujogonaosalva.net/2015/01/10/bgmcast-012/</link>
-		<comments>http://www.meujogonaosalva.net/2015/01/10/bgmcast-012/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2015/01/10/bgmcast-012/#respond</comments>
 		<pubDate>Sat, 10 Jan 2015 09:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[liquuid]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -544,43 +1616,15 @@ Heart Mirror</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2015/01/10/bgmcast-012/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2015/01/bgmcast-012.mp3" length="62323739" type="audio/mpeg" />
-		<itunes:subtitle>Nesse episódio: - Kokoro Scan (DS) Slingshot - Daytona USA 2 (ARC) Bloom of Crimson - Tenchu (PS1) Kiss Me Sunlights - Zone of the Enders (PS1) - Bloco especial Ace Combat 5 (PS2) - Hangar 1 Wardog Naval Blockade First Flight Rendevouz </itunes:subtitle>
-		<itunes:summary>Nesse episódio:
-
-Kokoro Scan (DS)
-Slingshot - Daytona USA 2 (ARC)
-Bloom of Crimson - Tenchu (PS1)
-Kiss Me Sunlights - Zone of the Enders (PS1)
-
-Bloco especial Ace Combat 5 (PS2)
-
-Hangar 1
-Wardog
-Naval Blockade
-First Flight
-Rendevouz
-White Bird
-Front Line
-Scinfax
-
-
-Samurai Shodown 3 (Neo Geo CD)
-
-Purifying Waterfall
-Three destinies of lamentation
-Heart Mirror
-
-Game Over do megaman 3 com letra!!!! por Brental Floss
-
-Apresentação: liquuid</itunes:summary>
+		<itunes:subtitle>Nesse episódio: Kokoro Scan (DS) Slingshot – Daytona USA 2 (ARC) Bloom of Crimson – Tenchu (PS1) Kiss Me Sunlights – Zone of the Enders (PS1) Bloco especial Ace Combat 5 (PS2) Hangar 1 Wardog Naval Blockade First Flight Rendevouz White Bird Front Line ...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Kokoro Scan (DS) Slingshot – Daytona USA 2 (ARC) Bloom of Crimson – Tenchu (PS1) Kiss Me Sunlights – Zone of the Enders (PS1) Bloco especial Ace Combat 5 (PS2) Hangar 1 Wardog Naval Blockade First Flight Rendevouz White Bird Front Line Scinfax Samurai Shodown 3 (Neo Geo CD) Purifying Waterfall Three destinies [...]</itunes:summary>
 		<itunes:author>liquuid</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:04:47</itunes:duration>
 	</item>
 		<item>
 		<title>BGMCast #011 &#8211; Mais Musicas de Animes!</title>
 		<link>http://www.meujogonaosalva.net/2015/01/03/bgmcast-011-mais-musicas-de-animes/</link>
-		<comments>http://www.meujogonaosalva.net/2015/01/03/bgmcast-011-mais-musicas-de-animes/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2015/01/03/bgmcast-011-mais-musicas-de-animes/#respond</comments>
 		<pubDate>Sat, 03 Jan 2015 04:00:09 +0000</pubDate>
 		<dc:creator><![CDATA[id]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -620,40 +1664,15 @@ Apresentação: liquuid</itunes:summary>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2015/01/03/bgmcast-011-mais-musicas-de-animes/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/12/bgmcast011.mp3" length="66629632" type="audio/mpeg" />
-		<itunes:subtitle>Playlist   - Gekijouban Escaflowne - Sóra Gekijouban Escaflowne - Call Your Name (Pianno Version) Gekijouban Escaflowne - Ring (Single Verion) Tenkuu no Escaflowne - Arcadia - Read or Die - Read or Die no Tema </itunes:subtitle>
-		<itunes:summary>Playlist
- 
-
-Gekijouban Escaflowne - Sóra
-Gekijouban Escaflowne - Call Your Name (Pianno Version)
-Gekijouban Escaflowne - Ring (Single Verion)
-Tenkuu no Escaflowne - Arcadia
-
-Read or Die - Read or Die no Tema
-Read or Die - Toraerarerumono ha Nashi
-Read or Die - Subete no Eichi wo Eikoku he!
-
-Kara no Kyoukai - Kimi ga Hikari ni Kaete
-Kara no Kyoukai - Sprinter
-Kara no Kyoukai - Seventh Heaven
-Kara no Kyoukai - Alleluia
-
-As musicas de Kara no Kyoukai são compostas pelo grupo Kalafina
-
-Honey and Clover - August Serenade
-Honey and Clover - Dramatic
-Honey and Clover - Hachimitsu
-Honey and Clover - Split
-
-Honey and Clover - Waltz</itunes:summary>
+		<itunes:subtitle>Playlist   Gekijouban Escaflowne – Sóra Gekijouban Escaflowne – Call Your Name (Pianno Version) Gekijouban Escaflowne – Ring (Single Verion) Tenkuu no Escaflowne – Arcadia Read or Die – Read or Die no Tema Read or Die – Toraerarerumono ha Nashi Read or...</itunes:subtitle>
+		<itunes:summary>Playlist   Gekijouban Escaflowne – Sóra Gekijouban Escaflowne – Call Your Name (Pianno Version) Gekijouban Escaflowne – Ring (Single Verion) Tenkuu no Escaflowne – Arcadia Read or Die – Read or Die no Tema Read or Die – Toraerarerumono ha Nashi Read or Die – Subete no Eichi wo Eikoku he! Kara no Kyoukai – [...]</itunes:summary>
 		<itunes:author>Otavio Modolo</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:08:54</itunes:duration>
 	</item>
 		<item>
 		<title>BGMCast #010</title>
 		<link>http://www.meujogonaosalva.net/2014/12/27/bgmcast-010/</link>
-		<comments>http://www.meujogonaosalva.net/2014/12/27/bgmcast-010/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2014/12/27/bgmcast-010/#respond</comments>
 		<pubDate>Sat, 27 Dec 2014 03:53:20 +0000</pubDate>
 		<dc:creator><![CDATA[liquuid]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -698,51 +1717,15 @@ Winning Run </p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2014/12/27/bgmcast-010/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/12/bgmcast-010.mp3" length="66832057" type="audio/mpeg" />
-		<itunes:subtitle>Nesse episódio: - Deus EX: Human Revolution (PC) - Icarus The Rive Hung Hua Brothel Música do final - Sonic Generations (PC) - City Escape Classic Chemical Plant Zone Classic Sky Sanctuary versão moderna - MetalGear Rising: Revengeance (PC) - </itunes:subtitle>
-		<itunes:summary>Nesse episódio:
-
-Deus EX: Human Revolution (PC)
-
-Icarus
-The Rive
-Hung Hua Brothel
-Música do final
-
-Sonic Generations (PC)
-
-City Escape Classic
-Chemical Plant Zone Classic
-Sky Sanctuary versão moderna
-
-MetalGear Rising: Revengeance (PC)
-
-Rules of Nature
-The Only thing I know for Real
-Dark Skies
-A Stranger I Remain
-The Saints of Time
-Red Sun
-A Soul Cant be cut
-The War Still Rages Within
-
-Every Little Step Genesis remix por DJYusoboy
-
-Super Hang-On :
-
-Outride A crisis
-Winning Run 
-
-Tema de encerramento do Streets of Rage 2
-
-Apresentação: liquuid</itunes:summary>
+		<itunes:subtitle>Nesse episódio: Deus EX: Human Revolution (PC) Icarus The Rive Hung Hua Brothel Música do final Sonic Generations (PC) City Escape Classic Chemical Plant Zone Classic Sky Sanctuary versão moderna MetalGear Rising: Revengeance (PC) Rules of Nature The O...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Deus EX: Human Revolution (PC) Icarus The Rive Hung Hua Brothel Música do final Sonic Generations (PC) City Escape Classic Chemical Plant Zone Classic Sky Sanctuary versão moderna MetalGear Rising: Revengeance (PC) Rules of Nature The Only thing I know for Real Dark Skies A Stranger I Remain The Saints of Time Red [...]</itunes:summary>
 		<itunes:author>liquuid</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:09:29</itunes:duration>
 	</item>
 		<item>
 		<title>BGMCast #009 &#8211; Agora é a vez dos animes!</title>
 		<link>http://www.meujogonaosalva.net/2014/12/20/bgmcast-009-agora-e-a-vez-dos-animes/</link>
-		<comments>http://www.meujogonaosalva.net/2014/12/20/bgmcast-009-agora-e-a-vez-dos-animes/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2014/12/20/bgmcast-009-agora-e-a-vez-dos-animes/#respond</comments>
 		<pubDate>Sat, 20 Dec 2014 04:00:34 +0000</pubDate>
 		<dc:creator><![CDATA[id]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -782,43 +1765,15 @@ Apresentação: liquuid</itunes:summary>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2014/12/20/bgmcast-009-agora-e-a-vez-dos-animes/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/12/bgmcast009.mp3" length="68857856" type="audio/mpeg" />
-		<itunes:subtitle>Percebi que tem uma quantidade razoável de musicas boas de animes pra usar nesses especiais, então esta não será a ultima vez que verão um BGMCast dedicado somente a trilhas de animes! -   Playlist   - Bakemonogatari - staple staple </itunes:subtitle>
-		<itunes:summary>Percebi que tem uma quantidade razoável de musicas boas de animes pra usar nesses especiais, então esta não será a ultima vez que verão um BGMCast dedicado somente a trilhas de animes!
-
- 
-Playlist
- 
-
-Bakemonogatari - staple staple
-Bakemonogatari - Kimi no Shiranai Monogatari
-Bakemonogatari - Sugar Sweet Nightmare
-
-Beck - Genki wo Dashite
-Beck - Moon on the Water - Original do Beat Crusaders
-Ouran Kouhou Host Club - Sakura Kiss
-Ouran Kouhou Host Club - Shissou
-
-Jungle wa Itsumo Hare Nochi Guu Final - LOVE Tropicana Final
-Jungle wa Itsumo Hare Nochi Guu - Okusama Ohashi
-Jungle wa Itsumo Hare Nochi Guu Deluxe - Fun Fun Shout
-Jungle wa Itsumo Hare Nochi Guu Final - Teruteru Bouzu
-
-Tenkuu no Escaflowne - Dance of Curse
-Tenkuu no Escaflowne - Epistle
-Tenkuu no Escaflowne - Angel
-Tenkuu no Escaflowne - The Day the Wind Blows
-
-Tenkuu no Escaflowne - Yakusoku wa Iranai
-
-As musicas de Tenkuu no Escaflowne foram compostas por Yoko Kanno, compositora conhecida pela trilha sonora de Cowboy Bebop</itunes:summary>
+		<itunes:subtitle>Percebi que tem uma quantidade razoável de musicas boas de animes pra usar nesses especiais, então esta não será a ultima vez que verão um BGMCast dedicado somente a trilhas de animes!   Playlist   Bakemonogatari – staple staple Bakemonogatari – Kimi n...</itunes:subtitle>
+		<itunes:summary>Percebi que tem uma quantidade razoável de musicas boas de animes pra usar nesses especiais, então esta não será a ultima vez que verão um BGMCast dedicado somente a trilhas de animes!   Playlist   Bakemonogatari – staple staple Bakemonogatari – Kimi no Shiranai Monogatari Bakemonogatari – Sugar Sweet Nightmare Beck – Genki wo Dashite [...]</itunes:summary>
 		<itunes:author>Otavio Modolo</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:11:13</itunes:duration>
 	</item>
 		<item>
 		<title>BGMCast #008 &#8211; Especial 8 bits</title>
 		<link>http://www.meujogonaosalva.net/2014/12/13/bgmcast-008-especial-8-bits/</link>
-		<comments>http://www.meujogonaosalva.net/2014/12/13/bgmcast-008-especial-8-bits/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2014/12/13/bgmcast-008-especial-8-bits/#respond</comments>
 		<pubDate>Sat, 13 Dec 2014 02:43:49 +0000</pubDate>
 		<dc:creator><![CDATA[liquuid]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -883,71 +1838,9 @@ Pressure Cooker</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2014/12/13/bgmcast-008-especial-8-bits/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/12/bgmcast-008-Especial-8bit-1.mp3" length="61677162" type="audio/mpeg" />
-		<itunes:subtitle>Nesse Episódio: - Akumajou Densetsu [NES] - Prelude Beginning Clockwork MadForest Stream Aquarius - Battletoads [NES] - Opening Turbo Tunnel Bike Race Surf City Karnath’s Lair - Power Blade 2 [NES] - X’mas Eve 2200 Delta Found Stage 3 </itunes:subtitle>
-		<itunes:summary>Nesse Episódio:
-
-Akumajou Densetsu [NES]
-
-Prelude
-Beginning
-Clockwork
-MadForest
-Stream
-Aquarius
-
-Battletoads [NES]
-
-Opening
-Turbo Tunnel Bike Race
-Surf City
-Karnath’s Lair
-
-Power Blade 2 [NES]
-
-X’mas Eve 2200 Delta Found
-Stage 3
-Stage 4 
-
-Teenage Mutant Ninja Turtles 3 [NES]
-
-Let’s Go Turtles
-City of Half Shell
-Move Out
-Turtle Power
-Theme of Half Shell
-
-Batman: Return of The Joker [NES]
-
-Title Screen
-Cathedral
-Weapon’s Plant
-
-Journey of Sillius [NES]
-
-Title Screen
-Desert Space Colony
-Terrorist Headquarters
-
-KickMaster [NES]
-
-Prologue
-The Witche’s Forest
-Across the Swamps
-A long Way From Home
-Ending
-
-VVVVVV [Indie]
-
-Potential For Anything
-Pressure Cooker
-
-Sonic [SMS]
-
-Bonus Stage
-
-Apresentação: Liquuid</itunes:summary>
+		<itunes:subtitle>Nesse Episódio: Akumajou Densetsu [NES] Prelude Beginning Clockwork MadForest Stream Aquarius Battletoads [NES] Opening Turbo Tunnel Bike Race Surf City Karnath’s Lair Power Blade 2 [NES] X’mas Eve 2200 Delta Found Stage 3 Stage 4 Teenage Mutant Ninja ...</itunes:subtitle>
+		<itunes:summary>Nesse Episódio: Akumajou Densetsu [NES] Prelude Beginning Clockwork MadForest Stream Aquarius Battletoads [NES] Opening Turbo Tunnel Bike Race Surf City Karnath’s Lair Power Blade 2 [NES] X’mas Eve 2200 Delta Found Stage 3 Stage 4 Teenage Mutant Ninja Turtles 3 [NES] Let’s Go Turtles City of Half Shell Move Out Turtle Power Theme of Half [...]</itunes:summary>
 		<itunes:author>liquuid</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:04:06</itunes:duration>
 	</item>
 		<item>
@@ -1007,60 +1900,15 @@ By The River &#8211; John Charles Fiddy</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2014/11/30/bgmcast-007/feed/</wfw:commentRss>
 		<slash:comments>4</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/11/bgmcast007.mp3" length="61578114" type="audio/mpeg" />
-		<itunes:subtitle>Especial El Chavo del 8 - The Elephants Nerver Forgets, por Jean Jacques Perrey - Flying Fists - Brian Laurence Bennett Stiff Uper Lip - Norman john Warren Holy Mackerel - por Brian Laurence Bennett Confetti - Paul Godske - BGM usada nas esquetes ...</itunes:subtitle>
-		<itunes:summary>Especial El Chavo del 8
-
-The Elephants Nerver Forgets, por Jean Jacques Perrey
-
-Flying Fists - Brian Laurence Bennett
-Stiff Uper Lip - Norman john Warren
-Holy Mackerel - por Brian Laurence Bennett
-Confetti - Paul Godske - BGM usada nas esquetes de chespirito de 82 a 92
-Happy times - por robert ascot
-Copper On The Beat - Tony Hiller
-
-Sarah - Helmut Zacharias
-Crazy Violins - Helmut Zacharias
-Honky Tonk Tango - Werner Muller
-Boosy Blues - Andrew Jackman
-Puff Along - Tony Hymas
-Pogo Stick - James Clarke
-Silly Song - Steve Gray
-
-Colored Candles - Tony Hymas
-Happy Whistler - Tony Hymas
-Tea Dance - Pete Ross Winslow
-Tara’s theme - Enoch Light &amp; The light Brigade tema de Dona Florida e Prof Girafales
-
-Braces and Boots - Alan Hawkshaw toca no episódio “Chiclete no Chapéu”
-Big Dipper - Alan Hawkshaw toca no episódio da Falta d’água
-Laugh a Minute - Alan Hawkshaw
-Farewell My Lovely - Alan Hawkshaw
-
-Time for Bed - John Charles Fiddy
-Boys - John Charles Fiddy
-Playing With Toys - John Charles Fiddy
-Cornball - John Charles Fiddy
-Walking the dog - John Charles Fiddy
-Mechanical Toys - John Charles Fiddy
-On the go - John Charles Fiddy
-In a Hurry - John Charles Fiddy
-Running Away - John Charles Fiddy
-Frightened - John Charles Fiddy
-Story Time - John Charles Fiddy
-By The River - John Charles Fiddy
-
-Mum - John Charles Fiddy
-
-Valeu Chespirito !</itunes:summary>
+		<itunes:subtitle>Especial El Chavo del 8 The Elephants Nerver Forgets, por Jean Jacques Perrey Flying Fists – Brian Laurence Bennett Stiff Uper Lip – Norman john Warren Holy Mackerel – por Brian Laurence Bennett Confetti – Paul Godske – BGM usada nas esquetes de chespi...</itunes:subtitle>
+		<itunes:summary>Especial El Chavo del 8 The Elephants Nerver Forgets, por Jean Jacques Perrey Flying Fists – Brian Laurence Bennett Stiff Uper Lip – Norman john Warren Holy Mackerel – por Brian Laurence Bennett Confetti – Paul Godske – BGM usada nas esquetes de chespirito de 82 a 92 Happy times – por robert ascot Copper [...]</itunes:summary>
 		<itunes:author>liquuid</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:02:07</itunes:duration>
 	</item>
 		<item>
 		<title>BGMCast #006</title>
 		<link>http://www.meujogonaosalva.net/2014/11/29/bgmcast-006/</link>
-		<comments>http://www.meujogonaosalva.net/2014/11/29/bgmcast-006/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2014/11/29/bgmcast-006/#respond</comments>
 		<pubDate>Sat, 29 Nov 2014 17:02:19 +0000</pubDate>
 		<dc:creator><![CDATA[liquuid]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -1107,42 +1955,15 @@ Moonlight Nocturne &#8211; Verdegrand (Castlevania Symphony of the night)</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2014/11/29/bgmcast-006/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/11/bgmcast006.mp3" length="87496664" type="audio/mpeg" />
-		<itunes:subtitle>Nesse episódio: - Tema de The Ballad of Gay Tony (GTA 4) Duck Dub Dub (Fatal Fury Special) True Fighter (Double Dragon Neo Geo CD) Down Town Demolution (Killer Instinct Xbox One) - Bloco especial: com todas as trilhas do jogo Vib-Ribbon - </itunes:subtitle>
-		<itunes:summary>Nesse episódio:
-
-Tema de The Ballad of Gay Tony (GTA 4)
-Duck Dub Dub (Fatal Fury Special)
-True Fighter (Double Dragon Neo Geo CD)
-Down Town Demolution (Killer Instinct Xbox One)
-
-Bloco especial: com todas as trilhas do jogo Vib-Ribbon
-
-Polaroid
-Sunny Day
-Universal Dance
-Overflowing Emotions
-Roll Along
-Vib-Ribbon Blues
-
-Bloco temático: Clássicos ao Piano
-
-Silent Hill - Deltagnuen (Silent Hill)
-Max Payne - Peter Johnston (Max Payne)
-Ken’s Theme - Zorsy (Street fighter 2)
-Suteki Da Ne - Kylelandry (Final Fantasy X)
-Dream Of The Shore Near Another World - Gabriel Badicel (Chrono Cross)
-Kakariko Village - Supershigi (The Legend of Zelda)
-Moonlight Nocturne - Verdegrand (Castlevania Symphony of the night)
-
-Apresentação: liquuid</itunes:summary>
+		<itunes:subtitle>Nesse episódio: Tema de The Ballad of Gay Tony (GTA 4) Duck Dub Dub (Fatal Fury Special) True Fighter (Double Dragon Neo Geo CD) Down Town Demolution (Killer Instinct Xbox One) Bloco especial: com todas as trilhas do jogo Vib-Ribbon Polaroid Sunny Day ...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Tema de The Ballad of Gay Tony (GTA 4) Duck Dub Dub (Fatal Fury Special) True Fighter (Double Dragon Neo Geo CD) Down Town Demolution (Killer Instinct Xbox One) Bloco especial: com todas as trilhas do jogo Vib-Ribbon Polaroid Sunny Day Universal Dance Overflowing Emotions Roll Along Vib-Ribbon Blues Bloco temático: Clássicos ao [...]</itunes:summary>
 		<itunes:author>liquuid</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:00:40</itunes:duration>
 	</item>
 		<item>
 		<title>BGMCast #005</title>
 		<link>http://www.meujogonaosalva.net/2014/11/22/bgmcast-005/</link>
-		<comments>http://www.meujogonaosalva.net/2014/11/22/bgmcast-005/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2014/11/22/bgmcast-005/#respond</comments>
 		<pubDate>Sat, 22 Nov 2014 18:55:36 +0000</pubDate>
 		<dc:creator><![CDATA[liquuid]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -1190,37 +2011,9 @@ The Last Soul &#8211; MegaRan (Streets of rage)</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2014/11/22/bgmcast-005/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/11/bgmcast005.mp3" length="106681408" type="audio/mpeg" />
-		<itunes:subtitle>Nesse episódio: - Start bit Festival (Super Mario Galaxy) Egg plant (Super Mario Galaxy) Wind Graden (Super Mario Galaxy) Floater Land (Super Mario Galaxy) Galaxy Plant (Super Mario Galaxy) - Contra Twin Guitar Medley - Ferdk (Contra) </itunes:subtitle>
-		<itunes:summary>Nesse episódio:
-
-Start bit Festival (Super Mario Galaxy)
-Egg plant (Super Mario Galaxy)
-Wind Graden (Super Mario Galaxy)
-Floater Land (Super Mario Galaxy)
-Galaxy Plant (Super Mario Galaxy)
-
-Contra Twin Guitar Medley - Ferdk (Contra)
-level 1 - LennartAlsing (Batletoads and double Dragon)
-level 5 - LennartAlsing (Batletoads and double Dragon)
-Snake Man - Dokaka (megaman 3)
-
-Spread the wings - SNK ( Garou )
-Flying Angel - SNK (Double Dragon Neo Geo CD)
-Crawlers (Anomaly)
-Last Boss (Art of fighting 3)
-Ingame 3 (Giana Sisters)
-
-When good Heists go Bad (Saints Row)
-Dilapidated Town - HappyFunTimeGameBand (Streets of Rage)
-Funky Heat (Street Hoop)
-Gamers Dream (Street Hoop)
-The Last Soul - MegaRan (Streets of rage)
-
-credits (giana sisters)
-
-Apresentação: liquuid</itunes:summary>
+		<itunes:subtitle>Nesse episódio: Start bit Festival (Super Mario Galaxy) Egg plant (Super Mario Galaxy) Wind Graden (Super Mario Galaxy) Floater Land (Super Mario Galaxy) Galaxy Plant (Super Mario Galaxy) Contra Twin Guitar Medley – Ferdk (Contra) level 1 – LennartAlsi...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Start bit Festival (Super Mario Galaxy) Egg plant (Super Mario Galaxy) Wind Graden (Super Mario Galaxy) Floater Land (Super Mario Galaxy) Galaxy Plant (Super Mario Galaxy) Contra Twin Guitar Medley – Ferdk (Contra) level 1 – LennartAlsing (Batletoads and double Dragon) level 5 – LennartAlsing (Batletoads and double Dragon) Snake Man – Dokaka [...]</itunes:summary>
 		<itunes:author>liquuid</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:13:59</itunes:duration>
 	</item>
 		<item>
@@ -1265,32 +2058,9 @@ Chrono Trigger &#8211; 331Erock ( Chrono Trigger )</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2014/11/14/bgmcast-004/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/11/bgmcast004.mp3" length="99770746" type="audio/mpeg" />
-		<itunes:subtitle>Nesse episódio: - Burning Blood - Capcom (Street Fighter 2) Lonely wolf  - Capcom (Street Fighter 2) Far off india - Capcom (Street Fighter 2) Legend of tiger - Capcom (Street Fighter 2) - The Banner Saga - Malukah (The Banner Saga) </itunes:subtitle>
-		<itunes:summary>Nesse episódio:
-
-Burning Blood - Capcom (Street Fighter 2)
-Lonely wolf  - Capcom (Street Fighter 2)
-Far off india - Capcom (Street Fighter 2)
-Legend of tiger - Capcom (Street Fighter 2)
-
-The Banner Saga - Malukah (The Banner Saga)
-How Can china have 4000 years of history ~ tung fu rue ~ - SNK ( Fatal Fury Special )
-Scars of time - Square ( Chrono Cross )
-
-Junk Modulation - Tri-Crescendo ( Valkyrie Profile 2 )
-Life Which Desires Death and Death which desires life - Tri-Crescendo ( Valkyrie Profile 2 )
-Never Surrender - Tri-Crescendo ( Valkyrie Profile 2 )
-An Improvisation with “Confidence in the domination” - Tri-Crescendo ( Valkyrie Profile 2 )
-Alms for the small one - Tri-Crescendo ( Valkyrie Profile 2 )
-Blossom Out for You - Tri-Crescendo ( Valkyrie Profile 2 )
-
-Wicked Child - Ferdk (Castlevania)
-Shadow of the Colossus - Ferdk (Shadow of the Colossus)
-Chrono Trigger - 331Erock ( Chrono Trigger )
-
-Apresentação: liquuid</itunes:summary>
+		<itunes:subtitle>Nesse episódio: Burning Blood – Capcom (Street Fighter 2) Lonely wolf  – Capcom (Street Fighter 2) Far off india – Capcom (Street Fighter 2) Legend of tiger – Capcom (Street Fighter 2) The Banner Saga – Malukah (The Banner Saga) How Can china have 4000...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Burning Blood – Capcom (Street Fighter 2) Lonely wolf  – Capcom (Street Fighter 2) Far off india – Capcom (Street Fighter 2) Legend of tiger – Capcom (Street Fighter 2) The Banner Saga – Malukah (The Banner Saga) How Can china have 4000 years of history ~ tung fu rue ~ – SNK ( Fatal Fury [...]</itunes:summary>
 		<itunes:author>liquuid</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:09:17</itunes:duration>
 	</item>
 		<item>
@@ -1335,36 +2105,15 @@ Credits ( James Town )</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2014/11/08/bgmcast-003/feed/</wfw:commentRss>
 		<slash:comments>9</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/11/bgmcast003.mp3" length="90998949" type="audio/mpeg" />
-		<itunes:subtitle>Nesse episódio: - Doom 3 - Intro Demon Crest Metal Cover - Bossai ( Demon&#039;s Crest ) Devils call in your heart - Taro Bando, Hajime Wakaki ( F-Zero X) Ketsu no niku bakudan / Burnov Stage - SNK ( Double Dragon Neo Geo ) </itunes:subtitle>
-		<itunes:summary>Nesse episódio:
-
-Doom 3 - Intro
-Demon Crest Metal Cover - Bossai ( Demon&#039;s Crest )
-Devils call in your heart - Taro Bando, Hajime Wakaki ( F-Zero X)
-Ketsu no niku bakudan / Burnov Stage - SNK ( Double Dragon Neo Geo )
-Three hearts as one - Malukah ( Skyrim )
-Age of Oppression - Malukah ( Skyrim )
-The dragonbonr comes - Malukah ( Skyrim )
-Tale of Tongues - Malukah ( Skyrim )
-Sonic the hedgehog medley - Ferdk ( Sonic - genesis)
-The haunted shrine  - DJMeas (pocky &amp; rocky 2)
-Kakkoii - Romain Gauthier (Edge)
-Magnet Man - Capcom (megaman 3 - NES)
-Skies theme 1 ( Sanctum )
-The Wandererers ( Sanctum )
-Glider hunt ( Sanctum )
-Cloud control ( Sanctum )
-Credits ( James Town )
-
-Apresentação: liquuid</itunes:summary>
+		<itunes:subtitle>Nesse episódio: Doom 3 – Intro Demon Crest Metal Cover – Bossai ( Demon’s Crest ) Devils call in your heart – Taro Bando, Hajime Wakaki ( F-Zero X) Ketsu no niku bakudan / Burnov Stage – SNK ( Double Dragon Neo Geo ) Three hearts as one – Malukah ( Sky...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Doom 3 – Intro Demon Crest Metal Cover – Bossai ( Demon’s Crest ) Devils call in your heart – Taro Bando, Hajime Wakaki ( F-Zero X) Ketsu no niku bakudan / Burnov Stage – SNK ( Double Dragon Neo Geo ) Three hearts as one – Malukah ( Skyrim ) Age of [...]</itunes:summary>
 		<itunes:author>liquuid</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:03:06</itunes:duration>
 	</item>
 		<item>
 		<title>SoundTest #002</title>
 		<link>http://www.meujogonaosalva.net/2014/11/01/soundtest-002/</link>
-		<comments>http://www.meujogonaosalva.net/2014/11/01/soundtest-002/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2014/11/01/soundtest-002/#respond</comments>
 		<pubDate>Sat, 01 Nov 2014 23:53:52 +0000</pubDate>
 		<dc:creator><![CDATA[liquuid]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -1399,32 +2148,15 @@ The Sunset sky part V (Fatal Fury)</p>
 			<wfw:commentRss>http://www.meujogonaosalva.net/2014/11/01/soundtest-002/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/11/SoundTest-2.mp3" length="98275497" type="audio/mpeg" />
-		<itunes:subtitle>Nesse episódio: Giana Sisters Twisted Dreams Saints Row the Third Giant Trees (Sanctum 2) Road to Seul (kof 96) Seul Town (kof 98) The way to rebirth (kof 99) Ryu Theme beatbox + violão -- BeatNStrings (Street Fighter 2) </itunes:subtitle>
-		<itunes:summary>Nesse episódio:
-Giana Sisters Twisted Dreams
-Saints Row the Third
-Giant Trees (Sanctum 2)
-Road to Seul (kof 96)
-Seul Town (kof 98)
-The way to rebirth (kof 99)
-Ryu Theme beatbox + violão -- BeatNStrings (Street Fighter 2)
-Acústico Vega -- Songe (Street Fighter 2)
-Tema Laurence Blood (Fatal Fury Realbout Special)
-Olga Breeze -Zuntata (Darius II / Sagaia )
-Daddy Mulk - Zuntata (Ninja Warriors)
-Sprinter - SST Band (Super Hang On)
-Powerdrift theme - SST Band (Powerdrift)
-Afterburner theme - SST Band (Afterburner)
-The Sunset sky part V (Fatal Fury)
-Apresentação Liquuid</itunes:summary>
+		<itunes:subtitle>Nesse episódio: Giana Sisters Twisted Dreams Saints Row the Third Giant Trees (Sanctum 2) Road to Seul (kof 96) Seul Town (kof 98) The way to rebirth (kof 99) Ryu Theme beatbox + violão — BeatNStrings (Street Fighter 2) Acústico Vega — Songe (Street Fi...</itunes:subtitle>
+		<itunes:summary>Nesse episódio: Giana Sisters Twisted Dreams Saints Row the Third Giant Trees (Sanctum 2) Road to Seul (kof 96) Seul Town (kof 98) The way to rebirth (kof 99) Ryu Theme beatbox + violão — BeatNStrings (Street Fighter 2) Acústico Vega — Songe (Street Fighter 2) Tema Laurence Blood (Fatal Fury Realbout Special) Olga Breeze -Zuntata [...]</itunes:summary>
 		<itunes:author>Liquuid</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:08:15</itunes:duration>
 	</item>
 		<item>
 		<title>SoundTest #001</title>
 		<link>http://www.meujogonaosalva.net/2014/11/01/soundtest-001/</link>
-		<comments>http://www.meujogonaosalva.net/2014/11/01/soundtest-001/#comments</comments>
+		<comments>http://www.meujogonaosalva.net/2014/11/01/soundtest-001/#respond</comments>
 		<pubDate>Sat, 01 Nov 2014 23:53:44 +0000</pubDate>
 		<dc:creator><![CDATA[liquuid]]></dc:creator>
 				<category><![CDATA[BGMCast]]></category>
@@ -1436,8 +2168,8 @@ Apresentação Liquuid</itunes:summary>
 		<category><![CDATA[Zone of the Enders e The World Ends with You]]></category>
 
 		<guid isPermaLink="false">http://www.meujogonaosalva.net/?p=532</guid>
-		<description><![CDATA[Originalmente publicado em 2012 &#8212;&#8212;&#8212;&#8212;&#8212;- Hello World!! Seja bem vindo ao Soundtest! Um podcast pra quem gosta de OSTs de jogos. Este é nosso primeiro episódio e já começamos com Gran Turismo 2, R-Type Delta, Zone of the Enders e The World Ends with You. Apresentação Liquuid e Otávio Módolo]]></description>
-				<content:encoded><![CDATA[<p><em>Originalmente publicado em 2012 <img src="//www.meujogonaosalva.net/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /></em></p>
+		<description><![CDATA[Originalmente publicado em 2012 🙂 &#8212;&#8212;&#8212;&#8212;&#8212;- Hello World!! Seja bem vindo ao Soundtest! Um podcast pra quem gosta de OSTs de jogos. Este é nosso primeiro episódio e já começamos com Gran Turismo 2, R-Type Delta, Zone of the Enders e The World Ends with You. Apresentação Liquuid e Otávio Módolo]]></description>
+				<content:encoded><![CDATA[<p><em>Originalmente publicado em 2012 <img src="https://s.w.org/images/core/emoji/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></em></p>
 <p>&#8212;&#8212;&#8212;&#8212;&#8212;-</p>
 <p>Hello World!!<br />
 Seja bem vindo ao Soundtest! Um podcast pra quem gosta de OSTs de jogos.<br />
@@ -1447,18 +2179,9 @@ Este é nosso primeiro episódio e já começamos com Gran Turismo 2, R-Type Del
 			<wfw:commentRss>http://www.meujogonaosalva.net/2014/11/01/soundtest-001/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="http://media.blubrry.com/mjns/www.meujogonaosalva.net/wp-content/uploads/2014/11/SoundTest-1.mp3" length="57521969" type="audio/mpeg" />
-		<itunes:subtitle>Originalmente publicado em 2012 :-) - ---------------- - Hello World!! Seja bem vindo ao Soundtest! Um podcast pra quem gosta de OSTs de jogos. Este é nosso primeiro episódio e já começamos com Gran Turismo 2, R-Type Delta,</itunes:subtitle>
-		<itunes:summary>Originalmente publicado em 2012 :-)
-
-----------------
-
-Hello World!!
-Seja bem vindo ao Soundtest! Um podcast pra quem gosta de OSTs de jogos.
-Este é nosso primeiro episódio e já começamos com Gran Turismo 2, R-Type Delta, Zone of the Enders e The World Ends with You.
-
-Apresentação Liquuid e Otávio Módolo</itunes:summary>
+		<itunes:subtitle>Originalmente publicado em 2012 🙂 —————- Hello World!! Seja bem vindo ao Soundtest! Um podcast pra quem gosta de OSTs de jogos. Este é nosso primeiro episódio e já começamos com Gran Turismo 2, R-Type Delta,</itunes:subtitle>
+		<itunes:summary>Originalmente publicado em 2012 🙂 —————- Hello World!! Seja bem vindo ao Soundtest! Um podcast pra quem gosta de OSTs de jogos. Este é nosso primeiro episódio e já começamos com Gran Turismo 2, R-Type Delta, Zone of the Enders e The World Ends with You. Apresentação Liquuid e Otávio Módolo</itunes:summary>
 		<itunes:author>Liquuid, Otavio Modolo</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>59:55</itunes:duration>
 	</item>
 	</channel>
