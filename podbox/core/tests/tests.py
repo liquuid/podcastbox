@@ -1,8 +1,15 @@
 # -*- coding: utf-8 -*-
 import datetime
+import doctest
+import unittest
 from django.test import TestCase
 from podbox.core.models import *
+from podbox.core import models
 
+def suite():
+    suite = unittest.TestSuite()
+    suite.addTest(doctest.DocTestSuite(models))
+    return suite
 
 class FeedTest(TestCase):
     def setUp(self):
