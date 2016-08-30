@@ -8,9 +8,6 @@ from django.db import models
 from django.contrib.auth.models import User
 from django.db.models.signals import post_save
 
-
-# from django.core.management.validation import max_length
-
 class UserProfile(models.Model):
     user = models.ForeignKey('auth.User')
     feeds = models.ManyToManyField('Feed', null=True, blank=True)
@@ -18,27 +15,22 @@ class UserProfile(models.Model):
     def __str__(self):
         return "%s's profile" % self.user
 
-
 # codigo magico
 def create_user_profile(sender, instance, created, **kwargs):
     if created:
         profile, created = UserProfile.objects.get_or_create(user=instance)
 
-
 post_save.connect(create_user_profile, sender=User)
-
 
 class UserEpisode(models.Model):
     episode = models.ForeignKey('Episode')
     is_new = models.BooleanField(default=True)
     favorite = models.BooleanField(default=False)
 
-
 class UserFeed(models.Model):
     episode = models.ForeignKey('Feed')
     favorite = models.BooleanField(default=False)
     silent = models.BooleanField(default=False)
-
 
 class Episode(models.Model):
     title = models.CharField(max_length=64)
@@ -55,7 +47,6 @@ class Episode(models.Model):
 
     def __str__(self):
         return "%s" % (self.title)
-
 
 class Category(models.Model):
     name = models.CharField(max_length=256, unique=True)
@@ -83,9 +74,9 @@ class Feed(models.Model):
             if not self._raw_feed:
                 self._raw_feed = open("feeds/%s" % md5(self.url.encode("utf-8")).hexdigest(), 'r', encoding='utf-8').read()
         except:
-            fd = open("feeds/%s" % md5(self.url.encode("utf-8")).hexdigest(), 'w')
+            fd = open('feeds/%s' % md5(self.url.encode("utf-8")).hexdigest(), 'w')
             self._raw_feed = urlopen(self.url).read()
-            fd.write(self._raw_feed)
+            fd.write(str(self._raw_feed))
             fd.close()
 
     def _get_description(self):
@@ -153,6 +144,3 @@ class Feed(models.Model):
             return self.title
         else:
             return self.url
-
-
-
