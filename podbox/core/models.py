@@ -1,5 +1,3 @@
-from django.db import models
-
 # -*- coding: utf-8 -*-
 import feedparser
 from urllib.request import urlopen
@@ -52,7 +50,7 @@ class Episode(models.Model):
     def _parse_data(self, data):
         self.title = data['title']
         self.url = data["links"][1]["href"]
-        self.updated = datetime.strptime(data['updated'][:25], "%a, %d %b %Y %H:%M:%S")
+        self.updated = datetime.strptime(data['updated'][:25].strip(), "%a, %d %b %Y %H:%M:%S")
         self.summary = data['summary']
 
     def __str__(self):
@@ -83,9 +81,9 @@ class Feed(models.Model):
     def _get_feed(self):
         try:
             if not self._raw_feed:
-                self._raw_feed = open("feeds/%s" % md5(self.url).hexdigest(), 'r').read()
+                self._raw_feed = open("feeds/%s" % md5(self.url.encode("utf-8")).hexdigest(), 'r', encoding='utf-8').read()
         except:
-            fd = open("feeds/%s" % md5(self.url).hexdigest(), 'w')
+            fd = open("feeds/%s" % md5(self.url.encode("utf-8")).hexdigest(), 'w')
             self._raw_feed = urlopen(self.url).read()
             fd.write(self._raw_feed)
             fd.close()
