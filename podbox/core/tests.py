@@ -1,7 +1,39 @@
 # -*- coding: utf-8 -*-
 import datetime
+
+from django.test import RequestFactory
 from django.test import TestCase
+from django.test import Client
 from podbox.core.models import *
+
+class HomeLoggedInUserTest(TestCase):
+    def setUp(self):
+        self.factory = RequestFactory()
+        self.request = self.factory.get('/')
+        self.user = User.objects.create_user(
+            username='liquuid',
+            email='liquuid@…',
+            password='top_secret')
+        self.user.save()
+        c = Client()
+        c.login(username='liquuid', password='top_secret')
+        self.response = c.get('/', follow=True)
+
+    def test_template(self):
+        """Must use index.html"""
+        self.assertTemplateUsed(self.response, 'index.html')
+
+    def test_login(self):
+        self.assertEqual(self.response.status_code, 200)
+
+
+
+class HomeNonLoggedInUserTest(TestCase):
+    def setUp(self):
+        self.response = self.client.get('/', follow=True)
+
+    def test_home_for_non_logged_users(self):
+        self.assertContains(self.response, 'Log in')
 
 
 class FeedTest(TestCase):
@@ -21,9 +53,6 @@ class FeedTest(TestCase):
         self.feed_pubdate_iso2 = "2011-08-31T05:30:18"
         self.feed_fake_xml1 = open("feeds/_teste1", "r", encoding='utf-8').read()
         self.feed_fake_xml2 = open("feeds/_teste2", "r", encoding='latin-1').read()
-
-    def tearDown(self):
-        pass
 
     def test_get_title(self):
 

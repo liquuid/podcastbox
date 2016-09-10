@@ -6,3 +6,6 @@ sqlite.db
 tmp
 .env
 .idea
+staticfiles
+env
+.DS_Store
