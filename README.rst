@@ -3,7 +3,7 @@ podbox
 
 To install deps: 
 
-    $ pip -E env -r deps.txt
+    $ pip -r requirements-dev.txt
 
 Config settings.py enviroment:
 
