@@ -1,10 +1,11 @@
-# -*- coding: utf-8 -*-
 import datetime
 
+from django.test import Client
 from django.test import RequestFactory
 from django.test import TestCase
-from django.test import Client
+
 from podbox.core.models import *
+
 
 class HomeLoggedInUserTest(TestCase):
     def setUp(self):
@@ -27,13 +28,35 @@ class HomeLoggedInUserTest(TestCase):
         self.assertEqual(self.response.status_code, 200)
 
 
-
 class HomeNonLoggedInUserTest(TestCase):
     def setUp(self):
         self.response = self.client.get('/', follow=True)
 
     def test_home_for_non_logged_users(self):
         self.assertContains(self.response, 'Log in')
+
+
+class EpisodeTest(TestCase):
+    def setUp(self):
+        self.title = "Episodio1"
+        self.url = "http://"
+        self.updated = datetime.datetime.now()
+        self.summary = "yadayadayadayadayada"
+        self.feeds = Feed()
+
+    def tearDown(self):
+        pass
+
+    """
+        def _parse_data(self, data):
+            self.title = data['title']
+            self.url = data["links"][1]["href"]
+            self.updated = datetime.strptime(data['updated'][:25].strip(), "%a, %d %b %Y %H:%M:%S")
+            self.summary = data['summary']
+
+        def __str__(self):
+            return "%s" % (self.title)
+    """
 
 
 class FeedTest(TestCase):
@@ -55,7 +78,6 @@ class FeedTest(TestCase):
         self.feed_fake_xml2 = open("feeds/_teste2", "r", encoding='latin-1').read()
 
     def test_get_title(self):
-
         self.feed._raw_feed = self.feed_fake_xml1
         self.assertEquals(self.feed._get_title(), self.feed_title1)
         self.feed._raw_feed = self.feed_fake_xml2
@@ -101,10 +123,10 @@ class FeedTest(TestCase):
         self.assertEquals(feed_test.description, self.feed_description1)
 
     def test_save_pubdate(self):
-        self.feed._rfc2datetime = lambda: datetime(2011, 8, 31, 5, 30,18)
+        self.feed._rfc2datetime = lambda: datetime(2011, 8, 31, 5, 30, 18)
         self.feed._save_pubdate()
         feed_test = Feed.objects.latest('id')
-        self.assertEquals(feed_test.pubdate.isoformat(), self.feed_pubdate_iso2+"+00:00")
+        self.assertEquals(feed_test.pubdate.isoformat(), self.feed_pubdate_iso2 + "+00:00")
 
     def test_url(self):
         self.assertEquals(self.feed.url, "http://fuuu/")
@@ -118,4 +140,3 @@ class FeedTest(TestCase):
     def test_rfc2datetime(self):
         self.feed._get_pubdate = lambda: self.feed_pubdate2
         self.assertEquals(self.feed._rfc2datetime().isoformat(), self.feed_pubdate_iso2)
-
