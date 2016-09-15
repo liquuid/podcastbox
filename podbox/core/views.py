@@ -5,12 +5,12 @@ from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse
 from django.shortcuts import render
 
-from podbox.core.models import *
+from podbox.core.models import UserProfile, Episode, Feed
 
 
 @login_required
 def index(request):
-    feeds = UserProfile.objects.get(user_id=request.user.id).feeds.all()
+    UserProfile.objects.get(user_id=request.user.id).feeds.all()
     return render(request, 'index.html')
 
 
