@@ -2,16 +2,17 @@
 import json
 
 from django.contrib.auth.decorators import login_required
-from django.shortcuts import render
-from django.shortcuts import render_to_response
-from django.contrib.auth.models import User
-from podbox.core.models import *
 from django.http import HttpResponse
+from django.shortcuts import render
+
+from podbox.core.models import *
+
 
 @login_required
 def index(request):
     feeds = UserProfile.objects.get(user_id=request.user.id).feeds.all()
     return render(request, 'index.html')
+
 
 @login_required
 def feed_ws(request):
@@ -23,16 +24,18 @@ def feed_ws(request):
 
     return HttpResponse(json.dumps(feeds))
 
+
 @login_required
 def user_feed_ws(request):
     feeds = {}
     for feed in UserProfile.objects.get(user_id=request.user.id).feeds.values():
         feeds[feed['id']] = {'id': feed['id'],
-                              'url': feed['url'],
-                              'silent': feed['silent'],
-                              'title': feed['title']}
+                             'url': feed['url'],
+                             'silent': feed['silent'],
+                             'title': feed['title']}
 
     return HttpResponse(json.dumps(feeds))
+
 
 @login_required
 def episodes_time_line(request):
@@ -81,6 +84,7 @@ def user_episodes_time_line(request):
                                    }
 
     return HttpResponse(json.dumps(episodes))
+
 
 @login_required
 def update_feed(request, feed_id):

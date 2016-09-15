@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from django.contrib import admin
+
 from podbox.core.models import *
 
 admin.site.register(UserProfile)

@@ -15,10 +15,12 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
+
 from podbox.core import views
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    #url(r'^feeds/$', ListView.as_view(model=Feed)),
+    # url(r'^feeds/$', ListView.as_view(model=Feed)),
     url(r'^updatefeed/(?P<feed_id>.*)$', views.update_feed),
     url(r'^feed_ws/$', views.feed_ws),
     url(r'^episodes_tl_ws/$', views.episodes_time_line),

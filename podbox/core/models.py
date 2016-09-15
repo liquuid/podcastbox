@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
-import feedparser
-from urllib.request import urlopen
-from hashlib import md5
 from datetime import datetime
+from hashlib import md5
 from time import strptime, mktime
-from django.db import models
+from urllib.request import urlopen
+
+import feedparser
 from django.contrib.auth.models import User
+from django.db import models
 from django.db.models.signals import post_save
+
 
 class UserProfile(models.Model):
     user = models.ForeignKey('auth.User')
@@ -15,22 +17,27 @@ class UserProfile(models.Model):
     def __str__(self):
         return "%s's profile" % self.user
 
+
 # codigo magico
 def create_user_profile(sender, instance, created, **kwargs):
     if created:
         profile, created = UserProfile.objects.get_or_create(user=instance)
 
+
 post_save.connect(create_user_profile, sender=User)
+
 
 class UserEpisode(models.Model):
     episode = models.ForeignKey('Episode')
     is_new = models.BooleanField(default=True)
     favorite = models.BooleanField(default=False)
 
+
 class UserFeed(models.Model):
     episode = models.ForeignKey('Feed')
     favorite = models.BooleanField(default=False)
     silent = models.BooleanField(default=False)
+
 
 class Episode(models.Model):
     title = models.CharField(max_length=64)
@@ -47,6 +54,7 @@ class Episode(models.Model):
 
     def __str__(self):
         return "%s" % (self.title)
+
 
 class Category(models.Model):
     """
@@ -78,7 +86,8 @@ class Feed(models.Model):
     def _get_feed(self):
         try:
             if not self._raw_feed:
-                self._raw_feed = open("feeds/%s" % md5(self.url.encode("utf-8")).hexdigest(), 'r', encoding='utf-8').read()
+                self._raw_feed = open("feeds/%s" % md5(self.url.encode("utf-8")).hexdigest(), 'r',
+                                      encoding='utf-8').read()
         except:
             fd = open('feeds/%s' % md5(self.url.encode("utf-8")).hexdigest(), 'w')
             self._raw_feed = urlopen(self.url).read()
