@@ -21,10 +21,10 @@ from podbox.core import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     # url(r'^feeds/$', ListView.as_view(model=Feed)),
-    url(r'^updatefeed/(?P<feed_id>.*)$', views.update_feed),
-    url(r'^feed_ws/$', views.feed_ws),
-    url(r'^episodes_tl_ws/$', views.episodes_time_line),
-    url(r'^episodes_playlist/$', views.episodes_playlist),
-    url(r'^$', views.index)
+    url(r'^updatefeed/(?P<feed_id>.*)$', views.update_feed, name='update'),
+    url(r'^feed_ws/$', views.feed_ws, name='feed'),
+    url(r'^episodes_tl_ws/$', views.episodes_time_line, name='timeline'),
+    url(r'^episodes_playlist/$', views.episodes_playlist, name='episodes'),
+    url(r'^$', views.index, name='home')
 
 ]

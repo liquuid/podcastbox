@@ -1,5 +1,6 @@
 import datetime
 
+from django.shortcuts import resolve_url
 from django.test import Client
 from django.test import RequestFactory
 from django.test import TestCase
@@ -10,7 +11,7 @@ from podbox.core.models import *
 class HomeLoggedInUserTest(TestCase):
     def setUp(self):
         self.factory = RequestFactory()
-        self.request = self.factory.get('/')
+        self.request = self.factory.get(resolve_url('home'))
         self.user = User.objects.create_user(
             username='liquuid',
             email='liquuid@…',
@@ -18,7 +19,7 @@ class HomeLoggedInUserTest(TestCase):
         self.user.save()
         c = Client()
         c.login(username='liquuid', password='top_secret')
-        self.response = c.get('/', follow=True)
+        self.response = c.get(resolve_url('home'), follow=True)
 
     def test_template(self):
         """Must use index.html"""
@@ -30,7 +31,7 @@ class HomeLoggedInUserTest(TestCase):
 
 class HomeNonLoggedInUserTest(TestCase):
     def setUp(self):
-        self.response = self.client.get('/', follow=True)
+        self.response = self.client.get(resolve_url('home'), follow=True)
 
     def test_home_for_non_logged_users(self):
         self.assertContains(self.response, 'Log in')
