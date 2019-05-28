@@ -2,7 +2,7 @@
 from datetime import datetime
 from hashlib import md5
 from time import strptime, mktime
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
 
 import feedparser
 from django.contrib.auth.models import User
@@ -90,7 +90,8 @@ class Feed(models.Model):
                                       encoding='utf-8').read()
         except:
             fd = open('feeds/%s' % md5(self.url.encode("utf-8")).hexdigest(), 'w')
-            self._raw_feed = urlopen(self.url).read()
+            req = Request(self.url, headers={'User-Agent': 'Mozilla/5.0'})
+            self._raw_feed = urlopen(req).read()
             fd.write(str(self._raw_feed))
             fd.close()
 
